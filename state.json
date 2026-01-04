@@ -260,6 +260,116 @@
       "link": "https://www.bbc.com/news/articles/c0lxprn290xo?at_medium=RSS&at_campaign=rss",
       "label": "GREEN",
       "score": 0
+    },
+    "db5aa21901a9dca08e266fdc8547c9dacb6230b6": {
+      "first_seen": "2026-01-04T23:27:32.815564+00:00",
+      "last_seen": "2026-01-04T23:27:32.815564+00:00",
+      "date": "2026-01-04",
+      "source_id": "bbc_world",
+      "title": "Bowen: Trump's action could set precedent for authoritarian powers across globe",
+      "link": "https://www.bbc.com/news/articles/c5y45nyz124o?at_medium=RSS&at_campaign=rss",
+      "label": "GREEN",
+      "score": 0
+    },
+    "5fd3f0dd8aceafa63571ef4e0b72a4e88c935951": {
+      "first_seen": "2026-01-04T23:27:32.886107+00:00",
+      "last_seen": "2026-01-04T23:27:32.886107+00:00",
+      "date": "2026-01-04",
+      "source_id": "bbc_world",
+      "title": "From Caracas 'fort' to New York court: Maduro's capture in pictures and maps",
+      "link": "https://www.bbc.com/news/articles/c5yvxnlw1pzo?at_medium=RSS&at_campaign=rss",
+      "label": "GREEN",
+      "score": 0
+    },
+    "40af8d38c2696c2ba55c340d51a0b59955667a8a": {
+      "first_seen": "2026-01-04T23:27:32.942020+00:00",
+      "last_seen": "2026-01-04T23:27:32.942020+00:00",
+      "date": "2026-01-04",
+      "source_id": "bbc_world",
+      "title": "At least 30 killed in attack on Nigeria village",
+      "link": "https://www.bbc.com/news/articles/c0r4nwy7k48o?at_medium=RSS&at_campaign=rss",
+      "label": "GREEN",
+      "score": 0
+    },
+    "6e7752cc7d0b453653b03530e9dd591a45002b2d": {
+      "first_seen": "2026-01-04T23:27:33.008090+00:00",
+      "last_seen": "2026-01-04T23:27:33.008090+00:00",
+      "date": "2026-01-04",
+      "source_id": "bbc_world",
+      "title": "Thousands stranded across Europe as Greece airspace disrupted",
+      "link": "https://www.bbc.com/news/articles/cgezjlzwz1do?at_medium=RSS&at_campaign=rss",
+      "label": "GREEN",
+      "score": 0
+    },
+    "7892d3d29a448b31a76dec6c2187b642bbfb8179": {
+      "first_seen": "2026-01-04T23:27:33.062504+00:00",
+      "last_seen": "2026-01-04T23:27:33.062504+00:00",
+      "date": "2026-01-04",
+      "source_id": "bbc_world",
+      "title": "Danish PM tells Trump to stop 'threats' against Greenland",
+      "link": "https://www.bbc.com/news/articles/c4g0zg974v1o?at_medium=RSS&at_campaign=rss",
+      "label": "GREEN",
+      "score": 0
+    },
+    "9e16962fc76da9b97043f3717db02f8527a335cb": {
+      "first_seen": "2026-01-04T23:27:33.122900+00:00",
+      "last_seen": "2026-01-04T23:27:33.122900+00:00",
+      "date": "2026-01-04",
+      "source_id": "bbc_world",
+      "title": "'Deeply shocked': World leaders react to US attack on Venezuela",
+      "link": "https://www.bbc.com/news/articles/czx1rpxzyx9o?at_medium=RSS&at_campaign=rss",
+      "label": "GREEN",
+      "score": 0
+    },
+    "c8d6589766a9e96746cd4dcaf6939351b7294e24": {
+      "first_seen": "2026-01-04T23:27:33.186856+00:00",
+      "last_seen": "2026-01-04T23:27:33.186856+00:00",
+      "date": "2026-01-04",
+      "source_id": "bbc_world",
+      "title": "Who is Cilia Flores, Venezuela's first lady captured by the US?",
+      "link": "https://www.bbc.com/news/articles/ckgl7k91nl8o?at_medium=RSS&at_campaign=rss",
+      "label": "GREEN",
+      "score": 0
+    },
+    "db4ebb5f231f97b26599af72d77f2b0fe49362c1": {
+      "first_seen": "2026-01-04T23:27:33.386028+00:00",
+      "last_seen": "2026-01-04T23:27:33.386028+00:00",
+      "date": "2026-01-04",
+      "source_id": "bbc_world",
+      "title": "Brigitte Bardot Foundation issues warning about scam memorabilia",
+      "link": "https://www.bbc.com/news/articles/c4g4vypvqvxo?at_medium=RSS&at_campaign=rss",
+      "label": "GREEN",
+      "score": 0
+    },
+    "7412b2e7ea2728f521974bb3f9b7fbea833eb38b": {
+      "first_seen": "2026-01-04T23:27:33.452769+00:00",
+      "last_seen": "2026-01-04T23:27:33.452769+00:00",
+      "date": "2026-01-04",
+      "source_id": "bbc_world",
+      "title": "Can Maduro's trusted lieutenant now work for Trump?",
+      "link": "https://www.bbc.com/news/articles/cvgx0ylzy8vo?at_medium=RSS&at_campaign=rss",
+      "label": "GREEN",
+      "score": 0
+    },
+    "e4751e807160045653c1f5c09c545641851f3e99": {
+      "first_seen": "2026-01-04T23:27:33.509168+00:00",
+      "last_seen": "2026-01-04T23:27:33.509168+00:00",
+      "date": "2026-01-04",
+      "source_id": "bbc_world",
+      "title": "Raw emotions as mourners attend Mass for Swiss bar fire victims",
+      "link": "https://www.bbc.com/news/articles/cn82l012dw6o?at_medium=RSS&at_campaign=rss",
+      "label": "GREEN",
+      "score": 0
+    },
+    "86b80d4193f9e1ba00501d416dd1b7010419345c": {
+      "first_seen": "2026-01-04T23:27:33.579741+00:00",
+      "last_seen": "2026-01-04T23:27:33.579741+00:00",
+      "date": "2026-01-04",
+      "source_id": "bbc_world",
+      "title": "Spies, drones and blowtorches: How the US captured Maduro",
+      "link": "https://www.bbc.com/news/articles/cdred61epg4o?at_medium=RSS&at_campaign=rss",
+      "label": "GREEN",
+      "score": 0
     }
   },
   "telegram": {
