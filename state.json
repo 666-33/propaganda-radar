@@ -230,6 +230,26 @@
       "link": "https://www.bbc.com/news/articles/c2057md3gvro?at_medium=RSS&at_campaign=rss",
       "label": "GREEN",
       "score": 0
+    },
+    "e29d85a49daae8a87935d0ed4ee48d9aa564e7c4": {
+      "first_seen": "2026-01-04T11:40:30.307194+00:00",
+      "last_seen": "2026-01-04T11:40:30.307194+00:00",
+      "date": "2026-01-04",
+      "source_id": "bbc_world",
+      "title": "Video shows Maduro's arrival in US and journey into custody",
+      "link": "https://www.bbc.com/news/videos/cly308pn4r8o?at_medium=RSS&at_campaign=rss",
+      "label": "GREEN",
+      "score": 0
+    },
+    "c408c0fe04fd7d3935ad0bdda5928f8caceecd09": {
+      "first_seen": "2026-01-04T11:40:30.394928+00:00",
+      "last_seen": "2026-01-04T11:40:30.394928+00:00",
+      "date": "2026-01-04",
+      "source_id": "bbc_world",
+      "title": "Watch: 'I'm so happy' - Venezuelans in the US react to Maduro's capture",
+      "link": "https://www.bbc.com/news/videos/c5y2xqgjd7eo?at_medium=RSS&at_campaign=rss",
+      "label": "GREEN",
+      "score": 0
     }
   },
   "telegram": {
