@@ -250,9 +250,19 @@
       "link": "https://www.bbc.com/news/videos/c5y2xqgjd7eo?at_medium=RSS&at_campaign=rss",
       "label": "GREEN",
       "score": 0
+    },
+    "eb1b461ca792decdc01a33f9456f9dd309e05b8e": {
+      "first_seen": "2026-01-04T14:19:41.138562+00:00",
+      "last_seen": "2026-01-04T14:19:41.138562+00:00",
+      "date": "2026-01-04",
+      "source_id": "bbc_world",
+      "title": "Schools to start reopening after Nigeria mass abduction",
+      "link": "https://www.bbc.com/news/articles/c0lxprn290xo?at_medium=RSS&at_campaign=rss",
+      "label": "GREEN",
+      "score": 0
     }
   },
   "telegram": {
-    "last_sent_date": null
+    "last_sent_date": "2026-01-04"
   }
 }
