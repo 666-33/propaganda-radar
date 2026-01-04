@@ -1,0 +1,36 @@
+global:
+  mode: aggressive
+  thresholds:
+    watch: 6
+    red: 12
+  full_text_scope: RED
+
+  request:
+    timeout_sec: 18
+    user_agent: "PropagandaRadar/0.1 (personal research)"
+    max_feed_items_per_source: 30
+
+  dedupe:
+    keep_days: 45
+
+  digest:
+    max_items_per_section: 8
+    include_green_in_md: true
+    include_green_in_telegram: false
+
+sources:
+  - id: bbc_world
+    name: BBC World
+    url: https://feeds.bbci.co.uk/news/world/rss.xml
+    policy: LEAD_3_PARAGRAPHS
+    keywords:
+      - term: propaganda
+        weight: 4
+      - term: disinformation
+        weight: 5
+    context_rules:
+      - name: Loaded language
+        patterns: ["traitor", "enemy of the people", "patriotic duty"]
+        weight: 2
+        match: any
+

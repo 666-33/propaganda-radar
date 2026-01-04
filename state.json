@@ -1,0 +1,238 @@
+{
+  "version": 1,
+  "seen": {
+    "a6321d8b196c1072b1ed7336df135063b211ce5f": {
+      "first_seen": "2026-01-04T10:11:23.544309+00:00",
+      "last_seen": "2026-01-04T10:11:23.544309+00:00",
+      "date": "2026-01-04",
+      "source_id": "bbc_world",
+      "title": "Trump says US will 'run' Venezuela and 'fix oil infrastructure'"
+    },
+    "56eff4f1575248faa5b10bbebab9d0f84a06acee": {
+      "first_seen": "2026-01-04T10:11:23.544333+00:00",
+      "last_seen": "2026-01-04T10:11:23.544333+00:00",
+      "date": "2026-01-04",
+      "source_id": "bbc_world",
+      "title": "Spies, drones and blowtorches: How the US captured Maduro"
+    },
+    "51fc709f1adf66cbc26ffb3dbfa8c36929081675": {
+      "first_seen": "2026-01-04T10:11:23.544349+00:00",
+      "last_seen": "2026-01-04T10:11:23.544349+00:00",
+      "date": "2026-01-04",
+      "source_id": "bbc_world",
+      "title": "'Deeply shocked': World leaders react to US attack on Venezuela"
+    },
+    "a47c4ec6e58f784338ccacb0e323edb9f90874eb": {
+      "first_seen": "2026-01-04T10:11:23.544364+00:00",
+      "last_seen": "2026-01-04T10:11:23.544364+00:00",
+      "date": "2026-01-04",
+      "source_id": "bbc_world",
+      "title": "'A long road ahead': Venezuelans react to Maduro's arrest with hope and worry"
+    },
+    "a2fccf1f92d94da25ce596e633816ed89efb1a8f": {
+      "first_seen": "2026-01-04T10:11:23.544380+00:00",
+      "last_seen": "2026-01-04T10:11:23.544380+00:00",
+      "date": "2026-01-04",
+      "source_id": "bbc_world",
+      "title": "Police identify 16 more victims of Swiss bar fire"
+    },
+    "e5e5458ce61824b4876b34304c82aee86dba6605": {
+      "first_seen": "2026-01-04T10:11:23.544394+00:00",
+      "last_seen": "2026-01-04T10:11:23.544394+00:00",
+      "date": "2026-01-04",
+      "source_id": "bbc_world",
+      "title": "Brigitte Bardot Foundation issues warning about scam memorabilia"
+    },
+    "3c0c5d596bc00ed8d2e21bf6d2e0764ba9985ee9": {
+      "first_seen": "2026-01-04T10:11:23.544412+00:00",
+      "last_seen": "2026-01-04T10:11:23.544412+00:00",
+      "date": "2026-01-04",
+      "source_id": "bbc_world",
+      "title": "Trump warning over Iran protests 'reckless' says foreign minister"
+    },
+    "a81b307d031a6cd2388e2d42d6b4aa2595f3638f": {
+      "first_seen": "2026-01-04T10:11:23.544426+00:00",
+      "last_seen": "2026-01-04T10:11:23.544426+00:00",
+      "date": "2026-01-04",
+      "source_id": "bbc_world",
+      "title": "Wicked composer latest to cancel Kennedy Center gig after Trump name change"
+    },
+    "c27f4b86780ea0b282005de7db01d9a562b0df2d": {
+      "first_seen": "2026-01-04T10:11:23.544440+00:00",
+      "last_seen": "2026-01-04T10:11:23.544440+00:00",
+      "date": "2026-01-04",
+      "source_id": "bbc_world",
+      "title": "UK and France bomb underground IS arms bunker in Syria"
+    },
+    "647516f1643ae206f3044d55f783a18e0eb6ef41": {
+      "first_seen": "2026-01-04T10:11:23.544454+00:00",
+      "last_seen": "2026-01-04T10:11:23.544454+00:00",
+      "date": "2026-01-04",
+      "source_id": "bbc_world",
+      "title": "More than 100 shelter overnight in Japan shrine due to heavy snow"
+    },
+    "967097e5d2764d16f1fef7b5b417958a49fa13ad": {
+      "first_seen": "2026-01-04T10:11:23.544468+00:00",
+      "last_seen": "2026-01-04T10:11:23.544468+00:00",
+      "date": "2026-01-04",
+      "source_id": "bbc_world",
+      "title": "Saudi Arabia calls for Yemeni factions to attend 'dialogue' in Riyadh"
+    },
+    "832b5e336d170acf801712db8b7fca553a94742d": {
+      "first_seen": "2026-01-04T10:11:23.544482+00:00",
+      "last_seen": "2026-01-04T10:11:23.544482+00:00",
+      "date": "2026-01-04",
+      "source_id": "bbc_world",
+      "title": "Missile attack on Kharkiv kills two including child, authorities say"
+    },
+    "5c5f7031bbcec77e8c4d13c702d4e93f31d73b11": {
+      "first_seen": "2026-01-04T10:11:23.544503+00:00",
+      "last_seen": "2026-01-04T10:11:23.544503+00:00",
+      "date": "2026-01-04",
+      "source_id": "bbc_world",
+      "title": "BBC reaches agreement with Israeli family for filming in home after 7 October without consent"
+    },
+    "129a1ed699b12d0f210a016849fe94a0f0cb2cd2": {
+      "first_seen": "2026-01-04T10:11:23.544517+00:00",
+      "last_seen": "2026-01-04T10:11:23.544517+00:00",
+      "date": "2026-01-04",
+      "source_id": "bbc_world",
+      "title": "Swiss open criminal case against managers of ski resort bar after deadly fire"
+    },
+    "3b1df56503d2d3913b8ee862d6ff258742d91797": {
+      "first_seen": "2026-01-04T10:11:23.544530+00:00",
+      "last_seen": "2026-01-04T10:11:23.544530+00:00",
+      "date": "2026-01-04",
+      "source_id": "bbc_world",
+      "title": "Two people killed in magnitude 6.5 earthquake in Mexico"
+    },
+    "9576b944b81def629b2c03ecf1a06b6ac3ceee65": {
+      "first_seen": "2026-01-04T10:11:23.544543+00:00",
+      "last_seen": "2026-01-04T10:11:23.544543+00:00",
+      "date": "2026-01-04",
+      "source_id": "bbc_world",
+      "title": "Craig the beer-ambassador elephant dies aged 54"
+    },
+    "cc8cabfce7951e41f7d08f0269f4540b476cf8f3": {
+      "first_seen": "2026-01-04T10:11:23.544556+00:00",
+      "last_seen": "2026-01-04T10:11:23.544556+00:00",
+      "date": "2026-01-04",
+      "source_id": "bbc_world",
+      "title": "Who's in charge of Venezuela and what happens next?"
+    },
+    "47617b1bae58b55e5d66249920fb86767065eba2": {
+      "first_seen": "2026-01-04T10:11:23.544569+00:00",
+      "last_seen": "2026-01-04T10:11:23.544569+00:00",
+      "date": "2026-01-04",
+      "source_id": "bbc_world",
+      "title": "Trump's toppling of Maduro is fraught with risk - what happens next is unclear"
+    },
+    "d5cabcc0cd4dbac4c06a4d9dea8f3bb81a73f3ff": {
+      "first_seen": "2026-01-04T10:11:23.544583+00:00",
+      "last_seen": "2026-01-04T10:11:23.544583+00:00",
+      "date": "2026-01-04",
+      "source_id": "bbc_world",
+      "title": "Why has Trump attacked Venezuela and taken Maduro?"
+    },
+    "212618c02b2b7a84141357aafb74be21cf4100b8": {
+      "first_seen": "2026-01-04T10:11:23.544596+00:00",
+      "last_seen": "2026-01-04T10:11:23.544596+00:00",
+      "date": "2026-01-04",
+      "source_id": "bbc_world",
+      "title": "How UK plush toy Jellycat conquered China"
+    },
+    "5a3b6259cda881a269e464bda012ff0608763d45": {
+      "first_seen": "2026-01-04T10:11:23.544610+00:00",
+      "last_seen": "2026-01-04T10:11:23.544610+00:00",
+      "date": "2026-01-04",
+      "source_id": "bbc_world",
+      "title": "'Somewhere to put worker bees': Why Canada's micro-condos are losing their appeal"
+    },
+    "6c85997db3b816d968b757c0ff16f13d47ddeb14": {
+      "first_seen": "2026-01-04T10:11:23.544628+00:00",
+      "last_seen": "2026-01-04T10:11:23.544628+00:00",
+      "date": "2026-01-04",
+      "source_id": "bbc_world",
+      "title": "Four challenges facing New York City Mayor Mamdani"
+    },
+    "52a260b4fa0aec7149b81742e261f0857e1de62b": {
+      "first_seen": "2026-01-04T10:11:23.544642+00:00",
+      "last_seen": "2026-01-04T10:11:23.544642+00:00",
+      "date": "2026-01-04",
+      "source_id": "bbc_world",
+      "title": "Trump on Venezuela: 'We are going to run the country'"
+    },
+    "b0b84d4a5ce8739668d73c74354e9b76d06a3962": {
+      "first_seen": "2026-01-04T10:11:23.544658+00:00",
+      "last_seen": "2026-01-04T10:11:23.544658+00:00",
+      "date": "2026-01-04",
+      "source_id": "bbc_world",
+      "title": "Explosions and smoke at La Guaira port"
+    },
+    "ff31dcab20855388cd9505f5888f8ff65a1d7523": {
+      "first_seen": "2026-01-04T10:11:23.544671+00:00",
+      "last_seen": "2026-01-04T10:11:23.544671+00:00",
+      "date": "2026-01-04",
+      "source_id": "bbc_world",
+      "title": "Reporter in Caracas describes hearing loud bangs and planes"
+    },
+    "a9547103537cf8364655804f900b1294a6182c6c": {
+      "first_seen": "2026-01-04T10:11:23.544683+00:00",
+      "last_seen": "2026-01-04T10:11:23.544683+00:00",
+      "date": "2026-01-04",
+      "source_id": "bbc_world",
+      "title": "Watch: Over 100 firefighters on the scene of Denver blaze"
+    },
+    "57243cf4801afa6660f7ab613ef57bae5defcf33": {
+      "first_seen": "2026-01-04T10:11:23.544696+00:00",
+      "last_seen": "2026-01-04T10:11:23.544696+00:00",
+      "date": "2026-01-04",
+      "source_id": "bbc_world",
+      "title": "Watch: Earthquake interrupts Mexico's president during news conference"
+    },
+    "c3857be969a02113341a1fd340485871e14dadd3": {
+      "first_seen": "2026-01-04T10:11:23.544709+00:00",
+      "last_seen": "2026-01-04T10:11:23.544709+00:00",
+      "date": "2026-01-04",
+      "source_id": "bbc_world",
+      "title": "Sailors saved from going over edge of huge dam"
+    },
+    "7a14bf68cb16aa44eb89d2756980770cd8713df2": {
+      "first_seen": "2026-01-04T10:11:23.544722+00:00",
+      "last_seen": "2026-01-04T10:11:23.544722+00:00",
+      "date": "2026-01-04",
+      "source_id": "bbc_world",
+      "title": "Watch: Moment 400-pound runaway prop injures Disney employee"
+    },
+    "3341534d60cf7159aaac69d61c24031d4e0c9cc5": {
+      "first_seen": "2026-01-04T10:11:23.544735+00:00",
+      "last_seen": "2026-01-04T10:11:23.544735+00:00",
+      "date": "2026-01-04",
+      "source_id": "bbc_world",
+      "title": "What are Russians hoping for in 2026, asks Steve Rosenberg"
+    },
+    "65102cb73d1d79dd2c95e990d6fc8dde01f6fac1": {
+      "first_seen": "2026-01-04T10:24:43.302076+00:00",
+      "last_seen": "2026-01-04T10:24:43.302076+00:00",
+      "date": "2026-01-04",
+      "source_id": "bbc_world",
+      "title": "Wicked composer latest to cancel Kennedy Center gig after Trump name change",
+      "link": "https://www.bbc.com/news/articles/c5y2r0yvj25o?at_medium=RSS&at_campaign=rss",
+      "label": "GREEN",
+      "score": 0
+    },
+    "132c672b693c54e6fe5e7a9bbbbc159ce8d30770": {
+      "first_seen": "2026-01-04T10:24:43.480625+00:00",
+      "last_seen": "2026-01-04T10:24:43.480625+00:00",
+      "date": "2026-01-04",
+      "source_id": "bbc_world",
+      "title": "Trump warning over Iran protests 'reckless' says foreign minister",
+      "link": "https://www.bbc.com/news/articles/c2057md3gvro?at_medium=RSS&at_campaign=rss",
+      "label": "GREEN",
+      "score": 0
+    }
+  },
+  "telegram": {
+    "last_sent_date": null
+  }
+}
