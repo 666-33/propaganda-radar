@@ -500,6 +500,96 @@
       "link": "https://www.bbc.com/news/articles/cpq4x0rw4vyo?at_medium=RSS&at_campaign=rss",
       "label": "GREEN",
       "score": 0
+    },
+    "8abf1a8df958dfe4f24af7c69270d5878594e830": {
+      "first_seen": "2026-01-05T23:27:59.780783+00:00",
+      "last_seen": "2026-01-05T23:27:59.780783+00:00",
+      "date": "2026-01-05",
+      "source_id": "bbc_world",
+      "title": "Venezuela swears in interim president after defiant Maduro pleads not guilty in US court",
+      "link": "https://www.bbc.com/news/articles/ce8gen8nnvlo?at_medium=RSS&at_campaign=rss",
+      "label": "GREEN",
+      "score": 0
+    },
+    "3af623dc5cca0520f915659d3d85a2c2c49e900a": {
+      "first_seen": "2026-01-05T23:27:59.863268+00:00",
+      "last_seen": "2026-01-05T23:27:59.863268+00:00",
+      "date": "2026-01-05",
+      "source_id": "bbc_world",
+      "title": "'I'm a prisoner of war' - In the room for Maduro's dramatic court hearing",
+      "link": "https://www.bbc.com/news/articles/cq6v25eldmdo?at_medium=RSS&at_campaign=rss",
+      "label": "GREEN",
+      "score": 0
+    },
+    "25f8f194011c8bebbf14878ce892b75bba4b5109": {
+      "first_seen": "2026-01-05T23:27:59.945521+00:00",
+      "last_seen": "2026-01-05T23:27:59.945521+00:00",
+      "date": "2026-01-05",
+      "source_id": "bbc_world",
+      "title": "All 116 injured in Swiss ski resort fire identified",
+      "link": "https://www.bbc.com/news/articles/c62w3zpl4ldo?at_medium=RSS&at_campaign=rss",
+      "label": "GREEN",
+      "score": 0
+    },
+    "916359308c33321ef7f39d84a3eff9edc648b33f": {
+      "first_seen": "2026-01-05T23:28:00.030823+00:00",
+      "last_seen": "2026-01-05T23:28:00.030823+00:00",
+      "date": "2026-01-05",
+      "source_id": "bbc_world",
+      "title": "South Korea's Lee Jae Myung meets China's Xi as he seeks to reset ties",
+      "link": "https://www.bbc.com/news/articles/c70lw9x581no?at_medium=RSS&at_campaign=rss",
+      "label": "GREEN",
+      "score": 0
+    },
+    "84bde6cee0e6a4fbb9594b01dc95c6022b8110c0": {
+      "first_seen": "2026-01-05T23:28:00.112260+00:00",
+      "last_seen": "2026-01-05T23:28:00.112260+00:00",
+      "date": "2026-01-05",
+      "source_id": "bbc_world",
+      "title": "'We need Greenland': Trump repeats threat to annex Danish territory",
+      "link": "https://www.bbc.com/news/articles/c4g0zg974v1o?at_medium=RSS&at_campaign=rss",
+      "label": "GREEN",
+      "score": 0
+    },
+    "46e8ddeb6d167e0d11dfe6f5754551bbd2bb098c": {
+      "first_seen": "2026-01-05T23:28:00.203540+00:00",
+      "last_seen": "2026-01-05T23:28:00.203540+00:00",
+      "date": "2026-01-05",
+      "source_id": "bbc_world",
+      "title": "Cuba defiant as it braces for post-Maduro era",
+      "link": "https://www.bbc.com/news/articles/cz9vg0w9w28o?at_medium=RSS&at_campaign=rss",
+      "label": "GREEN",
+      "score": 0
+    },
+    "3e166c1170d189c957e317d023f0b60dc4032081": {
+      "first_seen": "2026-01-05T23:28:00.284935+00:00",
+      "last_seen": "2026-01-05T23:28:00.284935+00:00",
+      "date": "2026-01-05",
+      "source_id": "bbc_world",
+      "title": "US sharply criticised by foes and friends over Maduro seizure",
+      "link": "https://www.bbc.com/news/articles/cwy1812n13eo?at_medium=RSS&at_campaign=rss",
+      "label": "GREEN",
+      "score": 0
+    },
+    "9938742b7001c43bd852bde71ccc921bd500517a": {
+      "first_seen": "2026-01-05T23:28:00.378896+00:00",
+      "last_seen": "2026-01-05T23:28:00.378896+00:00",
+      "date": "2026-01-05",
+      "source_id": "bbc_world",
+      "title": "Trump's seizure of Maduro raises thorny legal questions, in US and abroad",
+      "link": "https://www.bbc.com/news/articles/cr4krkz7242o?at_medium=RSS&at_campaign=rss",
+      "label": "GREEN",
+      "score": 0
+    },
+    "ccf3af6adf873b3abeed78665ec5a366f72d880d": {
+      "first_seen": "2026-01-05T23:28:00.492237+00:00",
+      "last_seen": "2026-01-05T23:28:00.492237+00:00",
+      "date": "2026-01-05",
+      "source_id": "bbc_world",
+      "title": "Watch: What it was like in the courtroom at Maduro's hearing",
+      "link": "https://www.bbc.com/news/videos/cy05933de12o?at_medium=RSS&at_campaign=rss",
+      "label": "GREEN",
+      "score": 0
     }
   },
   "telegram": {
