@@ -460,9 +460,49 @@
       "link": "https://www.bbc.com/news/articles/c78v984ywgeo?at_medium=RSS&at_campaign=rss",
       "label": "GREEN",
       "score": 0
+    },
+    "b0d6dbc937cebe114e0d838d4a71b6256ada04b2": {
+      "first_seen": "2026-01-05T14:26:46.840965+00:00",
+      "last_seen": "2026-01-05T14:26:46.840965+00:00",
+      "date": "2026-01-05",
+      "source_id": "bbc_world",
+      "title": "Ten found guilty of cyber-bullying Brigitte Macron",
+      "link": "https://www.bbc.com/news/articles/c78v6z7597yo?at_medium=RSS&at_campaign=rss",
+      "label": "GREEN",
+      "score": 0
+    },
+    "19a79adcac179076eaa70d9709d8d78075a18033": {
+      "first_seen": "2026-01-05T14:26:46.939571+00:00",
+      "last_seen": "2026-01-05T14:26:46.939571+00:00",
+      "date": "2026-01-05",
+      "source_id": "bbc_world",
+      "title": "Bluefin tuna fetches record $3.2m at Tokyo auction",
+      "link": "https://www.bbc.com/news/articles/c8d0q16zvzgo?at_medium=RSS&at_campaign=rss",
+      "label": "GREEN",
+      "score": 0
+    },
+    "0b9ef9c7dc50ba938a91421b9df366d4dddf0862": {
+      "first_seen": "2026-01-05T14:26:47.068947+00:00",
+      "last_seen": "2026-01-05T14:26:47.068947+00:00",
+      "date": "2026-01-05",
+      "source_id": "bbc_world",
+      "title": "Bowen: Trump's action could set precedent for authoritarian powers across globe",
+      "link": "https://www.bbc.com/news/articles/c5y45nyz124o?at_medium=RSS&at_campaign=rss",
+      "label": "GREEN",
+      "score": 0
+    },
+    "6b739b56a22871dc544a20add66caed2d8e4c41a": {
+      "first_seen": "2026-01-05T14:26:47.181388+00:00",
+      "last_seen": "2026-01-05T14:26:47.181388+00:00",
+      "date": "2026-01-05",
+      "source_id": "bbc_world",
+      "title": "India wants more passenger jets. Can it also build them?",
+      "link": "https://www.bbc.com/news/articles/cpq4x0rw4vyo?at_medium=RSS&at_campaign=rss",
+      "label": "GREEN",
+      "score": 0
     }
   },
   "telegram": {
-    "last_sent_date": "2026-01-04"
+    "last_sent_date": "2026-01-05"
   }
 }
