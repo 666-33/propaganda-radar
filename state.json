@@ -370,6 +370,76 @@
       "link": "https://www.bbc.com/news/articles/cdred61epg4o?at_medium=RSS&at_campaign=rss",
       "label": "GREEN",
       "score": 0
+    },
+    "4b66ad4b82ac013cf70a134e792a692eb9bd5ab2": {
+      "first_seen": "2026-01-05T04:20:25.069502+00:00",
+      "last_seen": "2026-01-05T04:20:25.069502+00:00",
+      "date": "2026-01-05",
+      "source_id": "bbc_world",
+      "title": "Trump warns new Venezuelan leader as Maduro set to appear in court",
+      "link": "https://www.bbc.com/news/articles/ckgnxvp477eo?at_medium=RSS&at_campaign=rss",
+      "label": "GREEN",
+      "score": 0
+    },
+    "d466251001800c18a3b057819c18fd7d8995e71f": {
+      "first_seen": "2026-01-05T04:20:25.146569+00:00",
+      "last_seen": "2026-01-05T04:20:25.146569+00:00",
+      "date": "2026-01-05",
+      "source_id": "bbc_world",
+      "title": "South Korea's Lee Jae Myung to meet China's Xi in reset of relations",
+      "link": "https://www.bbc.com/news/articles/c70lw9x581no?at_medium=RSS&at_campaign=rss",
+      "label": "GREEN",
+      "score": 0
+    },
+    "0ef00e20daee14d5ad0c5e9de1efe6b898a5f88e": {
+      "first_seen": "2026-01-05T04:20:25.220417+00:00",
+      "last_seen": "2026-01-05T04:20:25.220417+00:00",
+      "date": "2026-01-05",
+      "source_id": "bbc_world",
+      "title": "Activist group says it was behind Berlin fire that cut power to thousands",
+      "link": "https://www.bbc.com/news/articles/c78v984ywgeo?at_medium=RSS&at_campaign=rss",
+      "label": "GREEN",
+      "score": 0
+    },
+    "66b662502db74d809a8b97430fa76fec0177e967": {
+      "first_seen": "2026-01-05T04:20:25.292614+00:00",
+      "last_seen": "2026-01-05T04:20:25.292614+00:00",
+      "date": "2026-01-05",
+      "source_id": "bbc_world",
+      "title": "At least 30 killed in attack on Nigeria village",
+      "link": "https://www.bbc.com/news/articles/c0r4nwy7k48o?at_medium=RSS&at_campaign=rss",
+      "label": "GREEN",
+      "score": 0
+    },
+    "e547a156cd0ba61efbe47b67e99785dd6a31fa38": {
+      "first_seen": "2026-01-05T04:20:25.366916+00:00",
+      "last_seen": "2026-01-05T04:20:25.366916+00:00",
+      "date": "2026-01-05",
+      "source_id": "bbc_world",
+      "title": "Thousands stranded across Europe as Greece airspace disrupted",
+      "link": "https://www.bbc.com/news/articles/cgezjlzwz1do?at_medium=RSS&at_campaign=rss",
+      "label": "GREEN",
+      "score": 0
+    },
+    "95ec0dafceb93474124abca0330efaa5ae34e026": {
+      "first_seen": "2026-01-05T04:20:25.440862+00:00",
+      "last_seen": "2026-01-05T04:20:25.440862+00:00",
+      "date": "2026-01-05",
+      "source_id": "bbc_world",
+      "title": "The French university where spies go for training",
+      "link": "https://www.bbc.com/news/articles/c98nqeqnylro?at_medium=RSS&at_campaign=rss",
+      "label": "GREEN",
+      "score": 0
+    },
+    "7d8c2c7e5b2b2abe130112cf37cc9629897a99bc": {
+      "first_seen": "2026-01-05T04:20:25.510558+00:00",
+      "last_seen": "2026-01-05T04:20:25.510558+00:00",
+      "date": "2026-01-05",
+      "source_id": "bbc_world",
+      "title": "South Korea's 'movie of the year' is an indie story about a teen's trauma",
+      "link": "https://www.bbc.com/news/articles/cjrz3dey7lxo?at_medium=RSS&at_campaign=rss",
+      "label": "GREEN",
+      "score": 0
     }
   },
   "telegram": {
