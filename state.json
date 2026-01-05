@@ -440,6 +440,26 @@
       "link": "https://www.bbc.com/news/articles/cjrz3dey7lxo?at_medium=RSS&at_campaign=rss",
       "label": "GREEN",
       "score": 0
+    },
+    "a9afdacd52d266e87a92c227728316fc8f676f9e": {
+      "first_seen": "2026-01-05T09:21:29.925069+00:00",
+      "last_seen": "2026-01-05T09:21:29.925069+00:00",
+      "date": "2026-01-05",
+      "source_id": "bbc_world",
+      "title": "Thirty-two Cubans killed during US attack on Venezuela",
+      "link": "https://www.bbc.com/news/articles/cj9r0eyw0jno?at_medium=RSS&at_campaign=rss",
+      "label": "GREEN",
+      "score": 0
+    },
+    "e0193fd133b55a4b2502668f1925911ad063ab0f": {
+      "first_seen": "2026-01-05T09:21:29.972271+00:00",
+      "last_seen": "2026-01-05T09:21:29.972271+00:00",
+      "date": "2026-01-05",
+      "source_id": "bbc_world",
+      "title": "Activist group says it was behind Berlin fire that cut power to thousands",
+      "link": "https://www.bbc.com/news/articles/c78v984ywgeo?at_medium=RSS&at_campaign=rss",
+      "label": "GREEN",
+      "score": 0
     }
   },
   "telegram": {
