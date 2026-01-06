@@ -590,6 +590,166 @@
       "link": "https://www.bbc.com/news/videos/cy05933de12o?at_medium=RSS&at_campaign=rss",
       "label": "GREEN",
       "score": 0
+    },
+    "c96b47ac58ba037ebe01fe5bd90d0260fdec0e09": {
+      "first_seen": "2026-01-06T09:16:53.831897+00:00",
+      "last_seen": "2026-01-06T09:16:53.831897+00:00",
+      "date": "2026-01-06",
+      "source_id": "bbc_world",
+      "title": "Cuba defiant as it braces for post-Maduro era",
+      "link": "https://www.bbc.com/news/articles/cz9vg0w9w28o?at_medium=RSS&at_campaign=rss",
+      "label": "GREEN",
+      "score": 0
+    },
+    "26890f859a1b7bb674d3c76eb58eeaaba849efbf": {
+      "first_seen": "2026-01-06T09:16:53.879372+00:00",
+      "last_seen": "2026-01-06T09:16:53.879372+00:00",
+      "date": "2026-01-06",
+      "source_id": "bbc_world",
+      "title": "Nvidia unveils 'reasoning' AI technology for self-driving cars",
+      "link": "https://www.bbc.com/news/articles/c0jv1vd571wo?at_medium=RSS&at_campaign=rss",
+      "label": "GREEN",
+      "score": 0
+    },
+    "111763483649ba70a8576eca0590bd0f89704580": {
+      "first_seen": "2026-01-06T09:16:53.958649+00:00",
+      "last_seen": "2026-01-06T09:16:53.958649+00:00",
+      "date": "2026-01-06",
+      "source_id": "bbc_world",
+      "title": "Skiers create heart-shaped tribute for Switzerland fire victims",
+      "link": "https://www.bbc.com/news/videos/cdxj907qgvzo?at_medium=RSS&at_campaign=rss",
+      "label": "GREEN",
+      "score": 0
+    },
+    "eb74f0344412beac9eec25b0f2912af05dc3a8d8": {
+      "first_seen": "2026-01-06T09:16:54.013794+00:00",
+      "last_seen": "2026-01-06T09:16:54.013794+00:00",
+      "date": "2026-01-06",
+      "source_id": "bbc_world",
+      "title": "Central African Republic president  wins third term by landslide",
+      "link": "https://www.bbc.com/news/articles/c0q40xg3j0jo?at_medium=RSS&at_campaign=rss",
+      "label": "GREEN",
+      "score": 0
+    },
+    "f495074ccbf69c27333b3c4d2a3f03903609ce1a": {
+      "first_seen": "2026-01-06T09:16:54.064463+00:00",
+      "last_seen": "2026-01-06T09:16:54.064463+00:00",
+      "date": "2026-01-06",
+      "source_id": "bbc_world",
+      "title": "Netflix pulls Chinese drama after Vietnam's outcry over disputed map",
+      "link": "https://www.bbc.com/news/articles/c301n41518do?at_medium=RSS&at_campaign=rss",
+      "label": "GREEN",
+      "score": 0
+    },
+    "10854e95ec9be1c8f31c56f639778a3164a55939": {
+      "first_seen": "2026-01-06T09:16:54.109957+00:00",
+      "last_seen": "2026-01-06T09:16:54.109957+00:00",
+      "date": "2026-01-06",
+      "source_id": "bbc_world",
+      "title": "Canada's Chrystia Freeland to quit as MP and become adviser to Zelensky",
+      "link": "https://www.bbc.com/news/articles/c24gngzr4ero?at_medium=RSS&at_campaign=rss",
+      "label": "GREEN",
+      "score": 0
+    },
+    "d4f50be1055b55d148b952ad7bf06c81ceb3be5d": {
+      "first_seen": "2026-01-06T09:16:54.167305+00:00",
+      "last_seen": "2026-01-06T09:16:54.167305+00:00",
+      "date": "2026-01-06",
+      "source_id": "bbc_world",
+      "title": "Protests and US warnings shake Iran at its weakest point in years",
+      "link": "https://www.bbc.com/news/articles/cn564q0vgvxo?at_medium=RSS&at_campaign=rss",
+      "label": "GREEN",
+      "score": 0
+    },
+    "3781b6e029df993b56fef320b384011a84b1cb5d": {
+      "first_seen": "2026-01-06T09:16:54.219141+00:00",
+      "last_seen": "2026-01-06T09:16:54.219141+00:00",
+      "date": "2026-01-06",
+      "source_id": "bbc_world",
+      "title": "Ten found guilty of cyber-bullying Brigitte Macron",
+      "link": "https://www.bbc.com/news/articles/c78v6z7597yo?at_medium=RSS&at_campaign=rss",
+      "label": "GREEN",
+      "score": 0
+    },
+    "632ed9aeabd6a570ce2ee4dd295531087e74f267": {
+      "first_seen": "2026-01-06T09:16:54.272455+00:00",
+      "last_seen": "2026-01-06T09:16:54.272455+00:00",
+      "date": "2026-01-06",
+      "source_id": "bbc_world",
+      "title": "Thirty-two Cubans killed during US attack on Venezuela",
+      "link": "https://www.bbc.com/news/articles/cj9r0eyw0jno?at_medium=RSS&at_campaign=rss",
+      "label": "GREEN",
+      "score": 0
+    },
+    "8aafdd7e37fbd49e321b34ff3a6e2b278dfc2c8c": {
+      "first_seen": "2026-01-06T09:16:54.322781+00:00",
+      "last_seen": "2026-01-06T09:16:54.322781+00:00",
+      "date": "2026-01-06",
+      "source_id": "bbc_world",
+      "title": "All 116 injured in Swiss ski resort fire identified",
+      "link": "https://www.bbc.com/news/articles/c62w3zpl4ldo?at_medium=RSS&at_campaign=rss",
+      "label": "GREEN",
+      "score": 0
+    },
+    "942fbccbedc2bc6a8f0d5c804ca266a36aada03c": {
+      "first_seen": "2026-01-06T09:16:54.382474+00:00",
+      "last_seen": "2026-01-06T09:16:54.382474+00:00",
+      "date": "2026-01-06",
+      "source_id": "bbc_world",
+      "title": "Why does Trump want Greenland and what do its people think?",
+      "link": "https://www.bbc.com/news/articles/c74x4m71pmjo?at_medium=RSS&at_campaign=rss",
+      "label": "GREEN",
+      "score": 0
+    },
+    "54b56bc3d5402fe4eb1358e66144beaea5b2cf5e": {
+      "first_seen": "2026-01-06T09:16:54.448825+00:00",
+      "last_seen": "2026-01-06T09:16:54.448825+00:00",
+      "date": "2026-01-06",
+      "source_id": "bbc_world",
+      "title": "Unbearably long wait for justice leaves South African families in limbo",
+      "link": "https://www.bbc.com/news/articles/cx2drqwg32do?at_medium=RSS&at_campaign=rss",
+      "label": "GREEN",
+      "score": 0
+    },
+    "7593160ce7a60ccf70cfa58e731e991b313ae2bd": {
+      "first_seen": "2026-01-06T09:16:54.509943+00:00",
+      "last_seen": "2026-01-06T09:16:54.509943+00:00",
+      "date": "2026-01-06",
+      "source_id": "bbc_world",
+      "title": "The 'magical' blue flower changing farmers' fortunes in India",
+      "link": "https://www.bbc.com/news/articles/clyxln49760o?at_medium=RSS&at_campaign=rss",
+      "label": "GREEN",
+      "score": 0
+    },
+    "1442b9337e4d7da4b2eb0363f02382a085c9b764": {
+      "first_seen": "2026-01-06T09:16:54.574600+00:00",
+      "last_seen": "2026-01-06T09:16:54.574600+00:00",
+      "date": "2026-01-06",
+      "source_id": "bbc_world",
+      "title": "Which countries could be in Trump's sights after Venezuela?",
+      "link": "https://www.bbc.com/news/articles/cd0ye72r4vpo?at_medium=RSS&at_campaign=rss",
+      "label": "GREEN",
+      "score": 0
+    },
+    "d27f6cf3ae4e44fb8f907b41c11f42bec0fa024f": {
+      "first_seen": "2026-01-06T09:16:54.635567+00:00",
+      "last_seen": "2026-01-06T09:16:54.635567+00:00",
+      "date": "2026-01-06",
+      "source_id": "bbc_world",
+      "title": "Who is Cilia Flores, Venezuela's first lady seized by the US?",
+      "link": "https://www.bbc.com/news/articles/ckgl7k91nl8o?at_medium=RSS&at_campaign=rss",
+      "label": "GREEN",
+      "score": 0
+    },
+    "dffe00381a4fe9cae3be9e58c52cde2aae2ae7a4": {
+      "first_seen": "2026-01-06T09:16:54.700136+00:00",
+      "last_seen": "2026-01-06T09:16:54.700136+00:00",
+      "date": "2026-01-06",
+      "source_id": "bbc_world",
+      "title": "From Caracas 'fort' to New York court: Maduro's capture in pictures and maps",
+      "link": "https://www.bbc.com/news/articles/c5yvxnlw1pzo?at_medium=RSS&at_campaign=rss",
+      "label": "GREEN",
+      "score": 0
     }
   },
   "telegram": {
