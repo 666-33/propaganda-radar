@@ -890,6 +890,126 @@
       "link": "https://www.bbc.com/news/articles/c70lw9x581no?at_medium=RSS&at_campaign=rss",
       "label": "GREEN",
       "score": 0
+    },
+    "cdf12399c3259d4c191c513f7f8327ddc8bbc91d": {
+      "first_seen": "2026-01-06T23:28:53.074150+00:00",
+      "last_seen": "2026-01-06T23:28:53.074150+00:00",
+      "date": "2026-01-06",
+      "source_id": "bbc_world",
+      "title": "UK and France to send troops to Ukraine if peace deal agreed",
+      "link": "https://www.bbc.com/news/articles/c17zee20qpzo?at_medium=RSS&at_campaign=rss",
+      "label": "GREEN",
+      "score": 0
+    },
+    "6dbd68e1b15f3ce10d4a47e72b2bd2b223e03ae8": {
+      "first_seen": "2026-01-06T23:28:53.135314+00:00",
+      "last_seen": "2026-01-06T23:28:53.135314+00:00",
+      "date": "2026-01-06",
+      "source_id": "bbc_world",
+      "title": "Venezuelan security forces detain journalists from foreign news organisations",
+      "link": "https://www.bbc.com/news/articles/cd6w4y0eq70o?at_medium=RSS&at_campaign=rss",
+      "label": "GREEN",
+      "score": 0
+    },
+    "6f387f8bc2952f93991f95df2645516a2cf61581": {
+      "first_seen": "2026-01-06T23:28:53.194137+00:00",
+      "last_seen": "2026-01-06T23:28:53.194137+00:00",
+      "date": "2026-01-06",
+      "source_id": "bbc_world",
+      "title": "US may intercept and seize oil tanker heading for Europe, reports say",
+      "link": "https://www.bbc.com/news/articles/c7v0deypjl4o?at_medium=RSS&at_campaign=rss",
+      "label": "GREEN",
+      "score": 0
+    },
+    "b91676a6f0339c8bed9c4261b1c8f3cfc698bc28": {
+      "first_seen": "2026-01-06T23:28:53.248220+00:00",
+      "last_seen": "2026-01-06T23:28:53.248220+00:00",
+      "date": "2026-01-06",
+      "source_id": "bbc_world",
+      "title": "Six dead and hundreds of flights cancelled as snow causes chaos across Europe",
+      "link": "https://www.bbc.com/news/articles/czjg37p34r3o?at_medium=RSS&at_campaign=rss",
+      "label": "GREEN",
+      "score": 0
+    },
+    "c2a85483a4ed2943c4fc36d47f02f3df333f43a1": {
+      "first_seen": "2026-01-06T23:28:53.306139+00:00",
+      "last_seen": "2026-01-06T23:28:53.306139+00:00",
+      "date": "2026-01-06",
+      "source_id": "bbc_world",
+      "title": "Children killed after drone hits home in Sudan, medics say",
+      "link": "https://www.bbc.com/news/articles/c74w54783zeo?at_medium=RSS&at_campaign=rss",
+      "label": "GREEN",
+      "score": 0
+    },
+    "211b9b09f55122376e08e18ac011b372f64f3af1": {
+      "first_seen": "2026-01-06T23:28:53.358423+00:00",
+      "last_seen": "2026-01-06T23:28:53.358423+00:00",
+      "date": "2026-01-06",
+      "source_id": "bbc_world",
+      "title": "Zelensky replaces Ukraine's powerful security service chief",
+      "link": "https://www.bbc.com/news/articles/cpv7myg2nw4o?at_medium=RSS&at_campaign=rss",
+      "label": "GREEN",
+      "score": 0
+    },
+    "4c88d3e7bf2fda282b1fea9b5f2fb21c6c964446": {
+      "first_seen": "2026-01-06T23:28:53.408390+00:00",
+      "last_seen": "2026-01-06T23:28:53.408390+00:00",
+      "date": "2026-01-06",
+      "source_id": "bbc_world",
+      "title": "Swiss ski bar not inspected for five years before deadly fire, mayor says",
+      "link": "https://www.bbc.com/news/articles/cdx4zxk1np0o?at_medium=RSS&at_campaign=rss",
+      "label": "GREEN",
+      "score": 0
+    },
+    "9df6a29a42eae4e4c369bc850a9937a6de5a6f6f": {
+      "first_seen": "2026-01-06T23:28:53.463415+00:00",
+      "last_seen": "2026-01-06T23:28:53.463415+00:00",
+      "date": "2026-01-06",
+      "source_id": "bbc_world",
+      "title": "Macron hosts Ukraine and allies to try to cement security guarantees",
+      "link": "https://www.bbc.com/news/articles/c74vx4n003xo?at_medium=RSS&at_campaign=rss",
+      "label": "GREEN",
+      "score": 0
+    },
+    "d186bd9a64e96ea5e9b68f95a9d5f2c31bd71dfc": {
+      "first_seen": "2026-01-06T23:28:53.518364+00:00",
+      "last_seen": "2026-01-06T23:28:53.518364+00:00",
+      "date": "2026-01-06",
+      "source_id": "bbc_world",
+      "title": "US Congressman Doug LaMalfa dies unexpectedly at 65",
+      "link": "https://www.bbc.com/news/articles/cgl8y4gx9lyo?at_medium=RSS&at_campaign=rss",
+      "label": "GREEN",
+      "score": 0
+    },
+    "29b290f9d6a29fa9c9d1268efbf4d4666f6b46ad": {
+      "first_seen": "2026-01-06T23:28:53.582101+00:00",
+      "last_seen": "2026-01-06T23:28:53.582101+00:00",
+      "date": "2026-01-06",
+      "source_id": "bbc_world",
+      "title": "The painful questions for Nato and the EU as Trump threatens Greenland",
+      "link": "https://www.bbc.com/news/articles/cpwn2wjzwndo?at_medium=RSS&at_campaign=rss",
+      "label": "GREEN",
+      "score": 0
+    },
+    "213450594a5c610750f999814e5be7e7ead7bff5": {
+      "first_seen": "2026-01-06T23:28:53.666773+00:00",
+      "last_seen": "2026-01-06T23:28:53.666773+00:00",
+      "date": "2026-01-06",
+      "source_id": "bbc_world",
+      "title": "BBC looks into the relationship between Cuba and Venezuela",
+      "link": "https://www.bbc.com/news/videos/cly5nn5w918o?at_medium=RSS&at_campaign=rss",
+      "label": "GREEN",
+      "score": 0
+    },
+    "e07b175610753aa179ae4e4683234508a61a35d0": {
+      "first_seen": "2026-01-06T23:28:53.762978+00:00",
+      "last_seen": "2026-01-06T23:28:53.762978+00:00",
+      "date": "2026-01-06",
+      "source_id": "bbc_world",
+      "title": "'It seems unjust to me' - views from Caracas on Maduro's seizure",
+      "link": "https://www.bbc.com/news/videos/cn42zz4ypgwo?at_medium=RSS&at_campaign=rss",
+      "label": "GREEN",
+      "score": 0
     }
   },
   "telegram": {
