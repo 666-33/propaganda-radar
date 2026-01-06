@@ -750,9 +750,149 @@
       "link": "https://www.bbc.com/news/articles/c5yvxnlw1pzo?at_medium=RSS&at_campaign=rss",
       "label": "GREEN",
       "score": 0
+    },
+    "2c0b0e72346ff13f148562a9c3164970f8563216": {
+      "first_seen": "2026-01-06T14:24:49.585629+00:00",
+      "last_seen": "2026-01-06T14:24:49.585629+00:00",
+      "date": "2026-01-06",
+      "source_id": "bbc_world",
+      "title": "Iran anti-government protests spread to majority of provinces, videos show",
+      "link": "https://www.bbc.com/news/articles/cre28d2j2zxo?at_medium=RSS&at_campaign=rss",
+      "label": "GREEN",
+      "score": 0
+    },
+    "1d4a5f963f1cc4900104e65407ac983c3b46f69d": {
+      "first_seen": "2026-01-06T14:24:49.642513+00:00",
+      "last_seen": "2026-01-06T14:24:49.642513+00:00",
+      "date": "2026-01-06",
+      "source_id": "bbc_world",
+      "title": "Trump claims US oil firms could be 'up and running' in Venezuela within 18 months",
+      "link": "https://www.bbc.com/news/articles/c4grxzxjjd8o?at_medium=RSS&at_campaign=rss",
+      "label": "GREEN",
+      "score": 0
+    },
+    "1a3059a4669b094e2c62de07bd09d062ecba247b": {
+      "first_seen": "2026-01-06T14:24:49.697655+00:00",
+      "last_seen": "2026-01-06T14:24:49.697655+00:00",
+      "date": "2026-01-06",
+      "source_id": "bbc_world",
+      "title": "Macron hosts Ukraine and allies to try to cement security guarantees",
+      "link": "https://www.bbc.com/news/articles/c74vx4n003xo?at_medium=RSS&at_campaign=rss",
+      "label": "GREEN",
+      "score": 0
+    },
+    "b6814019242c5cc9fd92dd8059cf3b7a65329eb7": {
+      "first_seen": "2026-01-06T14:24:49.752709+00:00",
+      "last_seen": "2026-01-06T14:24:49.752709+00:00",
+      "date": "2026-01-06",
+      "source_id": "bbc_world",
+      "title": "European allies back Denmark over Trump's threat to annex Greenland",
+      "link": "https://www.bbc.com/news/articles/c07xkeee2k3o?at_medium=RSS&at_campaign=rss",
+      "label": "GREEN",
+      "score": 0
+    },
+    "f4405de89378067907ba14412422d28eaaaac098": {
+      "first_seen": "2026-01-06T14:24:49.803485+00:00",
+      "last_seen": "2026-01-06T14:24:49.803485+00:00",
+      "date": "2026-01-06",
+      "source_id": "bbc_world",
+      "title": "Swiss ski bar not inspected for five years before deadly fire, mayor says",
+      "link": "https://www.bbc.com/news/articles/cdx4zxk1np0o?at_medium=RSS&at_campaign=rss",
+      "label": "GREEN",
+      "score": 0
+    },
+    "5563c38fae4a657d0ed45cf4f4ef88b6700f2108": {
+      "first_seen": "2026-01-06T14:24:49.850965+00:00",
+      "last_seen": "2026-01-06T14:24:49.850965+00:00",
+      "date": "2026-01-06",
+      "source_id": "bbc_world",
+      "title": "Self-proclaimed hypnotherapist on trial in France for drugging and raping women",
+      "link": "https://www.bbc.com/news/articles/c5y5wylpweqo?at_medium=RSS&at_campaign=rss",
+      "label": "GREEN",
+      "score": 0
+    },
+    "86fa286b1e45d3207c4a81679e33cd41b18409a0": {
+      "first_seen": "2026-01-06T14:24:49.909171+00:00",
+      "last_seen": "2026-01-06T14:24:49.909171+00:00",
+      "date": "2026-01-06",
+      "source_id": "bbc_world",
+      "title": "Israel's foreign minister on historic visit to Somaliland",
+      "link": "https://www.bbc.com/news/articles/cwyrexdgzn9o?at_medium=RSS&at_campaign=rss",
+      "label": "GREEN",
+      "score": 0
+    },
+    "d73a151df7aa449f080a7efd5007137202740f1e": {
+      "first_seen": "2026-01-06T14:24:49.962490+00:00",
+      "last_seen": "2026-01-06T14:24:49.962490+00:00",
+      "date": "2026-01-06",
+      "source_id": "bbc_world",
+      "title": "Nestle issues global recall of some baby formula products over toxin fears",
+      "link": "https://www.bbc.com/news/articles/cx2yvx8gnnpo?at_medium=RSS&at_campaign=rss",
+      "label": "GREEN",
+      "score": 0
+    },
+    "e9e0d8793ba4af9d8f509035239defb88a7500d8": {
+      "first_seen": "2026-01-06T14:24:50.011645+00:00",
+      "last_seen": "2026-01-06T14:24:50.011645+00:00",
+      "date": "2026-01-06",
+      "source_id": "bbc_world",
+      "title": "Nvidia unveils self-driving car tech as it seeks to power more products with AI",
+      "link": "https://www.bbc.com/news/articles/c0jv1vd571wo?at_medium=RSS&at_campaign=rss",
+      "label": "GREEN",
+      "score": 0
+    },
+    "07a3e01d1f90e693031e8b68de1d74cba4d4f922": {
+      "first_seen": "2026-01-06T14:24:50.067537+00:00",
+      "last_seen": "2026-01-06T14:24:50.067537+00:00",
+      "date": "2026-01-06",
+      "source_id": "bbc_world",
+      "title": "At least 22 Ethiopian migrants killed in 'horrific' road crash",
+      "link": "https://www.bbc.com/news/articles/cn82g8wwvn5o?at_medium=RSS&at_campaign=rss",
+      "label": "GREEN",
+      "score": 0
+    },
+    "4072b7e538a56fe065e1c91cb3531b5d77c183d3": {
+      "first_seen": "2026-01-06T14:24:50.117299+00:00",
+      "last_seen": "2026-01-06T14:24:50.117299+00:00",
+      "date": "2026-01-06",
+      "source_id": "bbc_world",
+      "title": "Dance music festival Tomorrowland to hold three-day event in Thailand",
+      "link": "https://www.bbc.com/news/articles/cql45lykx5eo?at_medium=RSS&at_campaign=rss",
+      "label": "GREEN",
+      "score": 0
+    },
+    "54f166c2fb636ae639846e18d95155ebd2811eb6": {
+      "first_seen": "2026-01-06T14:24:50.167202+00:00",
+      "last_seen": "2026-01-06T14:24:50.167202+00:00",
+      "date": "2026-01-06",
+      "source_id": "bbc_world",
+      "title": "Indian gang rape survivor back home after a week in hospital",
+      "link": "https://www.bbc.com/news/articles/c87r891gv1ro?at_medium=RSS&at_campaign=rss",
+      "label": "GREEN",
+      "score": 0
+    },
+    "b7e71eecba75fab17d858034091d85cf44a895f9": {
+      "first_seen": "2026-01-06T14:24:50.221212+00:00",
+      "last_seen": "2026-01-06T14:24:50.221212+00:00",
+      "date": "2026-01-06",
+      "source_id": "bbc_world",
+      "title": "Battle of the Sexes 'brought eyes on tennis'",
+      "link": "https://www.bbc.com/sport/tennis/articles/cm24e6rzmpeo?at_medium=RSS&at_campaign=rss",
+      "label": "GREEN",
+      "score": 0
+    },
+    "44b28d9c91be9c95ebd8c2e4e324d1c9a649b920": {
+      "first_seen": "2026-01-06T14:24:50.275751+00:00",
+      "last_seen": "2026-01-06T14:24:50.275751+00:00",
+      "date": "2026-01-06",
+      "source_id": "bbc_world",
+      "title": "Selfies and smiles: South Korea seeks 'new phase' in ties with China",
+      "link": "https://www.bbc.com/news/articles/c70lw9x581no?at_medium=RSS&at_campaign=rss",
+      "label": "GREEN",
+      "score": 0
     }
   },
   "telegram": {
-    "last_sent_date": "2026-01-05"
+    "last_sent_date": "2026-01-06"
   }
 }
