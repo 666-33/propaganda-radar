@@ -1090,9 +1090,89 @@
       "link": "https://www.bbc.com/news/articles/c62vzpdmxxjo?at_medium=RSS&at_campaign=rss",
       "label": "GREEN",
       "score": 4
+    },
+    "372a185c2022c700f37045a6a87ceaaa8a7a305a": {
+      "first_seen": "2026-01-07T14:25:59.818172+00:00",
+      "last_seen": "2026-01-07T14:25:59.818172+00:00",
+      "date": "2026-01-07",
+      "source_id": "bbc_world",
+      "title": "Families shocked Swiss ski bar was not inspected for years before deadly fire",
+      "link": "https://www.bbc.com/news/articles/c74wexkd598o?at_medium=RSS&at_campaign=rss",
+      "label": "GREEN",
+      "score": 0
+    },
+    "a47ca5c140400c72d1f4185fd9a0e62510ca0ae2": {
+      "first_seen": "2026-01-07T14:25:59.869413+00:00",
+      "last_seen": "2026-01-07T14:25:59.869413+00:00",
+      "date": "2026-01-07",
+      "source_id": "bbc_world",
+      "title": "Yemen separatist leader accused of treason as Saudi Arabia strikes forces",
+      "link": "https://www.bbc.com/news/articles/cew85yeqgewo?at_medium=RSS&at_campaign=rss",
+      "label": "GREEN",
+      "score": 0
+    },
+    "b0b8d1ba7c6b30bf85c70c5e756890ad3155fc41": {
+      "first_seen": "2026-01-07T14:25:59.924155+00:00",
+      "last_seen": "2026-01-07T14:25:59.924155+00:00",
+      "date": "2026-01-07",
+      "source_id": "bbc_world",
+      "title": "Plot to kill Burkina Faso leader foiled, says junta",
+      "link": "https://www.bbc.com/news/articles/clyz4dzyq7po?at_medium=RSS&at_campaign=rss",
+      "label": "GREEN",
+      "score": 0
+    },
+    "f238830851a210ebe35137627be18b629feecbd1": {
+      "first_seen": "2026-01-07T14:25:59.984159+00:00",
+      "last_seen": "2026-01-07T14:25:59.984159+00:00",
+      "date": "2026-01-07",
+      "source_id": "bbc_world",
+      "title": "Aldrich Ames, CIA agent who sold secrets to the Soviets, dies aged 84",
+      "link": "https://www.bbc.com/news/articles/cj0n29395j3o?at_medium=RSS&at_campaign=rss",
+      "label": "GREEN",
+      "score": 4
+    },
+    "471dab7de2078b80f0b2906cb6b133b3f608ec86": {
+      "first_seen": "2026-01-07T14:26:00.037165+00:00",
+      "last_seen": "2026-01-07T14:26:00.037165+00:00",
+      "date": "2026-01-07",
+      "source_id": "bbc_world",
+      "title": "Nigeria's ex-justice minister granted bail in $6m corruption case",
+      "link": "https://www.bbc.com/news/articles/c9vxmx4rgr0o?at_medium=RSS&at_campaign=rss",
+      "label": "GREEN",
+      "score": 0
+    },
+    "d6c3ea466f2dd9a57f911d9802273ea35388a857": {
+      "first_seen": "2026-01-07T14:26:00.096686+00:00",
+      "last_seen": "2026-01-07T14:26:00.096686+00:00",
+      "date": "2026-01-07",
+      "source_id": "bbc_world",
+      "title": "Six dead and hundreds of flights cancelled as snow causes chaos across Europe",
+      "link": "https://www.bbc.com/news/articles/czjg37p34r3o?at_medium=RSS&at_campaign=rss",
+      "label": "GREEN",
+      "score": 0
+    },
+    "64676982c09a910b4b07a80e788e3844363c7b20": {
+      "first_seen": "2026-01-07T14:26:00.142320+00:00",
+      "last_seen": "2026-01-07T14:26:00.142320+00:00",
+      "date": "2026-01-07",
+      "source_id": "bbc_world",
+      "title": "Japan nuclear agency worker loses phone with confidential data in China",
+      "link": "https://www.bbc.com/news/articles/c8j38rmm4z3o?at_medium=RSS&at_campaign=rss",
+      "label": "GREEN",
+      "score": 0
+    },
+    "4d8fe50ca548519e6d373ae2a1f116156a6f266c": {
+      "first_seen": "2026-01-07T14:26:00.194670+00:00",
+      "last_seen": "2026-01-07T14:26:00.194670+00:00",
+      "date": "2026-01-07",
+      "source_id": "bbc_world",
+      "title": "UK and France to send troops to Ukraine if peace deal agreed",
+      "link": "https://www.bbc.com/news/articles/c17zee20qpzo?at_medium=RSS&at_campaign=rss",
+      "label": "GREEN",
+      "score": 0
     }
   },
   "telegram": {
-    "last_sent_date": "2026-01-06"
+    "last_sent_date": "2026-01-07"
   }
 }
