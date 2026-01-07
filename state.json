@@ -1010,6 +1010,86 @@
       "link": "https://www.bbc.com/news/videos/cn42zz4ypgwo?at_medium=RSS&at_campaign=rss",
       "label": "GREEN",
       "score": 0
+    },
+    "a3b5f3419da29f4174d6099776e4eda0743bb7d8": {
+      "first_seen": "2026-01-07T09:18:45.366214+00:00",
+      "last_seen": "2026-01-07T09:18:45.366214+00:00",
+      "date": "2026-01-07",
+      "source_id": "bbc_world",
+      "title": "US discussing options to acquire Greenland, including use of military, says White House",
+      "link": "https://www.bbc.com/news/articles/cwyg1jg8xkmo?at_medium=RSS&at_campaign=rss",
+      "label": "GREEN",
+      "score": 0
+    },
+    "82bf813b912f126a6665c552f3e9501602071733": {
+      "first_seen": "2026-01-07T09:18:45.464959+00:00",
+      "last_seen": "2026-01-07T09:18:45.464959+00:00",
+      "date": "2026-01-07",
+      "source_id": "bbc_world",
+      "title": "Opposition leader Machado says she should be in charge of Venezuela",
+      "link": "https://www.bbc.com/news/articles/c0er4qd3115o?at_medium=RSS&at_campaign=rss",
+      "label": "GREEN",
+      "score": 0
+    },
+    "4b7a41afe0bfe17bdf303fc94c264ee9b3115bd6": {
+      "first_seen": "2026-01-07T09:18:45.563213+00:00",
+      "last_seen": "2026-01-07T09:18:45.563213+00:00",
+      "date": "2026-01-07",
+      "source_id": "bbc_world",
+      "title": "Aldrich Ames, CIA agent who sold secrets to the Soviets, dies aged 84",
+      "link": "https://www.bbc.com/news/articles/cj0n29395j3o?at_medium=RSS&at_campaign=rss",
+      "label": "GREEN",
+      "score": 4
+    },
+    "051f2eed4044b9c44d65aa86b8054c5a4440d61e": {
+      "first_seen": "2026-01-07T09:18:45.660219+00:00",
+      "last_seen": "2026-01-07T09:18:45.660219+00:00",
+      "date": "2026-01-07",
+      "source_id": "bbc_world",
+      "title": "Lego unveils tech-filled Smart Bricks - to play experts' unease",
+      "link": "https://www.bbc.com/news/articles/crmlnmnwzk2o?at_medium=RSS&at_campaign=rss",
+      "label": "GREEN",
+      "score": 0
+    },
+    "2160a5ab6cdabd2d10554b27f779e6be1d3d5ed8": {
+      "first_seen": "2026-01-07T09:18:45.760117+00:00",
+      "last_seen": "2026-01-07T09:18:45.760117+00:00",
+      "date": "2026-01-07",
+      "source_id": "bbc_world",
+      "title": "Iran anti-government protests spread to majority of provinces, videos show",
+      "link": "https://www.bbc.com/news/articles/cre28d2j2zxo?at_medium=RSS&at_campaign=rss",
+      "label": "GREEN",
+      "score": 0
+    },
+    "330efaac1d4a8e6d84ab3191c8ce257790c4d17f": {
+      "first_seen": "2026-01-07T09:18:45.854125+00:00",
+      "last_seen": "2026-01-07T09:18:45.854125+00:00",
+      "date": "2026-01-07",
+      "source_id": "bbc_world",
+      "title": "Children killed after drone hits home in Sudan, medics say",
+      "link": "https://www.bbc.com/news/articles/c74w54783zeo?at_medium=RSS&at_campaign=rss",
+      "label": "GREEN",
+      "score": 0
+    },
+    "b52e85e7480ffc1d812f308840035a06998b0604": {
+      "first_seen": "2026-01-07T09:18:45.952472+00:00",
+      "last_seen": "2026-01-07T09:18:45.952472+00:00",
+      "date": "2026-01-07",
+      "source_id": "bbc_world",
+      "title": "Trump's Venezuela raid has created chaos - and that is a risk for China",
+      "link": "https://www.bbc.com/news/articles/cly92dkxqvko?at_medium=RSS&at_campaign=rss",
+      "label": "GREEN",
+      "score": 0
+    },
+    "18184c8e3ce83b548d89d7d6086c5822d661caae": {
+      "first_seen": "2026-01-07T09:18:46.045695+00:00",
+      "last_seen": "2026-01-07T09:18:46.045695+00:00",
+      "date": "2026-01-07",
+      "source_id": "bbc_world",
+      "title": "An Indian state wants to tackle hate speech with a law - can it work?",
+      "link": "https://www.bbc.com/news/articles/c62vzpdmxxjo?at_medium=RSS&at_campaign=rss",
+      "label": "GREEN",
+      "score": 4
     }
   },
   "telegram": {
