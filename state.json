@@ -1740,6 +1740,96 @@
       "link": "https://www.bbc.com/news/articles/c1jepdjy256o?at_medium=RSS&at_campaign=rss",
       "label": "GREEN",
       "score": 0
+    },
+    "50c0d841d75b9dcf1e06df20d32b9534a095d80c": {
+      "first_seen": "2026-01-08T23:25:22.110890+00:00",
+      "last_seen": "2026-01-08T23:25:22.110890+00:00",
+      "date": "2026-01-08",
+      "source_id": "bbc_world",
+      "title": "Tennis Kenya admits it shouldn't have let amateur compete after viral defeat",
+      "link": "https://www.bbc.com/sport/tennis/articles/cx2gr00ndmyo?at_medium=RSS&at_campaign=rss",
+      "label": "GREEN",
+      "score": 0
+    },
+    "df08e79f388b331d5d1b36bd30a189e7f761cefa": {
+      "first_seen": "2026-01-08T23:25:22.173896+00:00",
+      "last_seen": "2026-01-08T23:25:22.173896+00:00",
+      "date": "2026-01-08",
+      "source_id": "bbc_world",
+      "title": "Spain's Catholic Church signs deal on sexual abuse compensation",
+      "link": "https://www.bbc.com/news/articles/c78e99pzr25o?at_medium=RSS&at_campaign=rss",
+      "label": "GREEN",
+      "score": 0
+    },
+    "0b224f44e820ce917b84be9993becb62ad90558d": {
+      "first_seen": "2026-01-08T23:25:22.250179+00:00",
+      "last_seen": "2026-01-08T23:25:22.250179+00:00",
+      "date": "2026-01-08",
+      "source_id": "bbc_world",
+      "title": "US involvement in Venezuela could last years, Trump says",
+      "link": "https://www.bbc.com/news/articles/cx20gyn8qvvo?at_medium=RSS&at_campaign=rss",
+      "label": "GREEN",
+      "score": 0
+    },
+    "776bfea57c35135715ba7fc141f450e05ed003f4": {
+      "first_seen": "2026-01-08T23:25:22.301648+00:00",
+      "last_seen": "2026-01-08T23:25:22.301648+00:00",
+      "date": "2026-01-08",
+      "source_id": "bbc_world",
+      "title": "Lebanese army says it has taken over security in Hezbollah-dominated south",
+      "link": "https://www.bbc.com/news/articles/cj4ln977w0jo?at_medium=RSS&at_campaign=rss",
+      "label": "GREEN",
+      "score": 0
+    },
+    "7faa63f9fad816b77fb2a107bef982777edc034b": {
+      "first_seen": "2026-01-08T23:25:22.364362+00:00",
+      "last_seen": "2026-01-08T23:25:22.364362+00:00",
+      "date": "2026-01-08",
+      "source_id": "bbc_world",
+      "title": "Saudi-led coalition says UAE helped smuggle separatist leader out of Yemen",
+      "link": "https://www.bbc.com/news/articles/c5y2mvp3r2do?at_medium=RSS&at_campaign=rss",
+      "label": "GREEN",
+      "score": 0
+    },
+    "a009481b3fd2ce349ddbad5e7f3646c3acf72954": {
+      "first_seen": "2026-01-08T23:25:22.457345+00:00",
+      "last_seen": "2026-01-08T23:25:22.457345+00:00",
+      "date": "2026-01-08",
+      "source_id": "bbc_world",
+      "title": "Algeria apologises after player mocks Congolese superfan dressed as pan-African hero",
+      "link": "https://www.bbc.com/news/articles/cj0nqqgy77ro?at_medium=RSS&at_campaign=rss",
+      "label": "GREEN",
+      "score": 0
+    },
+    "414abf9afc975168fe03fecc87ff4ea70e9edc4c": {
+      "first_seen": "2026-01-08T23:25:22.522511+00:00",
+      "last_seen": "2026-01-08T23:25:22.522511+00:00",
+      "date": "2026-01-08",
+      "source_id": "bbc_world",
+      "title": "Two starkly opposed Americas laid bare by deadly ICE shooting",
+      "link": "https://www.bbc.com/news/articles/c93vny222geo?at_medium=RSS&at_campaign=rss",
+      "label": "GREEN",
+      "score": 0
+    },
+    "4527779354027da824731c6f4251a8be67e24df8": {
+      "first_seen": "2026-01-08T23:25:22.613915+00:00",
+      "last_seen": "2026-01-08T23:25:22.613915+00:00",
+      "date": "2026-01-08",
+      "source_id": "bbc_world",
+      "title": "Bowen: Trump risks pushing world back to age of empires",
+      "link": "https://www.bbc.com/news/articles/cx2wg7437dvo?at_medium=RSS&at_campaign=rss",
+      "label": "GREEN",
+      "score": 0
+    },
+    "54994dfaf7e04b671acfcb7f56de852d9ebc3eab": {
+      "first_seen": "2026-01-08T23:25:22.700218+00:00",
+      "last_seen": "2026-01-08T23:25:22.700218+00:00",
+      "date": "2026-01-08",
+      "source_id": "bbc_world",
+      "title": "Watch: Eyewitnesses recount deadly ICE shooting",
+      "link": "https://www.bbc.com/news/videos/c394vjengdgo?at_medium=RSS&at_campaign=rss",
+      "label": "GREEN",
+      "score": 0
     }
   },
   "telegram": {
