@@ -1520,6 +1520,126 @@
       "link": "https://www.bbc.com/news/videos/cx2ypz4zjvxo?at_medium=RSS&at_campaign=rss",
       "label": "GREEN",
       "score": 0
+    },
+    "b8c9b80fa39639e1ec759a46a90533d566698417": {
+      "first_seen": "2026-01-08T09:18:43.631631+00:00",
+      "last_seen": "2026-01-08T09:18:43.631631+00:00",
+      "date": "2026-01-08",
+      "source_id": "bbc_world",
+      "title": "Violent clashes reported as Iran protests spread to more areas",
+      "link": "https://www.bbc.com/news/articles/cgm4y0ewe93o?at_medium=RSS&at_campaign=rss",
+      "label": "GREEN",
+      "score": 0
+    },
+    "54fd6e998bc61529d3dc342fba2246c3e73cc8e9": {
+      "first_seen": "2026-01-08T09:18:43.707548+00:00",
+      "last_seen": "2026-01-08T09:18:43.707548+00:00",
+      "date": "2026-01-08",
+      "source_id": "bbc_world",
+      "title": "Trump withdraws US from key climate treaty and dozens of other groups",
+      "link": "https://www.bbc.com/news/articles/cp80ln97py5o?at_medium=RSS&at_campaign=rss",
+      "label": "GREEN",
+      "score": 0
+    },
+    "992b823e643b5b98c44f32ce20862cd0d55fc631": {
+      "first_seen": "2026-01-08T09:18:43.789139+00:00",
+      "last_seen": "2026-01-08T09:18:43.789139+00:00",
+      "date": "2026-01-08",
+      "source_id": "bbc_world",
+      "title": "Cambodia extradites alleged scam mastermind to China after arrest",
+      "link": "https://www.bbc.com/news/articles/cy4q8e88n2vo?at_medium=RSS&at_campaign=rss",
+      "label": "GREEN",
+      "score": 0
+    },
+    "ec9e11780c5b1dcaee5df4392675631ff51589db": {
+      "first_seen": "2026-01-08T09:18:43.857844+00:00",
+      "last_seen": "2026-01-08T09:18:43.857844+00:00",
+      "date": "2026-01-08",
+      "source_id": "bbc_world",
+      "title": "Heatwave hits Australia as officials warn of 'catastrophic' fire risk",
+      "link": "https://www.bbc.com/news/articles/cy4q898dkwxo?at_medium=RSS&at_campaign=rss",
+      "label": "GREEN",
+      "score": 0
+    },
+    "30aeb3f326a03c4df637a580ef970c4be42f3efc": {
+      "first_seen": "2026-01-08T09:18:43.936903+00:00",
+      "last_seen": "2026-01-08T09:18:43.936903+00:00",
+      "date": "2026-01-08",
+      "source_id": "bbc_world",
+      "title": "Australia PM announces royal commission into Bondi shooting",
+      "link": "https://www.bbc.com/news/articles/c8x94lz0gevo?at_medium=RSS&at_campaign=rss",
+      "label": "GREEN",
+      "score": 0
+    },
+    "a5d47dd20b4e242a32f91bce0ad8224913031f17": {
+      "first_seen": "2026-01-08T09:18:44.009340+00:00",
+      "last_seen": "2026-01-08T09:18:44.009340+00:00",
+      "date": "2026-01-08",
+      "source_id": "bbc_world",
+      "title": "Australia to deport British man over alleged neo-Nazi links",
+      "link": "https://www.bbc.com/news/articles/cgez1drnzxdo?at_medium=RSS&at_campaign=rss",
+      "label": "GREEN",
+      "score": 0
+    },
+    "6a772c7a921ae5d62e4b1ea4ff1873d4e6415f7d": {
+      "first_seen": "2026-01-08T09:18:44.089972+00:00",
+      "last_seen": "2026-01-08T09:18:44.089972+00:00",
+      "date": "2026-01-08",
+      "source_id": "bbc_world",
+      "title": "Nick Reiner's lawyer removes himself from murder case",
+      "link": "https://www.bbc.com/news/articles/c0ke5lx6kyno?at_medium=RSS&at_campaign=rss",
+      "label": "GREEN",
+      "score": 0
+    },
+    "bda61d3e7e8628ccaa828d532c969a8c16b536d3": {
+      "first_seen": "2026-01-08T09:18:44.161918+00:00",
+      "last_seen": "2026-01-08T09:18:44.161918+00:00",
+      "date": "2026-01-08",
+      "source_id": "bbc_world",
+      "title": "Trump actively discussing potentially buying Greenland, White House says",
+      "link": "https://www.bbc.com/news/articles/cly39pgmvrzo?at_medium=RSS&at_campaign=rss",
+      "label": "GREEN",
+      "score": 0
+    },
+    "bb1a9b16e4bf23b8b5c97227d623cdf98b0f08e4": {
+      "first_seen": "2026-01-08T09:18:44.235968+00:00",
+      "last_seen": "2026-01-08T09:18:44.235968+00:00",
+      "date": "2026-01-08",
+      "source_id": "bbc_world",
+      "title": "Trump to meet Colombian president at White House in 'near future'",
+      "link": "https://www.bbc.com/news/articles/c98py70npj9o?at_medium=RSS&at_campaign=rss",
+      "label": "GREEN",
+      "score": 0
+    },
+    "905949cd6c786d317aadaff8f8c91ffa123f770a": {
+      "first_seen": "2026-01-08T09:18:44.311068+00:00",
+      "last_seen": "2026-01-08T09:18:44.311068+00:00",
+      "date": "2026-01-08",
+      "source_id": "bbc_world",
+      "title": "Analysis: Why Trump chose Maduro's VP over Nobel winner",
+      "link": "https://www.bbc.com/news/articles/c77krp7m362o?at_medium=RSS&at_campaign=rss",
+      "label": "GREEN",
+      "score": 0
+    },
+    "f46d9a442f672c8b21e8f7ced6bf8153430ea0f2": {
+      "first_seen": "2026-01-08T09:18:44.384526+00:00",
+      "last_seen": "2026-01-08T09:18:44.384526+00:00",
+      "date": "2026-01-08",
+      "source_id": "bbc_world",
+      "title": "Children in Gaza return to school after years without formal education",
+      "link": "https://www.bbc.com/news/articles/c62vmn30j3yo?at_medium=RSS&at_campaign=rss",
+      "label": "GREEN",
+      "score": 0
+    },
+    "d98f77b48c68c7ff505e8bed06fe7ac2dcc3fae2": {
+      "first_seen": "2026-01-08T09:18:44.462278+00:00",
+      "last_seen": "2026-01-08T09:18:44.462278+00:00",
+      "date": "2026-01-08",
+      "source_id": "bbc_world",
+      "title": "'We are not for sale': Greenlanders express fear and indignation as Trump eyes territory",
+      "link": "https://www.bbc.com/news/articles/cvgx8w4pgk0o?at_medium=RSS&at_campaign=rss",
+      "label": "GREEN",
+      "score": 0
     }
   },
   "telegram": {
