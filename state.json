@@ -1400,6 +1400,126 @@
       "link": "https://www.bbc.com/news/videos/cq6vg2j6pndo?at_medium=RSS&at_campaign=rss",
       "label": "GREEN",
       "score": 0
+    },
+    "7b99d39eb9fac1cc610d86930854afdb7b1e7988": {
+      "first_seen": "2026-01-08T04:05:13.633593+00:00",
+      "last_seen": "2026-01-08T04:05:13.633593+00:00",
+      "date": "2026-01-08",
+      "source_id": "bbc_world",
+      "title": "US immigration agent fatally shoots woman in Minneapolis, officials say",
+      "link": "https://www.bbc.com/news/articles/c0jvnl4j1n4o?at_medium=RSS&at_campaign=rss",
+      "label": "GREEN",
+      "score": 4
+    },
+    "023b81a4c0945cd55d5f7cc0928476b2be14c6e3": {
+      "first_seen": "2026-01-08T04:05:13.688469+00:00",
+      "last_seen": "2026-01-08T04:05:13.688469+00:00",
+      "date": "2026-01-08",
+      "source_id": "bbc_world",
+      "title": "Russian attacks leave two regions with widespread blackouts, Ukraine says",
+      "link": "https://www.bbc.com/news/articles/cgk8jv4r8nmo?at_medium=RSS&at_campaign=rss",
+      "label": "GREEN",
+      "score": 0
+    },
+    "faec3ea812af1f2d302f61bbfa0e7b3fe414ec2d": {
+      "first_seen": "2026-01-08T04:05:13.751671+00:00",
+      "last_seen": "2026-01-08T04:05:13.751671+00:00",
+      "date": "2026-01-08",
+      "source_id": "bbc_world",
+      "title": "Nick Reiner's lawyer removes himself from murder case",
+      "link": "https://www.bbc.com/news/articles/c0ke5lx6kyno?at_medium=RSS&at_campaign=rss",
+      "label": "GREEN",
+      "score": 0
+    },
+    "11c749a683c53584d30b38d3e88ae3cf152c817c": {
+      "first_seen": "2026-01-08T04:05:13.812764+00:00",
+      "last_seen": "2026-01-08T04:05:13.812764+00:00",
+      "date": "2026-01-08",
+      "source_id": "bbc_world",
+      "title": "Rare mountain gorilla twins born in Africa's oldest national park",
+      "link": "https://www.bbc.com/news/articles/c86v3y45pyyo?at_medium=RSS&at_campaign=rss",
+      "label": "GREEN",
+      "score": 0
+    },
+    "b784463a122b1688906a75f3302d6aedb8b77b4c": {
+      "first_seen": "2026-01-08T04:05:13.863819+00:00",
+      "last_seen": "2026-01-08T04:05:13.863819+00:00",
+      "date": "2026-01-08",
+      "source_id": "bbc_world",
+      "title": "Reality TV star Spencer Pratt announces run for LA mayor",
+      "link": "https://www.bbc.com/news/articles/c9dv5zdl7ydo?at_medium=RSS&at_campaign=rss",
+      "label": "GREEN",
+      "score": 0
+    },
+    "d517d08a930d1e9822eaa1a1687258ab987fdf82": {
+      "first_seen": "2026-01-08T04:05:13.918672+00:00",
+      "last_seen": "2026-01-08T04:05:13.918672+00:00",
+      "date": "2026-01-08",
+      "source_id": "bbc_world",
+      "title": "Trump calls for US military spending to rise more than 50% to $1.5tn",
+      "link": "https://www.bbc.com/news/articles/cy59kxl2xwzo?at_medium=RSS&at_campaign=rss",
+      "label": "GREEN",
+      "score": 0
+    },
+    "c0885cafb4e551a7580276a7d015402663472c55": {
+      "first_seen": "2026-01-08T04:05:13.971115+00:00",
+      "last_seen": "2026-01-08T04:05:13.971115+00:00",
+      "date": "2026-01-08",
+      "source_id": "bbc_world",
+      "title": "Big freeze causes travel chaos across western Europe",
+      "link": "https://www.bbc.com/news/articles/cy59k13e7eqo?at_medium=RSS&at_campaign=rss",
+      "label": "GREEN",
+      "score": 0
+    },
+    "15213d739934695bcf4e582e1a68cd81caf0217f": {
+      "first_seen": "2026-01-08T04:05:14.034528+00:00",
+      "last_seen": "2026-01-08T04:05:14.034528+00:00",
+      "date": "2026-01-08",
+      "source_id": "bbc_world",
+      "title": "Berlin power outage highlights German vulnerability to sabotage",
+      "link": "https://www.bbc.com/news/articles/cvgrpzn6gz4o?at_medium=RSS&at_campaign=rss",
+      "label": "GREEN",
+      "score": 0
+    },
+    "b1b967329d9a4976aa6ae4d5c901d012697dd598": {
+      "first_seen": "2026-01-08T04:05:14.098421+00:00",
+      "last_seen": "2026-01-08T04:05:14.098421+00:00",
+      "date": "2026-01-08",
+      "source_id": "bbc_world",
+      "title": "Inside the sub-zero lair of the world's most powerful computer",
+      "link": "https://www.bbc.com/news/articles/c62r6dvpl5ro?at_medium=RSS&at_campaign=rss",
+      "label": "GREEN",
+      "score": 0
+    },
+    "71d49cb613c83600358ed41ef35cb86ebf95af75": {
+      "first_seen": "2026-01-08T04:05:14.159620+00:00",
+      "last_seen": "2026-01-08T04:05:14.159620+00:00",
+      "date": "2026-01-08",
+      "source_id": "bbc_world",
+      "title": "A new Bollywood film spotlights a forgotten India-China battle",
+      "link": "https://www.bbc.com/news/articles/clydprd9kgxo?at_medium=RSS&at_campaign=rss",
+      "label": "GREEN",
+      "score": 0
+    },
+    "5f723862fd1e2adbcc3ed9902b5defbfcff95226": {
+      "first_seen": "2026-01-08T04:05:14.224271+00:00",
+      "last_seen": "2026-01-08T04:05:14.224271+00:00",
+      "date": "2026-01-08",
+      "source_id": "bbc_world",
+      "title": "How tariff disruption will continue reshaping the global economy in 2026",
+      "link": "https://www.bbc.com/news/articles/czejp3gep63o?at_medium=RSS&at_campaign=rss",
+      "label": "GREEN",
+      "score": 0
+    },
+    "dcd2a8d4a15f469e016bd6c7a0f1744011818150": {
+      "first_seen": "2026-01-08T04:05:14.310359+00:00",
+      "last_seen": "2026-01-08T04:05:14.310359+00:00",
+      "date": "2026-01-08",
+      "source_id": "bbc_world",
+      "title": "Watch: Police chief describes how Minneapolis shooting unfolded",
+      "link": "https://www.bbc.com/news/videos/cx2ypz4zjvxo?at_medium=RSS&at_campaign=rss",
+      "label": "GREEN",
+      "score": 0
     }
   },
   "telegram": {
