@@ -1640,9 +1640,109 @@
       "link": "https://www.bbc.com/news/articles/cvgx8w4pgk0o?at_medium=RSS&at_campaign=rss",
       "label": "GREEN",
       "score": 0
+    },
+    "7ba4e4205f20b5c58292b807d5c48e7b5abe51e4": {
+      "first_seen": "2026-01-08T14:27:18.447558+00:00",
+      "last_seen": "2026-01-08T14:27:18.447558+00:00",
+      "date": "2026-01-08",
+      "source_id": "bbc_world",
+      "title": "Vance criticises Denmark and Europe's handling of 'critical' Greenland",
+      "link": "https://www.bbc.com/news/articles/c2lgjd51v95o?at_medium=RSS&at_campaign=rss",
+      "label": "GREEN",
+      "score": 0
+    },
+    "bed5ed35213f4901689969f64bfc8253b4b19236": {
+      "first_seen": "2026-01-08T14:27:18.505144+00:00",
+      "last_seen": "2026-01-08T14:27:18.505144+00:00",
+      "date": "2026-01-08",
+      "source_id": "bbc_world",
+      "title": "Influential China church reports arrests as crackdown on Christians intensifies",
+      "link": "https://www.bbc.com/news/articles/ckgl8jgdxypo?at_medium=RSS&at_campaign=rss",
+      "label": "GREEN",
+      "score": 0
+    },
+    "24a8f2a41fa019d02adceb7301116cdab83adf0c": {
+      "first_seen": "2026-01-08T14:27:18.565834+00:00",
+      "last_seen": "2026-01-08T14:27:18.565834+00:00",
+      "date": "2026-01-08",
+      "source_id": "bbc_world",
+      "title": "US involvement in Venezuela could last years, Trump says",
+      "link": "https://www.bbc.com/news/articles/cx20gyn8qvvo?at_medium=RSS&at_campaign=rss",
+      "label": "GREEN",
+      "score": 0
+    },
+    "70d3e908dce36f1927427d7237e06093658c7dbf": {
+      "first_seen": "2026-01-08T14:27:18.621077+00:00",
+      "last_seen": "2026-01-08T14:27:18.621077+00:00",
+      "date": "2026-01-08",
+      "source_id": "bbc_world",
+      "title": "Saudi-led coalition says UAE helped smuggle separatist leader out of Yemen",
+      "link": "https://www.bbc.com/news/articles/c5y2mvp3r2do?at_medium=RSS&at_campaign=rss",
+      "label": "GREEN",
+      "score": 0
+    },
+    "21b14b849063f714b4b3d1d28da3d1cdfc58b166": {
+      "first_seen": "2026-01-08T14:27:18.687214+00:00",
+      "last_seen": "2026-01-08T14:27:18.687214+00:00",
+      "date": "2026-01-08",
+      "source_id": "bbc_world",
+      "title": "US halts assistance to Somalia over claims food aid was illegally seized",
+      "link": "https://www.bbc.com/news/articles/ckgn1lpq52ko?at_medium=RSS&at_campaign=rss",
+      "label": "GREEN",
+      "score": 0
+    },
+    "39852804a8224c18efa51de026a1b96b9a4332ce": {
+      "first_seen": "2026-01-08T14:27:18.757500+00:00",
+      "last_seen": "2026-01-08T14:27:18.757500+00:00",
+      "date": "2026-01-08",
+      "source_id": "bbc_world",
+      "title": "Children in Gaza return to school after years without formal education",
+      "link": "https://www.bbc.com/news/articles/c62vmn30j3yo?at_medium=RSS&at_campaign=rss",
+      "label": "GREEN",
+      "score": 0
+    },
+    "92b0d022575f1e3cd407de8ec7d662eec4f46c97": {
+      "first_seen": "2026-01-08T14:27:18.812808+00:00",
+      "last_seen": "2026-01-08T14:27:18.812808+00:00",
+      "date": "2026-01-08",
+      "source_id": "bbc_world",
+      "title": "One million without heat and water after Russian strikes, Ukraine says",
+      "link": "https://www.bbc.com/news/articles/cgk8jv4r8nmo?at_medium=RSS&at_campaign=rss",
+      "label": "GREEN",
+      "score": 0
+    },
+    "5d87482e8d771458e456420c05ee6c949c18245d": {
+      "first_seen": "2026-01-08T14:27:18.863845+00:00",
+      "last_seen": "2026-01-08T14:27:18.863845+00:00",
+      "date": "2026-01-08",
+      "source_id": "bbc_world",
+      "title": "Heatwave hits Australia as officials warn of 'catastrophic' fire risk",
+      "link": "https://www.bbc.com/news/articles/cy4q898dkwxo?at_medium=RSS&at_campaign=rss",
+      "label": "GREEN",
+      "score": 0
+    },
+    "cc41e14db846d7c3dd4393d643228c24ef743585": {
+      "first_seen": "2026-01-08T14:27:18.926789+00:00",
+      "last_seen": "2026-01-08T14:27:18.926789+00:00",
+      "date": "2026-01-08",
+      "source_id": "bbc_world",
+      "title": "US seizes two 'shadow fleet' tankers linked to Venezuelan oil",
+      "link": "https://www.bbc.com/news/articles/c5y2v8ngl14o?at_medium=RSS&at_campaign=rss",
+      "label": "GREEN",
+      "score": 0
+    },
+    "3c93e0509c5c339e06920e8c60360efd179d64c6": {
+      "first_seen": "2026-01-08T14:27:18.984780+00:00",
+      "last_seen": "2026-01-08T14:27:18.984780+00:00",
+      "date": "2026-01-08",
+      "source_id": "bbc_world",
+      "title": "Who was Renee Nicole Good, the woman killed by ICE?",
+      "link": "https://www.bbc.com/news/articles/c1jepdjy256o?at_medium=RSS&at_campaign=rss",
+      "label": "GREEN",
+      "score": 0
     }
   },
   "telegram": {
-    "last_sent_date": "2026-01-07"
+    "last_sent_date": "2026-01-08"
   }
 }
