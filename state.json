@@ -2040,6 +2040,166 @@
       "link": "https://www.bbc.com/news/videos/c78veq59823o?at_medium=RSS&at_campaign=rss",
       "label": "GREEN",
       "score": 0
+    },
+    "ee98f95fd3646b66ec4b9b383a5e869651e11282": {
+      "first_seen": "2026-01-09T23:28:09.201094+00:00",
+      "last_seen": "2026-01-09T23:28:09.201094+00:00",
+      "date": "2026-01-09",
+      "source_id": "bbc_world",
+      "title": "Iran leader says anti-government protesters are vandals trying to please Trump",
+      "link": "https://www.bbc.com/news/articles/c4g49djqqjgo?at_medium=RSS&at_campaign=rss",
+      "label": "GREEN",
+      "score": 0
+    },
+    "5fe3b6d92db2321ac6dd046da7e880582082bf95": {
+      "first_seen": "2026-01-09T23:28:09.277486+00:00",
+      "last_seen": "2026-01-09T23:28:09.277486+00:00",
+      "date": "2026-01-09",
+      "source_id": "bbc_world",
+      "title": "Video emerges of Minneapolis shooting filmed by ICE agent who opened fire",
+      "link": "https://www.bbc.com/news/articles/cz7yv4524gqo?at_medium=RSS&at_campaign=rss",
+      "label": "GREEN",
+      "score": 0
+    },
+    "aaa1f88b7b1d1fb39b03b1d0211504c98f995e3e": {
+      "first_seen": "2026-01-09T23:28:09.350430+00:00",
+      "last_seen": "2026-01-09T23:28:09.350430+00:00",
+      "date": "2026-01-09",
+      "source_id": "bbc_world",
+      "title": "Owner of Swiss ski bar held in custody after deadly New Year's Eve fire",
+      "link": "https://www.bbc.com/news/articles/c4g0mq520zeo?at_medium=RSS&at_campaign=rss",
+      "label": "GREEN",
+      "score": 0
+    },
+    "df962f87c6ae46ca827c87583adc440037fca168": {
+      "first_seen": "2026-01-09T23:28:09.437156+00:00",
+      "last_seen": "2026-01-09T23:28:09.437156+00:00",
+      "date": "2026-01-09",
+      "source_id": "bbc_world",
+      "title": "Trump says US needs to 'own' Greenland to prevent Russia and China from taking it",
+      "link": "https://www.bbc.com/news/articles/c78vj5n7jg3o?at_medium=RSS&at_campaign=rss",
+      "label": "GREEN",
+      "score": 0
+    },
+    "ba042502f4baf4356d1efc8e8d51c0cfb6238c32": {
+      "first_seen": "2026-01-09T23:28:09.520771+00:00",
+      "last_seen": "2026-01-09T23:28:09.520771+00:00",
+      "date": "2026-01-09",
+      "source_id": "bbc_world",
+      "title": "Trump's Venezuela oil meeting starts with few concrete promises",
+      "link": "https://www.bbc.com/news/articles/c205dx61x76o?at_medium=RSS&at_campaign=rss",
+      "label": "GREEN",
+      "score": 0
+    },
+    "42e3a6b730fd3108e190ca779ae7c93ad5dfff22": {
+      "first_seen": "2026-01-09T23:28:09.589115+00:00",
+      "last_seen": "2026-01-09T23:28:09.589115+00:00",
+      "date": "2026-01-09",
+      "source_id": "bbc_world",
+      "title": "US seizes fifth oil tanker linked to Venezuela, officials say",
+      "link": "https://www.bbc.com/news/articles/cdxj28xd542o?at_medium=RSS&at_campaign=rss",
+      "label": "GREEN",
+      "score": 0
+    },
+    "3977bd3c9f78921ca5d1aad1d639c137b1181117": {
+      "first_seen": "2026-01-09T23:28:09.671826+00:00",
+      "last_seen": "2026-01-09T23:28:09.671826+00:00",
+      "date": "2026-01-09",
+      "source_id": "bbc_world",
+      "title": "X could face UK ban over deepfakes, minister says",
+      "link": "https://www.bbc.com/news/articles/c99kn52nx9do?at_medium=RSS&at_campaign=rss",
+      "label": "GREEN",
+      "score": 0
+    },
+    "312b50ce4ae2e1f8501a538fececeb66e1c7faef": {
+      "first_seen": "2026-01-09T23:28:09.765464+00:00",
+      "last_seen": "2026-01-09T23:28:09.765464+00:00",
+      "date": "2026-01-09",
+      "source_id": "bbc_world",
+      "title": "US film stars Meagan Good and Jonathan Majors to become Guinea citizens after DNA tests",
+      "link": "https://www.bbc.com/news/articles/c8d04zp8m26o?at_medium=RSS&at_campaign=rss",
+      "label": "GREEN",
+      "score": 0
+    },
+    "760d1cdea4f3c0da96c20243d7abf31962a42eba": {
+      "first_seen": "2026-01-09T23:28:09.842387+00:00",
+      "last_seen": "2026-01-09T23:28:09.842387+00:00",
+      "date": "2026-01-09",
+      "source_id": "bbc_world",
+      "title": "EU reaches South America trade deal after 25 years of talks",
+      "link": "https://www.bbc.com/news/articles/ceqzj49gny4o?at_medium=RSS&at_campaign=rss",
+      "label": "GREEN",
+      "score": 0
+    },
+    "d36fe587f8a54e105b3e89bfe488a9a3f05dfee1": {
+      "first_seen": "2026-01-09T23:28:09.926795+00:00",
+      "last_seen": "2026-01-09T23:28:09.926795+00:00",
+      "date": "2026-01-09",
+      "source_id": "bbc_world",
+      "title": "Colombia sees 'real threat' of US military action, president tells BBC",
+      "link": "https://www.bbc.com/news/articles/cwygjvkvpgro?at_medium=RSS&at_campaign=rss",
+      "label": "GREEN",
+      "score": 0
+    },
+    "b94318a7d8feb611fa21a57d03f6c766ce0299d2": {
+      "first_seen": "2026-01-09T23:28:10.018636+00:00",
+      "last_seen": "2026-01-09T23:28:10.018636+00:00",
+      "date": "2026-01-09",
+      "source_id": "bbc_world",
+      "title": "Venezuelan government begins releasing political prisoners",
+      "link": "https://www.bbc.com/news/articles/c0mkwl2g499o?at_medium=RSS&at_campaign=rss",
+      "label": "GREEN",
+      "score": 0
+    },
+    "fa449aebb581e0a649c3349747348238d69cda5a": {
+      "first_seen": "2026-01-09T23:28:10.094825+00:00",
+      "last_seen": "2026-01-09T23:28:10.094825+00:00",
+      "date": "2026-01-09",
+      "source_id": "bbc_world",
+      "title": "Second night of US protests over ICE shooting of woman in Minneapolis",
+      "link": "https://www.bbc.com/news/articles/c99knmrx71go?at_medium=RSS&at_campaign=rss",
+      "label": "GREEN",
+      "score": 0
+    },
+    "155b240cc4760713db714eef638daf1179327dc4": {
+      "first_seen": "2026-01-09T23:28:10.180051+00:00",
+      "last_seen": "2026-01-09T23:28:10.180051+00:00",
+      "date": "2026-01-09",
+      "source_id": "bbc_world",
+      "title": "The continued mysteries surrounding the intelligence operation to seize Maduro",
+      "link": "https://www.bbc.com/news/articles/cp37yr2xq7no?at_medium=RSS&at_campaign=rss",
+      "label": "GREEN",
+      "score": 0
+    },
+    "9c9f518ad03ac0bc5bd251b39864b0d758b306b2": {
+      "first_seen": "2026-01-09T23:28:10.267524+00:00",
+      "last_seen": "2026-01-09T23:28:10.267524+00:00",
+      "date": "2026-01-09",
+      "source_id": "bbc_world",
+      "title": "'I feel free': Australia's social media ban, one month on",
+      "link": "https://www.bbc.com/news/articles/c0mpmgn3jv2o?at_medium=RSS&at_campaign=rss",
+      "label": "GREEN",
+      "score": 0
+    },
+    "e1fd9a15c418b5e4feb9a842f349f393fc4fd372": {
+      "first_seen": "2026-01-09T23:28:10.329278+00:00",
+      "last_seen": "2026-01-09T23:28:10.329278+00:00",
+      "date": "2026-01-09",
+      "source_id": "bbc_world",
+      "title": "Trump's warning looms over Iran protests response",
+      "link": "https://www.bbc.com/news/articles/c23r4yeyxl9o?at_medium=RSS&at_campaign=rss",
+      "label": "GREEN",
+      "score": 0
+    },
+    "ef23a6598b2adf26d926020c1ee54910d43eab70": {
+      "first_seen": "2026-01-09T23:28:10.412613+00:00",
+      "last_seen": "2026-01-09T23:28:10.412613+00:00",
+      "date": "2026-01-09",
+      "source_id": "bbc_world",
+      "title": "The musician and the strongman leader - what you need to know about Uganda's election",
+      "link": "https://www.bbc.com/news/articles/c205dd7gjrpo?at_medium=RSS&at_campaign=rss",
+      "label": "GREEN",
+      "score": 0
     }
   },
   "telegram": {
