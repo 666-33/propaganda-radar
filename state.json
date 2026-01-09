@@ -1990,9 +1990,59 @@
       "link": "https://www.bbc.com/news/videos/c78e9vmn7dgo?at_medium=RSS&at_campaign=rss",
       "label": "GREEN",
       "score": 0
+    },
+    "874d2f13bb1796c97ad7d0b12bdb992d6393a9b1": {
+      "first_seen": "2026-01-09T14:26:48.315490+00:00",
+      "last_seen": "2026-01-09T14:26:48.315490+00:00",
+      "date": "2026-01-09",
+      "source_id": "bbc_world",
+      "title": "Changes to Elon Musk's AI Grok 'insulting' to victims, says No 10",
+      "link": "https://www.bbc.com/news/articles/c99kn52nx9do?at_medium=RSS&at_campaign=rss",
+      "label": "GREEN",
+      "score": 0
+    },
+    "ee3172e93b500631d0446878abaa43994f5e44ad": {
+      "first_seen": "2026-01-09T14:26:48.368706+00:00",
+      "last_seen": "2026-01-09T14:26:48.368706+00:00",
+      "date": "2026-01-09",
+      "source_id": "bbc_world",
+      "title": "India pushes back at Trump aide's claim about US trade deal breakdown",
+      "link": "https://www.bbc.com/news/articles/c4gvp5gyd7xo?at_medium=RSS&at_campaign=rss",
+      "label": "GREEN",
+      "score": 0
+    },
+    "95483a075c73b06216a747d53daf23d0da948732": {
+      "first_seen": "2026-01-09T14:26:48.424896+00:00",
+      "last_seen": "2026-01-09T14:26:48.424896+00:00",
+      "date": "2026-01-09",
+      "source_id": "bbc_world",
+      "title": "Vance criticises Denmark and Europe's handling of 'critical' Greenland",
+      "link": "https://www.bbc.com/news/articles/c2lgjd51v95o?at_medium=RSS&at_campaign=rss",
+      "label": "GREEN",
+      "score": 0
+    },
+    "1271a9b8d9db44e3bf0b84c678a1baf072a155ac": {
+      "first_seen": "2026-01-09T14:26:48.504537+00:00",
+      "last_seen": "2026-01-09T14:26:48.504537+00:00",
+      "date": "2026-01-09",
+      "source_id": "bbc_world",
+      "title": "Trump's grand plan to reshape the world order leaves Europe with a difficult choice to make",
+      "link": "https://www.bbc.com/news/articles/c041n3ng03no?at_medium=RSS&at_campaign=rss",
+      "label": "GREEN",
+      "score": 0
+    },
+    "afebfa7fe90d47f72911a11932beae01f096b23d": {
+      "first_seen": "2026-01-09T14:26:48.586173+00:00",
+      "last_seen": "2026-01-09T14:26:48.586173+00:00",
+      "date": "2026-01-09",
+      "source_id": "bbc_world",
+      "title": "'He's crazy': BBC speaks to Greenlanders about Trump's threats",
+      "link": "https://www.bbc.com/news/videos/c78veq59823o?at_medium=RSS&at_campaign=rss",
+      "label": "GREEN",
+      "score": 0
     }
   },
   "telegram": {
-    "last_sent_date": "2026-01-08"
+    "last_sent_date": "2026-01-09"
   }
 }
