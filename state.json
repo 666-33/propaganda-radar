@@ -1830,6 +1830,26 @@
       "link": "https://www.bbc.com/news/videos/c394vjengdgo?at_medium=RSS&at_campaign=rss",
       "label": "GREEN",
       "score": 0
+    },
+    "4335c1f40b6ba3dcdb8e39c8f652659f44a22c29": {
+      "first_seen": "2026-01-09T04:05:39.978732+00:00",
+      "last_seen": "2026-01-09T04:05:39.978732+00:00",
+      "date": "2026-01-09",
+      "source_id": "bbc_world",
+      "title": "Huge anti-government protests in Tehran and other Iranian cities, videos show",
+      "link": "https://www.bbc.com/news/articles/cg7y0579lp8o?at_medium=RSS&at_campaign=rss",
+      "label": "GREEN",
+      "score": 0
+    },
+    "616ebadb9a897a72bcbcfc6d37d7a2113afbb49b": {
+      "first_seen": "2026-01-09T04:05:40.041137+00:00",
+      "last_seen": "2026-01-09T04:05:40.041137+00:00",
+      "date": "2026-01-09",
+      "source_id": "bbc_world",
+      "title": "Minnesota officials say FBI blocked their access to ICE shooting probe",
+      "link": "https://www.bbc.com/news/articles/c99knmrx71go?at_medium=RSS&at_campaign=rss",
+      "label": "GREEN",
+      "score": 0
     }
   },
   "telegram": {
