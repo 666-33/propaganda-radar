@@ -2310,9 +2310,29 @@
       "link": "https://www.bbc.com/news/articles/cgqe9kv9xxvo?at_medium=RSS&at_campaign=rss",
       "label": "GREEN",
       "score": 0
+    },
+    "966986dd48c6c5ca3f12b9545d210d037424708c": {
+      "first_seen": "2026-01-10T14:20:22.711405+00:00",
+      "last_seen": "2026-01-10T14:20:22.711405+00:00",
+      "date": "2026-01-10",
+      "source_id": "bbc_world",
+      "title": "Rescuers race to find dozens missing after deadly landfill collapse in Philippines",
+      "link": "https://www.bbc.com/news/articles/cn42jqlqy4xo?at_medium=RSS&at_campaign=rss",
+      "label": "GREEN",
+      "score": 0
+    },
+    "20eb4df02f7b201d36a246344e035d9b20aa926b": {
+      "first_seen": "2026-01-10T14:20:22.776839+00:00",
+      "last_seen": "2026-01-10T14:20:22.776839+00:00",
+      "date": "2026-01-10",
+      "source_id": "bbc_world",
+      "title": "Musk says X outcry is 'excuse for censorship'",
+      "link": "https://www.bbc.com/news/articles/ce3kqzepp5zo?at_medium=RSS&at_campaign=rss",
+      "label": "GREEN",
+      "score": 0
     }
   },
   "telegram": {
-    "last_sent_date": "2026-01-09"
+    "last_sent_date": "2026-01-10"
   }
 }
