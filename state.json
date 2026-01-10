@@ -2330,6 +2330,86 @@
       "link": "https://www.bbc.com/news/articles/ce3kqzepp5zo?at_medium=RSS&at_campaign=rss",
       "label": "GREEN",
       "score": 0
+    },
+    "20ad2bdb0f76ee161e6364a75644abdc78fa5873": {
+      "first_seen": "2026-01-10T23:26:59.184751+00:00",
+      "last_seen": "2026-01-10T23:26:59.184751+00:00",
+      "date": "2026-01-10",
+      "source_id": "bbc_world",
+      "title": "US military strikes Islamic State group targets in Syria, officials say",
+      "link": "https://www.bbc.com/news/articles/cly9597r4qpo?at_medium=RSS&at_campaign=rss",
+      "label": "GREEN",
+      "score": 0
+    },
+    "cad9871b9804446f0f09d25b63d597ecfb687796": {
+      "first_seen": "2026-01-10T23:26:59.241395+00:00",
+      "last_seen": "2026-01-10T23:26:59.241395+00:00",
+      "date": "2026-01-10",
+      "source_id": "bbc_world",
+      "title": "Dozens arrested and one police officer injured in Minneapolis protests",
+      "link": "https://www.bbc.com/news/articles/cvgpnwnqygro?at_medium=RSS&at_campaign=rss",
+      "label": "GREEN",
+      "score": 0
+    },
+    "309236fcbddbe97dbc64a81282cbc827d5733208": {
+      "first_seen": "2026-01-10T23:26:59.328114+00:00",
+      "last_seen": "2026-01-10T23:26:59.328114+00:00",
+      "date": "2026-01-10",
+      "source_id": "bbc_world",
+      "title": "Author Chimamanda Ngozi Adichie's family accuse hospital of negligence over son's death",
+      "link": "https://www.bbc.com/news/articles/c0lx09e618yo?at_medium=RSS&at_campaign=rss",
+      "label": "GREEN",
+      "score": 0
+    },
+    "754eef2076caba596bb53392b61bb84bcfa5136d": {
+      "first_seen": "2026-01-10T23:26:59.383808+00:00",
+      "last_seen": "2026-01-10T23:26:59.383808+00:00",
+      "date": "2026-01-10",
+      "source_id": "bbc_world",
+      "title": "Rare first Superman comic once stolen from Nicolas Cage sells for $15m",
+      "link": "https://www.bbc.com/news/articles/cly95lpwl1ro?at_medium=RSS&at_campaign=rss",
+      "label": "GREEN",
+      "score": 0
+    },
+    "fda5ef4519734400f51d5ac1695e92a41bf1ba1c": {
+      "first_seen": "2026-01-10T23:26:59.441044+00:00",
+      "last_seen": "2026-01-10T23:26:59.441044+00:00",
+      "date": "2026-01-10",
+      "source_id": "bbc_world",
+      "title": "Trump says US needs to 'own' Greenland to prevent Russia and China from taking it",
+      "link": "https://www.bbc.com/news/articles/c78vj5n7jg3o?at_medium=RSS&at_campaign=rss",
+      "label": "GREEN",
+      "score": 0
+    },
+    "bb396d3db8cdd8bcf6663a93145a8bf27e681d1a": {
+      "first_seen": "2026-01-10T23:26:59.505485+00:00",
+      "last_seen": "2026-01-10T23:26:59.505485+00:00",
+      "date": "2026-01-10",
+      "source_id": "bbc_world",
+      "title": "'Hermès of durian': The luxury fruit cashing in on China's billion-dollar appetite",
+      "link": "https://www.bbc.com/news/articles/cz7ndzw28v4o?at_medium=RSS&at_campaign=rss",
+      "label": "GREEN",
+      "score": 0
+    },
+    "c80a0b61699f7a12c5b5c2c525862dd0edbf8d2f": {
+      "first_seen": "2026-01-10T23:26:59.568531+00:00",
+      "last_seen": "2026-01-10T23:26:59.568531+00:00",
+      "date": "2026-01-10",
+      "source_id": "bbc_world",
+      "title": "Swiss search souls and question government after ski resort fire",
+      "link": "https://www.bbc.com/news/articles/cpwnd22lj54o?at_medium=RSS&at_campaign=rss",
+      "label": "GREEN",
+      "score": 0
+    },
+    "1f0b29ade9b922de6f1d70e75a051216e63dad24": {
+      "first_seen": "2026-01-10T23:26:59.630568+00:00",
+      "last_seen": "2026-01-10T23:26:59.630568+00:00",
+      "date": "2026-01-10",
+      "source_id": "bbc_world",
+      "title": "Greenlanders fear for future as island embroiled in geopolitical storm",
+      "link": "https://www.bbc.com/news/articles/cgrd2e7p9reo?at_medium=RSS&at_campaign=rss",
+      "label": "GREEN",
+      "score": 0
     }
   },
   "telegram": {
