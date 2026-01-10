@@ -2250,6 +2250,66 @@
       "link": "https://www.bbc.com/news/articles/c62wxezynk2o?at_medium=RSS&at_campaign=rss",
       "label": "GREEN",
       "score": 0
+    },
+    "efa30e657c9c70ff194f87d43805cdd3b4e3e144": {
+      "first_seen": "2026-01-10T09:10:46.923970+00:00",
+      "last_seen": "2026-01-10T09:10:46.923970+00:00",
+      "date": "2026-01-10",
+      "source_id": "bbc_world",
+      "title": "Iran medics describe overwhelmed hospitals as protests enter second week",
+      "link": "https://www.bbc.com/news/articles/cj9rengvnp9o?at_medium=RSS&at_campaign=rss",
+      "label": "GREEN",
+      "score": 0
+    },
+    "2543d2e71265d2efdb64b972f53ee3b614c7d5a3": {
+      "first_seen": "2026-01-10T09:10:46.995993+00:00",
+      "last_seen": "2026-01-10T09:10:46.995993+00:00",
+      "date": "2026-01-10",
+      "source_id": "bbc_world",
+      "title": "Greenlanders unnerved as they find themselves in geopolitical storm",
+      "link": "https://www.bbc.com/news/articles/cgrd2e7p9reo?at_medium=RSS&at_campaign=rss",
+      "label": "GREEN",
+      "score": 0
+    },
+    "f2c56348cbf86cf2cbb8aa70fc883899f877288d": {
+      "first_seen": "2026-01-10T09:10:47.060371+00:00",
+      "last_seen": "2026-01-10T09:10:47.060371+00:00",
+      "date": "2026-01-10",
+      "source_id": "bbc_world",
+      "title": "Swiss search souls and question government after ski resort fire",
+      "link": "https://www.bbc.com/news/articles/cpwnd22lj54o?at_medium=RSS&at_campaign=rss",
+      "label": "GREEN",
+      "score": 0
+    },
+    "b0c0511c142f90ad091441d154aaa1f5c16fe37a": {
+      "first_seen": "2026-01-10T09:10:47.113544+00:00",
+      "last_seen": "2026-01-10T09:10:47.113544+00:00",
+      "date": "2026-01-10",
+      "source_id": "bbc_world",
+      "title": "Musk says X outcry is 'excuse for censorship'",
+      "link": "https://www.bbc.com/news/articles/ce3kqzepp5zo?at_medium=RSS&at_campaign=rss",
+      "label": "GREEN",
+      "score": 0
+    },
+    "02c6c04c7ad7d43a90e14b8bc5a61638966f1628": {
+      "first_seen": "2026-01-10T09:10:47.170366+00:00",
+      "last_seen": "2026-01-10T09:10:47.170366+00:00",
+      "date": "2026-01-10",
+      "source_id": "bbc_world",
+      "title": "Night of Swiss ski bar fire 'apocalyptic', woman tells Crans-Montana memorial",
+      "link": "https://www.bbc.com/news/articles/cn7jxm7jkg1o?at_medium=RSS&at_campaign=rss",
+      "label": "GREEN",
+      "score": 0
+    },
+    "5dc548677321eab4cdc8c7deee390e34cef6298b": {
+      "first_seen": "2026-01-10T09:10:47.222606+00:00",
+      "last_seen": "2026-01-10T09:10:47.222606+00:00",
+      "date": "2026-01-10",
+      "source_id": "bbc_world",
+      "title": "Russia hits Ukraine with rarely used Oreshnik missile in fresh strikes",
+      "link": "https://www.bbc.com/news/articles/cgqe9kv9xxvo?at_medium=RSS&at_campaign=rss",
+      "label": "GREEN",
+      "score": 0
     }
   },
   "telegram": {
