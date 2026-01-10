@@ -2200,6 +2200,56 @@
       "link": "https://www.bbc.com/news/articles/c205dd7gjrpo?at_medium=RSS&at_campaign=rss",
       "label": "GREEN",
       "score": 0
+    },
+    "68f46ad2b89139e07427e6059fc8a5ba2aed2115": {
+      "first_seen": "2026-01-10T03:59:49.185208+00:00",
+      "last_seen": "2026-01-10T03:59:49.185208+00:00",
+      "date": "2026-01-10",
+      "source_id": "bbc_world",
+      "title": "Night of Swiss ski bar fire 'apocalyptic', woman tells Crans-Montana memorial",
+      "link": "https://www.bbc.com/news/articles/cn7jxm7jkg1o?at_medium=RSS&at_campaign=rss",
+      "label": "GREEN",
+      "score": 0
+    },
+    "4ec3e17bbfac3db8130a49462b8fba9c79ba1a85": {
+      "first_seen": "2026-01-10T03:59:49.374558+00:00",
+      "last_seen": "2026-01-10T03:59:49.374558+00:00",
+      "date": "2026-01-10",
+      "source_id": "bbc_world",
+      "title": "Trump seeks $100bn for Venezuela oil, but Exxon boss says country 'uninvestable'",
+      "link": "https://www.bbc.com/news/articles/c205dx61x76o?at_medium=RSS&at_campaign=rss",
+      "label": "GREEN",
+      "score": 0
+    },
+    "f320200fc599983b3e6aba2d0cbe9322c0866d71": {
+      "first_seen": "2026-01-10T03:59:49.545407+00:00",
+      "last_seen": "2026-01-10T03:59:49.545407+00:00",
+      "date": "2026-01-10",
+      "source_id": "bbc_world",
+      "title": "One dead, dozens trapped after giant landfill collapses in Philippines",
+      "link": "https://www.bbc.com/news/articles/c17zqz5pprwo?at_medium=RSS&at_campaign=rss",
+      "label": "GREEN",
+      "score": 0
+    },
+    "d865dc8174ad4dda08f91b446bd5f00213bc40b1": {
+      "first_seen": "2026-01-10T03:59:49.774326+00:00",
+      "last_seen": "2026-01-10T03:59:49.774326+00:00",
+      "date": "2026-01-10",
+      "source_id": "bbc_world",
+      "title": "Romance and parenthood feel remote in Ukraine: 'I haven't had a date since before the war'",
+      "link": "https://www.bbc.com/news/articles/c9qp4wyzvlzo?at_medium=RSS&at_campaign=rss",
+      "label": "GREEN",
+      "score": 0
+    },
+    "52e4bcc155dd9475c4f611611355ebf24484baf6": {
+      "first_seen": "2026-01-10T03:59:49.986900+00:00",
+      "last_seen": "2026-01-10T03:59:49.986900+00:00",
+      "date": "2026-01-10",
+      "source_id": "bbc_world",
+      "title": "South Africa's strained ties with US face new test - war games with China, Iran and Russia",
+      "link": "https://www.bbc.com/news/articles/c62wxezynk2o?at_medium=RSS&at_campaign=rss",
+      "label": "GREEN",
+      "score": 0
     }
   },
   "telegram": {
