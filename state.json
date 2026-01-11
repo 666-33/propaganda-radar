@@ -2530,9 +2530,19 @@
       "link": "https://www.bbc.com/news/articles/cj9rengvnp9o?at_medium=RSS&at_campaign=rss",
       "label": "GREEN",
       "score": 0
+    },
+    "4c1303dbbb68ac36221df0af688a30e15236b1a8": {
+      "first_seen": "2026-01-11T14:20:45.421874+00:00",
+      "last_seen": "2026-01-11T14:20:45.421874+00:00",
+      "date": "2026-01-11",
+      "source_id": "bbc_world",
+      "title": "Bride and groom killed by gas explosion day after Pakistan wedding",
+      "link": "https://www.bbc.com/news/articles/c4gr7nlx421o?at_medium=RSS&at_campaign=rss",
+      "label": "GREEN",
+      "score": 0
     }
   },
   "telegram": {
-    "last_sent_date": "2026-01-10"
+    "last_sent_date": "2026-01-11"
   }
 }
