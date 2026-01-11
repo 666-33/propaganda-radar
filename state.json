@@ -2410,6 +2410,66 @@
       "link": "https://www.bbc.com/news/articles/cgrd2e7p9reo?at_medium=RSS&at_campaign=rss",
       "label": "GREEN",
       "score": 0
+    },
+    "2e98f556b3f1f3f0965784d2639882714838f17b": {
+      "first_seen": "2026-01-11T04:13:55.958519+00:00",
+      "last_seen": "2026-01-11T04:13:55.958519+00:00",
+      "date": "2026-01-11",
+      "source_id": "bbc_world",
+      "title": "Bob Weir, Grateful Dead co-founder, dies aged 78",
+      "link": "https://www.bbc.com/news/articles/cly95x9qe4ko?at_medium=RSS&at_campaign=rss",
+      "label": "GREEN",
+      "score": 0
+    },
+    "3bdda32a15512de8a5022f6096ea241e10862967": {
+      "first_seen": "2026-01-11T04:13:56.065004+00:00",
+      "last_seen": "2026-01-11T04:13:56.065004+00:00",
+      "date": "2026-01-11",
+      "source_id": "bbc_world",
+      "title": "'The answer cannot be nothing': The battle over Canada's mystery brain disease",
+      "link": "https://www.bbc.com/news/articles/c623r47d67lo?at_medium=RSS&at_campaign=rss",
+      "label": "GREEN",
+      "score": 0
+    },
+    "7684d2249f388e67b86161cd61674822e96de3e4": {
+      "first_seen": "2026-01-11T04:13:56.151647+00:00",
+      "last_seen": "2026-01-11T04:13:56.151647+00:00",
+      "date": "2026-01-11",
+      "source_id": "bbc_world",
+      "title": "Rare first Superman comic once stolen from Nicolas Cage sells for $15m",
+      "link": "https://www.bbc.com/news/articles/cly95lpwl1ro?at_medium=RSS&at_campaign=rss",
+      "label": "GREEN",
+      "score": 0
+    },
+    "1d2e14329522e4599fb92b34c049288775ccabcd": {
+      "first_seen": "2026-01-11T04:13:56.235146+00:00",
+      "last_seen": "2026-01-11T04:13:56.235146+00:00",
+      "date": "2026-01-11",
+      "source_id": "bbc_world",
+      "title": "'Hounded and harassed': The former pop star taking on Uganda's long-time president",
+      "link": "https://www.bbc.com/news/articles/cz0pr807yz7o?at_medium=RSS&at_campaign=rss",
+      "label": "GREEN",
+      "score": 0
+    },
+    "d08ae4516321c991e5f60ee50352bbad03420f44": {
+      "first_seen": "2026-01-11T04:13:56.330014+00:00",
+      "last_seen": "2026-01-11T04:13:56.330014+00:00",
+      "date": "2026-01-11",
+      "source_id": "bbc_world",
+      "title": "Winners and Sinners: What to expect from the Golden Globes",
+      "link": "https://www.bbc.com/news/articles/c338d55p0k6o?at_medium=RSS&at_campaign=rss",
+      "label": "GREEN",
+      "score": 0
+    },
+    "0200ee819ead689a1ea76f8dcbc5daf8f4da49ce": {
+      "first_seen": "2026-01-11T04:13:56.407720+00:00",
+      "last_seen": "2026-01-11T04:13:56.407720+00:00",
+      "date": "2026-01-11",
+      "source_id": "bbc_world",
+      "title": "'I had no electricity for six months': American families struggle with soaring energy prices",
+      "link": "https://www.bbc.com/news/articles/c1dz0dz0zkvo?at_medium=RSS&at_campaign=rss",
+      "label": "GREEN",
+      "score": 0
     }
   },
   "telegram": {
