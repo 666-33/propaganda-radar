@@ -2470,6 +2470,66 @@
       "link": "https://www.bbc.com/news/articles/c1dz0dz0zkvo?at_medium=RSS&at_campaign=rss",
       "label": "GREEN",
       "score": 0
+    },
+    "f3b98cb95cbc211841fc0d317b08dd0237166c8d": {
+      "first_seen": "2026-01-11T09:11:24.207281+00:00",
+      "last_seen": "2026-01-11T09:11:24.207281+00:00",
+      "date": "2026-01-11",
+      "source_id": "bbc_world",
+      "title": "Iran protesters defy crackdown as videos show violent clashes",
+      "link": "https://www.bbc.com/news/articles/cm2jek15m8no?at_medium=RSS&at_campaign=rss",
+      "label": "GREEN",
+      "score": 0
+    },
+    "9f1b49d183f62eb55bf810c6e3737f441dd1888c": {
+      "first_seen": "2026-01-11T09:11:24.253701+00:00",
+      "last_seen": "2026-01-11T09:11:24.253701+00:00",
+      "date": "2026-01-11",
+      "source_id": "bbc_world",
+      "title": "One person dead and 300 buildings destroyed in Australia bushfires",
+      "link": "https://www.bbc.com/news/articles/c75xdg2p36lo?at_medium=RSS&at_campaign=rss",
+      "label": "GREEN",
+      "score": 0
+    },
+    "67d98167e46c93d46ffbeeb41232f04ade471569": {
+      "first_seen": "2026-01-11T09:11:24.302569+00:00",
+      "last_seen": "2026-01-11T09:11:24.302569+00:00",
+      "date": "2026-01-11",
+      "source_id": "bbc_world",
+      "title": "Last Kurdish forces leave Aleppo after ceasefire deal reached",
+      "link": "https://www.bbc.com/news/articles/cx2p84xleg2o?at_medium=RSS&at_campaign=rss",
+      "label": "GREEN",
+      "score": 0
+    },
+    "6ab5acec5d3222bf92b80856de1a68dd1b8e4347": {
+      "first_seen": "2026-01-11T09:11:24.360979+00:00",
+      "last_seen": "2026-01-11T09:11:24.360979+00:00",
+      "date": "2026-01-11",
+      "source_id": "bbc_world",
+      "title": "Author Chimamanda Ngozi Adichie's family accuse hospital of negligence over son's death",
+      "link": "https://www.bbc.com/news/articles/c0lx09e618yo?at_medium=RSS&at_campaign=rss",
+      "label": "GREEN",
+      "score": 0
+    },
+    "ff8ee6cc8503e5e0506c4ab1871ae176b18f2a5f": {
+      "first_seen": "2026-01-11T09:11:24.405175+00:00",
+      "last_seen": "2026-01-11T09:11:24.405175+00:00",
+      "date": "2026-01-11",
+      "source_id": "bbc_world",
+      "title": "Rescuers race to find dozens missing in deadly Philippines landfill collapse",
+      "link": "https://www.bbc.com/news/articles/cn42jqlqy4xo?at_medium=RSS&at_campaign=rss",
+      "label": "GREEN",
+      "score": 0
+    },
+    "a8a0503377343d7a1f2b50888341d2d5462414af": {
+      "first_seen": "2026-01-11T09:11:24.465165+00:00",
+      "last_seen": "2026-01-11T09:11:24.465165+00:00",
+      "date": "2026-01-11",
+      "source_id": "bbc_world",
+      "title": "'There wasn't even time for CPR': Iran medics describe hospitals overwhelmed with dead and injured protesters",
+      "link": "https://www.bbc.com/news/articles/cj9rengvnp9o?at_medium=RSS&at_campaign=rss",
+      "label": "GREEN",
+      "score": 0
     }
   },
   "telegram": {
