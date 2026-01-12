@@ -2860,6 +2860,66 @@
       "link": "https://www.bbc.com/news/articles/cr7jep39eg4o?at_medium=RSS&at_campaign=rss",
       "label": "GREEN",
       "score": 0
+    },
+    "5d64494d62a26916eef07a0f152286fb8895027f": {
+      "first_seen": "2026-01-12T23:23:44.322222+00:00",
+      "last_seen": "2026-01-12T23:23:44.322222+00:00",
+      "date": "2026-01-12",
+      "source_id": "bbc_world",
+      "title": "'They just kept killing': Eyewitnesses describe deadly crackdown in Iran",
+      "link": "https://www.bbc.com/news/articles/cvgp70ynx1po?at_medium=RSS&at_campaign=rss",
+      "label": "GREEN",
+      "score": 0
+    },
+    "55a861d2ae2158572c6b05e928e7b8f88b27d8b4": {
+      "first_seen": "2026-01-12T23:23:44.430872+00:00",
+      "last_seen": "2026-01-12T23:23:44.430872+00:00",
+      "date": "2026-01-12",
+      "source_id": "bbc_world",
+      "title": "Trump to meet Venezuelan opposition leader Machado at the White House",
+      "link": "https://www.bbc.com/news/articles/cr7jzpr95yvo?at_medium=RSS&at_campaign=rss",
+      "label": "GREEN",
+      "score": 0
+    },
+    "52dbedd5c05b48888c2ac98b8c3cad7046277b46": {
+      "first_seen": "2026-01-12T23:23:44.525652+00:00",
+      "last_seen": "2026-01-12T23:23:44.525652+00:00",
+      "date": "2026-01-12",
+      "source_id": "bbc_world",
+      "title": "Former Fed chairs condemn criminal investigation into Jerome Powell",
+      "link": "https://www.bbc.com/news/articles/c394xwdve9lo?at_medium=RSS&at_campaign=rss",
+      "label": "GREEN",
+      "score": 0
+    },
+    "b301d65f4c1f0d5654665981469e383690da8d17": {
+      "first_seen": "2026-01-12T23:23:44.622423+00:00",
+      "last_seen": "2026-01-12T23:23:44.622423+00:00",
+      "date": "2026-01-12",
+      "source_id": "bbc_world",
+      "title": "'Miracle baby' born in a tree above Mozambique floodwaters dies aged 25",
+      "link": "https://www.bbc.com/news/articles/c79re5415n2o?at_medium=RSS&at_campaign=rss",
+      "label": "GREEN",
+      "score": 0
+    },
+    "1a12fefab4b61e42bde76ad1d16ab16d6a0c7ccb": {
+      "first_seen": "2026-01-12T23:23:44.730237+00:00",
+      "last_seen": "2026-01-12T23:23:44.730237+00:00",
+      "date": "2026-01-12",
+      "source_id": "bbc_world",
+      "title": "Jailed Venezuelan politician's son says Trump shouldn't be 'fooled' by pledge of prisoner releases",
+      "link": "https://www.bbc.com/news/articles/c801kypkl3ko?at_medium=RSS&at_campaign=rss",
+      "label": "GREEN",
+      "score": 0
+    },
+    "47481f88c8ee1c9a69b7ac3029a1036b37392670": {
+      "first_seen": "2026-01-12T23:23:44.822269+00:00",
+      "last_seen": "2026-01-12T23:23:44.822269+00:00",
+      "date": "2026-01-12",
+      "source_id": "bbc_world",
+      "title": "Meta blocks 550,000 accounts under Australia's social media ban",
+      "link": "https://www.bbc.com/news/articles/cpqye2yygl4o?at_medium=RSS&at_campaign=rss",
+      "label": "GREEN",
+      "score": 0
     }
   },
   "telegram": {
