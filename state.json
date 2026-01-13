@@ -3060,9 +3060,99 @@
       "link": "https://www.bbc.com/news/articles/c394xwdve9lo?at_medium=RSS&at_campaign=rss",
       "label": "GREEN",
       "score": 0
+    },
+    "f16b9e13427b7b32226dbd51a9214779381482bf": {
+      "first_seen": "2026-01-13T14:27:32.917168+00:00",
+      "last_seen": "2026-01-13T14:27:32.917168+00:00",
+      "date": "2026-01-13",
+      "source_id": "bbc_world",
+      "title": "World central bank chiefs 'stand in solidarity' with US Fed chair Powell",
+      "link": "https://www.bbc.com/news/articles/c041dp0z95yo?at_medium=RSS&at_campaign=rss",
+      "label": "GREEN",
+      "score": 0
+    },
+    "664e5465ce891e66fd28815b356d0032e95482fe": {
+      "first_seen": "2026-01-13T14:27:32.976212+00:00",
+      "last_seen": "2026-01-13T14:27:32.976212+00:00",
+      "date": "2026-01-13",
+      "source_id": "bbc_world",
+      "title": "Prosecutors seek death penalty for ex-South Korean president Yoon",
+      "link": "https://www.bbc.com/news/articles/cq6vyqq5r0do?at_medium=RSS&at_campaign=rss",
+      "label": "GREEN",
+      "score": 0
+    },
+    "6cb5c6d4ff79857c0a0f81bf3ac401fa9d5c9029": {
+      "first_seen": "2026-01-13T14:27:33.029224+00:00",
+      "last_seen": "2026-01-13T14:27:33.029224+00:00",
+      "date": "2026-01-13",
+      "source_id": "bbc_world",
+      "title": "Cold weather and data centres drive up US greenhouse gas emissions",
+      "link": "https://www.bbc.com/news/articles/cj9r3832j47o?at_medium=RSS&at_campaign=rss",
+      "label": "GREEN",
+      "score": 0
+    },
+    "0751127b7a2ef1c0af1530e72cb1312524f0d7d5": {
+      "first_seen": "2026-01-13T14:27:33.084695+00:00",
+      "last_seen": "2026-01-13T14:27:33.084695+00:00",
+      "date": "2026-01-13",
+      "source_id": "bbc_world",
+      "title": "Niger revokes licences of tanker drivers who refuse to go to Mali amid jihadist blockade",
+      "link": "https://www.bbc.com/news/articles/cr578g7v082o?at_medium=RSS&at_campaign=rss",
+      "label": "GREEN",
+      "score": 0
+    },
+    "fd441cab7158ce31026de0787844abad9dd12912": {
+      "first_seen": "2026-01-13T14:27:33.135728+00:00",
+      "last_seen": "2026-01-13T14:27:33.135728+00:00",
+      "date": "2026-01-13",
+      "source_id": "bbc_world",
+      "title": "Hunt for gunman after Corsican exile is shot dead at mother's funeral",
+      "link": "https://www.bbc.com/news/articles/c0mk80lyw09o?at_medium=RSS&at_campaign=rss",
+      "label": "GREEN",
+      "score": 0
+    },
+    "ea9dec6e74cc6d175fe7db6ed3aff37b20e94815": {
+      "first_seen": "2026-01-13T14:27:33.203067+00:00",
+      "last_seen": "2026-01-13T14:27:33.203067+00:00",
+      "date": "2026-01-13",
+      "source_id": "bbc_world",
+      "title": "Senator Mark Kelly sues Defence Secretary Pete Hegseth over attempted demotion",
+      "link": "https://www.bbc.com/news/articles/c8j31728187o?at_medium=RSS&at_campaign=rss",
+      "label": "GREEN",
+      "score": 0
+    },
+    "cbfddc21a30a564ddc487192af948d8b40ec55ad": {
+      "first_seen": "2026-01-13T14:27:33.254176+00:00",
+      "last_seen": "2026-01-13T14:27:33.254176+00:00",
+      "date": "2026-01-13",
+      "source_id": "bbc_world",
+      "title": "Trump to meet Venezuelan opposition leader Machado at the White House",
+      "link": "https://www.bbc.com/news/articles/cr7jzpr95yvo?at_medium=RSS&at_campaign=rss",
+      "label": "GREEN",
+      "score": 0
+    },
+    "ebbd51c4376912f7385ef8b56808242d6dc945e1": {
+      "first_seen": "2026-01-13T14:27:33.317000+00:00",
+      "last_seen": "2026-01-13T14:27:33.317000+00:00",
+      "date": "2026-01-13",
+      "source_id": "bbc_world",
+      "title": "Lyse Doucet: Iran's rulers face biggest challenge since 1979 revolution",
+      "link": "https://www.bbc.com/news/articles/c3ve572edzqo?at_medium=RSS&at_campaign=rss",
+      "label": "GREEN",
+      "score": 0
+    },
+    "f3847f7985e88284af67aa986ec8e6fff7ba4179": {
+      "first_seen": "2026-01-13T14:27:33.375447+00:00",
+      "last_seen": "2026-01-13T14:27:33.375447+00:00",
+      "date": "2026-01-13",
+      "source_id": "bbc_world",
+      "title": "What countries do business with Iran  and what could US tariffs mean?",
+      "link": "https://www.bbc.com/news/articles/cwynx4rerpzo?at_medium=RSS&at_campaign=rss",
+      "label": "GREEN",
+      "score": 0
     }
   },
   "telegram": {
-    "last_sent_date": "2026-01-12"
+    "last_sent_date": "2026-01-13"
   }
 }
