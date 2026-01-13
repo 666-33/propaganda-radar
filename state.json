@@ -3150,6 +3150,106 @@
       "link": "https://www.bbc.com/news/articles/cwynx4rerpzo?at_medium=RSS&at_campaign=rss",
       "label": "GREEN",
       "score": 0
+    },
+    "604505792a903168964b977da7a7a038766cbbac": {
+      "first_seen": "2026-01-13T23:26:53.563084+00:00",
+      "last_seen": "2026-01-13T23:26:53.563084+00:00",
+      "date": "2026-01-13",
+      "source_id": "bbc_world",
+      "title": "More than 2,000 people reported killed at Iran protests as Trump says 'help is on its way'",
+      "link": "https://www.bbc.com/news/articles/cr57vmznmd9o?at_medium=RSS&at_campaign=rss",
+      "label": "GREEN",
+      "score": 0
+    },
+    "ff0ab57cf7ff1805305061bc5d066dce39f85e2f": {
+      "first_seen": "2026-01-13T23:26:53.620429+00:00",
+      "last_seen": "2026-01-13T23:26:53.620429+00:00",
+      "date": "2026-01-13",
+      "source_id": "bbc_world",
+      "title": "Bowen: Authoritarian regimes die gradually then suddenly, but Iran is not there yet",
+      "link": "https://www.bbc.com/news/articles/cedwgn4pqv4o?at_medium=RSS&at_campaign=rss",
+      "label": "GREEN",
+      "score": 0
+    },
+    "7ee3af49304132d0b4667dff8fc902339e4f9086": {
+      "first_seen": "2026-01-13T23:26:53.678801+00:00",
+      "last_seen": "2026-01-13T23:26:53.678801+00:00",
+      "date": "2026-01-13",
+      "source_id": "bbc_world",
+      "title": "We choose Denmark over US, Greenland's PM says",
+      "link": "https://www.bbc.com/news/articles/c4g3kw5ezepo?at_medium=RSS&at_campaign=rss",
+      "label": "GREEN",
+      "score": 0
+    },
+    "c2e58fa7776cdbf3950949e713a6dfe620e2400f": {
+      "first_seen": "2026-01-13T23:26:53.732637+00:00",
+      "last_seen": "2026-01-13T23:26:53.732637+00:00",
+      "date": "2026-01-13",
+      "source_id": "bbc_world",
+      "title": "Republicans vow to hold Bill Clinton in contempt as he skips Epstein testimony",
+      "link": "https://www.bbc.com/news/articles/cj6w17ykd89o?at_medium=RSS&at_campaign=rss",
+      "label": "GREEN",
+      "score": 0
+    },
+    "e249e125bdab6bff6f29b55194b81580e3bd7235": {
+      "first_seen": "2026-01-13T23:26:53.777402+00:00",
+      "last_seen": "2026-01-13T23:26:53.777402+00:00",
+      "date": "2026-01-13",
+      "source_id": "bbc_world",
+      "title": "Controversial Dilbert cartoonist Scott Adams dies aged 68",
+      "link": "https://www.bbc.com/news/articles/c5y320k72vyo?at_medium=RSS&at_campaign=rss",
+      "label": "GREEN",
+      "score": 0
+    },
+    "23f420641b27dc8e0d7b58f31bfbd2fb7228360d": {
+      "first_seen": "2026-01-13T23:26:53.832033+00:00",
+      "last_seen": "2026-01-13T23:26:53.832033+00:00",
+      "date": "2026-01-13",
+      "source_id": "bbc_world",
+      "title": "Trump administration moves to end deportation protection for Somalis",
+      "link": "https://www.bbc.com/news/articles/cz0p9ld5egjo?at_medium=RSS&at_campaign=rss",
+      "label": "GREEN",
+      "score": 0
+    },
+    "98b5d6c3ab0776fde2b9398616a548f9a5785b37": {
+      "first_seen": "2026-01-13T23:26:53.895278+00:00",
+      "last_seen": "2026-01-13T23:26:53.895278+00:00",
+      "date": "2026-01-13",
+      "source_id": "bbc_world",
+      "title": "BTS stand to make $1bn as they announce mammoth comeback tour",
+      "link": "https://www.bbc.com/news/articles/c79rqzv1e7ro?at_medium=RSS&at_campaign=rss",
+      "label": "GREEN",
+      "score": 0
+    },
+    "3a54e992cb9feb7786031d9a5ce22a78a097c270": {
+      "first_seen": "2026-01-13T23:26:53.946408+00:00",
+      "last_seen": "2026-01-13T23:26:53.946408+00:00",
+      "date": "2026-01-13",
+      "source_id": "bbc_world",
+      "title": "Le Pen blames European Parliament in appeal that could decide political fate",
+      "link": "https://www.bbc.com/news/articles/c62vnvx2x2po?at_medium=RSS&at_campaign=rss",
+      "label": "GREEN",
+      "score": 0
+    },
+    "b7ab15deb5a7625a37ae274f0949d6533342bcfd": {
+      "first_seen": "2026-01-13T23:26:54.385564+00:00",
+      "last_seen": "2026-01-13T23:26:54.385564+00:00",
+      "date": "2026-01-13",
+      "source_id": "bbc_world",
+      "title": "Cold weather and data centres drive up US greenhouse gas emissions",
+      "link": "https://www.bbc.com/news/articles/cj9r3832j47o?at_medium=RSS&at_campaign=rss",
+      "label": "GREEN",
+      "score": 0
+    },
+    "2118e09339ab7c0dc52559b9b68f8f9216b0015d": {
+      "first_seen": "2026-01-13T23:26:54.444679+00:00",
+      "last_seen": "2026-01-13T23:26:54.444679+00:00",
+      "date": "2026-01-13",
+      "source_id": "bbc_world",
+      "title": "'They just kept killing': Eyewitnesses describe deadly crackdown in Iran",
+      "link": "https://www.bbc.com/news/articles/cvgp70ynx1po?at_medium=RSS&at_campaign=rss",
+      "label": "GREEN",
+      "score": 0
     }
   },
   "telegram": {
