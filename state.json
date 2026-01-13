@@ -3040,6 +3040,26 @@
       "link": "https://www.bbc.com/news/articles/cd0yldn0n7eo?at_medium=RSS&at_campaign=rss",
       "label": "GREEN",
       "score": 0
+    },
+    "e58d72ebe824284147b8203dcd4d0ff3fde8efb8": {
+      "first_seen": "2026-01-13T09:18:36.378008+00:00",
+      "last_seen": "2026-01-13T09:18:36.378008+00:00",
+      "date": "2026-01-13",
+      "source_id": "bbc_world",
+      "title": "Le Pen's political fate rests on appeal trial opening in France",
+      "link": "https://www.bbc.com/news/articles/c62vnvx2x2po?at_medium=RSS&at_campaign=rss",
+      "label": "GREEN",
+      "score": 0
+    },
+    "2c3750d4a355b230c746e165a0ca1c18c4369f06": {
+      "first_seen": "2026-01-13T09:18:36.438500+00:00",
+      "last_seen": "2026-01-13T09:18:36.438500+00:00",
+      "date": "2026-01-13",
+      "source_id": "bbc_world",
+      "title": "Former Fed chairs condemn criminal investigation into Jerome Powell",
+      "link": "https://www.bbc.com/news/articles/c394xwdve9lo?at_medium=RSS&at_campaign=rss",
+      "label": "GREEN",
+      "score": 0
     }
   },
   "telegram": {
