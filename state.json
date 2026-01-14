@@ -3440,9 +3440,129 @@
       "link": "https://www.bbc.com/news/videos/czx3yn0467ro?at_medium=RSS&at_campaign=rss",
       "label": "GREEN",
       "score": 0
+    },
+    "6d54ce3457f5db4e3b8c5410ea60d062bc43c6dc": {
+      "first_seen": "2026-01-14T14:27:24.225316+00:00",
+      "last_seen": "2026-01-14T14:27:24.225316+00:00",
+      "date": "2026-01-14",
+      "source_id": "bbc_world",
+      "title": "Trump vows 'very strong action' if Iran executes protesters",
+      "link": "https://www.bbc.com/news/articles/cqj2qgw8w08o?at_medium=RSS&at_campaign=rss",
+      "label": "GREEN",
+      "score": 0
+    },
+    "b96fb28595cdd64e6a3c87e7538ec722767aba8a": {
+      "first_seen": "2026-01-14T14:27:24.309237+00:00",
+      "last_seen": "2026-01-14T14:27:24.309237+00:00",
+      "date": "2026-01-14",
+      "source_id": "bbc_world",
+      "title": "At least 32 killed after crane collapses on train in Thailand",
+      "link": "https://www.bbc.com/news/articles/ceqz7v1507ro?at_medium=RSS&at_campaign=rss",
+      "label": "GREEN",
+      "score": 0
+    },
+    "ce4f83bf56d41df3b219704c857b82b50818b468": {
+      "first_seen": "2026-01-14T14:27:24.388540+00:00",
+      "last_seen": "2026-01-14T14:27:24.388540+00:00",
+      "date": "2026-01-14",
+      "source_id": "bbc_world",
+      "title": "China announces record $1tn trade surplus despite Trump tariffs",
+      "link": "https://www.bbc.com/news/articles/c9wx1v84rzyo?at_medium=RSS&at_campaign=rss",
+      "label": "GREEN",
+      "score": 0
+    },
+    "726779feecc2b84171cc9642a9bdbad27c6af2b0": {
+      "first_seen": "2026-01-14T14:27:24.474611+00:00",
+      "last_seen": "2026-01-14T14:27:24.474611+00:00",
+      "date": "2026-01-14",
+      "source_id": "bbc_world",
+      "title": "Uganda election chief says he has had threats over results declaration",
+      "link": "https://www.bbc.com/news/articles/c62vd7542rno?at_medium=RSS&at_campaign=rss",
+      "label": "GREEN",
+      "score": 5
+    },
+    "ccb6936f98d1e652babf96750dc1ed2b25b0edcd": {
+      "first_seen": "2026-01-14T14:27:24.572457+00:00",
+      "last_seen": "2026-01-14T14:27:24.572457+00:00",
+      "date": "2026-01-14",
+      "source_id": "bbc_world",
+      "title": "Amateur stuns world's best to win A$1m in Melbourne",
+      "link": "https://www.bbc.com/sport/tennis/articles/ckgyl1ndw57o?at_medium=RSS&at_campaign=rss",
+      "label": "GREEN",
+      "score": 0
+    },
+    "efc88cbb082b8caac05e3e70883486ff9061bcf7": {
+      "first_seen": "2026-01-14T14:27:24.653128+00:00",
+      "last_seen": "2026-01-14T14:27:24.653128+00:00",
+      "date": "2026-01-14",
+      "source_id": "bbc_world",
+      "title": "LA to open ticket draw for 2028 Olympics - with seats starting at $28",
+      "link": "https://www.bbc.com/news/articles/c5y47pyp906o?at_medium=RSS&at_campaign=rss",
+      "label": "GREEN",
+      "score": 0
+    },
+    "00e6cbeadbaf521503cfb6bebe2640f6f2041dec": {
+      "first_seen": "2026-01-14T14:27:24.728221+00:00",
+      "last_seen": "2026-01-14T14:27:24.728221+00:00",
+      "date": "2026-01-14",
+      "source_id": "bbc_world",
+      "title": "Russian doctors arrested after 9 babies die in maternity hospital",
+      "link": "https://www.bbc.com/news/articles/cx2wle7028ko?at_medium=RSS&at_campaign=rss",
+      "label": "GREEN",
+      "score": 0
+    },
+    "be29b616fcf2a67bef91b3906b8cd11353590e76": {
+      "first_seen": "2026-01-14T14:27:24.804763+00:00",
+      "last_seen": "2026-01-14T14:27:24.804763+00:00",
+      "date": "2026-01-14",
+      "source_id": "bbc_world",
+      "title": "K-pop drum duet between Japan and South Korea's leaders caps off summit talks",
+      "link": "https://www.bbc.com/news/articles/c0lx49z8ly6o?at_medium=RSS&at_campaign=rss",
+      "label": "GREEN",
+      "score": 0
+    },
+    "6a61bd9217f6f26d59c53b88e1f7b7424ad6dd6e": {
+      "first_seen": "2026-01-14T14:27:24.874107+00:00",
+      "last_seen": "2026-01-14T14:27:24.874107+00:00",
+      "date": "2026-01-14",
+      "source_id": "bbc_world",
+      "title": "Claudette Colvin, US civil rights pioneer, dies at 86",
+      "link": "https://www.bbc.com/news/articles/c1dknn00v3eo?at_medium=RSS&at_campaign=rss",
+      "label": "GREEN",
+      "score": 0
+    },
+    "464e40dce68b7da23aedef64e21bba972a2505a5": {
+      "first_seen": "2026-01-14T14:27:24.958664+00:00",
+      "last_seen": "2026-01-14T14:27:24.958664+00:00",
+      "date": "2026-01-14",
+      "source_id": "bbc_world",
+      "title": "No power or water and -19C: Kyiv seeks relief from Russian strikes and cold",
+      "link": "https://www.bbc.com/news/articles/cgm4w1g3dggo?at_medium=RSS&at_campaign=rss",
+      "label": "GREEN",
+      "score": 0
+    },
+    "f74c185363e966f371e519dc421a3fe91c7f8fb4": {
+      "first_seen": "2026-01-14T14:27:25.054895+00:00",
+      "last_seen": "2026-01-14T14:27:25.054895+00:00",
+      "date": "2026-01-14",
+      "source_id": "bbc_world",
+      "title": "'Grim scene': BBC on site after crane collapses on train in Thailand",
+      "link": "https://www.bbc.com/news/videos/cd7z8p0nq8jo?at_medium=RSS&at_campaign=rss",
+      "label": "GREEN",
+      "score": 0
+    },
+    "113500d5f259d862d860184a02a6915014d17e87": {
+      "first_seen": "2026-01-14T14:27:25.157851+00:00",
+      "last_seen": "2026-01-14T14:27:25.157851+00:00",
+      "date": "2026-01-14",
+      "source_id": "bbc_world",
+      "title": "Trump vows 'very strong action' if Iran executes protesters",
+      "link": "https://www.bbc.com/news/videos/c4g0d892p7go?at_medium=RSS&at_campaign=rss",
+      "label": "GREEN",
+      "score": 0
     }
   },
   "telegram": {
-    "last_sent_date": "2026-01-13"
+    "last_sent_date": "2026-01-14"
   }
 }
