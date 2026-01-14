@@ -3560,6 +3560,136 @@
       "link": "https://www.bbc.com/news/videos/c4g0d892p7go?at_medium=RSS&at_campaign=rss",
       "label": "GREEN",
       "score": 0
+    },
+    "e40baca8e31a43229241c0a3c9b30fede88e9bad": {
+      "first_seen": "2026-01-14T23:25:09.477689+00:00",
+      "last_seen": "2026-01-14T23:25:09.477689+00:00",
+      "date": "2026-01-14",
+      "source_id": "bbc_world",
+      "title": "US and UK pulling some personnel from Qatar military base",
+      "link": "https://www.bbc.com/news/articles/c701xywwxw8o?at_medium=RSS&at_campaign=rss",
+      "label": "GREEN",
+      "score": 0
+    },
+    "e14a14def21c962f1838a8d7e19475e8b01cf882": {
+      "first_seen": "2026-01-14T23:25:09.538037+00:00",
+      "last_seen": "2026-01-14T23:25:09.538037+00:00",
+      "date": "2026-01-14",
+      "source_id": "bbc_world",
+      "title": "Starlink reportedly made free in Iran - but protesters are taking huge risks by using it",
+      "link": "https://www.bbc.com/news/articles/c0r4veg0rrzo?at_medium=RSS&at_campaign=rss",
+      "label": "GREEN",
+      "score": 5
+    },
+    "905622057a4c5420215f8648f1315a0aa1756e12": {
+      "first_seen": "2026-01-14T23:25:09.596389+00:00",
+      "last_seen": "2026-01-14T23:25:09.596389+00:00",
+      "date": "2026-01-14",
+      "source_id": "bbc_world",
+      "title": "Denmark warns of 'fundamental disagreement' after White House talks on Greenland",
+      "link": "https://www.bbc.com/news/articles/cx20vzz0g8vo?at_medium=RSS&at_campaign=rss",
+      "label": "GREEN",
+      "score": 0
+    },
+    "798a3aa0206c7e8de17de068bc027c36cb15c412": {
+      "first_seen": "2026-01-14T23:25:09.648939+00:00",
+      "last_seen": "2026-01-14T23:25:09.648939+00:00",
+      "date": "2026-01-14",
+      "source_id": "bbc_world",
+      "title": "Trump administration pauses immigrant visa processing for 75 countries",
+      "link": "https://www.bbc.com/news/articles/cy7mnzgkp7go?at_medium=RSS&at_campaign=rss",
+      "label": "GREEN",
+      "score": 0
+    },
+    "b04a6c754b30deea7cb683de9d456de18adb0ae2": {
+      "first_seen": "2026-01-14T23:25:09.711542+00:00",
+      "last_seen": "2026-01-14T23:25:09.711542+00:00",
+      "date": "2026-01-14",
+      "source_id": "bbc_world",
+      "title": "US launches phase two of Gaza peace plan with new technocratic government",
+      "link": "https://www.bbc.com/news/articles/cjw1nxe5pvlo?at_medium=RSS&at_campaign=rss",
+      "label": "GREEN",
+      "score": 0
+    },
+    "0d5517922b2fdc9d40bdb2e4032a7395d47ea985": {
+      "first_seen": "2026-01-14T23:25:09.762294+00:00",
+      "last_seen": "2026-01-14T23:25:09.762294+00:00",
+      "date": "2026-01-14",
+      "source_id": "bbc_world",
+      "title": "Italian influencer Chiara Ferragni cleared of cake fraud",
+      "link": "https://www.bbc.com/news/articles/c5yvgz7geyvo?at_medium=RSS&at_campaign=rss",
+      "label": "GREEN",
+      "score": 0
+    },
+    "cfa50ca2daa4dfdfb8595e6572c9af89138492e2": {
+      "first_seen": "2026-01-14T23:25:09.819814+00:00",
+      "last_seen": "2026-01-14T23:25:09.819814+00:00",
+      "date": "2026-01-14",
+      "source_id": "bbc_world",
+      "title": "'Appropriate and unambiguous': White House defends Trump over middle-finger gesture at heckler",
+      "link": "https://www.bbc.com/news/articles/c62w8exgw1zo?at_medium=RSS&at_campaign=rss",
+      "label": "GREEN",
+      "score": 0
+    },
+    "727cbfb0293f2268caf547ccf931d66dcc2afe7b": {
+      "first_seen": "2026-01-14T23:25:09.866338+00:00",
+      "last_seen": "2026-01-14T23:25:09.866338+00:00",
+      "date": "2026-01-14",
+      "source_id": "bbc_world",
+      "title": "Swiss regions ban pyrotechnics after ski bar fire",
+      "link": "https://www.bbc.com/news/articles/cgezqvwr54no?at_medium=RSS&at_campaign=rss",
+      "label": "GREEN",
+      "score": 0
+    },
+    "f9ae578b10e16e14501eae054a13c89bf5286f7d": {
+      "first_seen": "2026-01-14T23:25:09.918938+00:00",
+      "last_seen": "2026-01-14T23:25:09.918938+00:00",
+      "date": "2026-01-14",
+      "source_id": "bbc_world",
+      "title": "FBI searches home of Washington Post reporter in classified documents probe",
+      "link": "https://www.bbc.com/news/articles/cvgp19zx3vjo?at_medium=RSS&at_campaign=rss",
+      "label": "GREEN",
+      "score": 0
+    },
+    "91488a13ee482648748f8007ee3a99fd50fce1ca": {
+      "first_seen": "2026-01-14T23:25:09.984526+00:00",
+      "last_seen": "2026-01-14T23:25:09.984526+00:00",
+      "date": "2026-01-14",
+      "source_id": "bbc_world",
+      "title": "Amateur stuns world's best to win A$1m in Melbourne",
+      "link": "https://www.bbc.com/sport/tennis/articles/ckgyl1ndw57o?at_medium=RSS&at_campaign=rss",
+      "label": "GREEN",
+      "score": 0
+    },
+    "8de8fd72c2bd4f5123cad81bb4393fade96482de": {
+      "first_seen": "2026-01-14T23:25:10.042318+00:00",
+      "last_seen": "2026-01-14T23:25:10.042318+00:00",
+      "date": "2026-01-14",
+      "source_id": "bbc_world",
+      "title": "Uganda election chief says he has had threats over results declaration",
+      "link": "https://www.bbc.com/news/articles/c62vd7542rno?at_medium=RSS&at_campaign=rss",
+      "label": "GREEN",
+      "score": 5
+    },
+    "5f7b32699faf53e67222a11538a281966d1c4eca": {
+      "first_seen": "2026-01-14T23:25:10.100185+00:00",
+      "last_seen": "2026-01-14T23:25:10.100185+00:00",
+      "date": "2026-01-14",
+      "source_id": "bbc_world",
+      "title": "Tehran morgue videos show the brutality of Iran's crackdown on protesters",
+      "link": "https://www.bbc.com/news/articles/cly3xpyvxzyo?at_medium=RSS&at_campaign=rss",
+      "label": "GREEN",
+      "score": 0
+    },
+    "07cdd39d0f22c968d4ff5bcca23a0c24e9dd82e5": {
+      "first_seen": "2026-01-14T23:25:10.159628+00:00",
+      "last_seen": "2026-01-14T23:25:10.159628+00:00",
+      "date": "2026-01-14",
+      "source_id": "bbc_world",
+      "title": "Why two Canadian provinces are in a spat over Crown Royal whisky",
+      "link": "https://www.bbc.com/news/articles/c8x9v241z2qo?at_medium=RSS&at_campaign=rss",
+      "label": "GREEN",
+      "score": 0
     }
   },
   "telegram": {
