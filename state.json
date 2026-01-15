@@ -3690,6 +3690,16 @@
       "link": "https://www.bbc.com/news/articles/c8x9v241z2qo?at_medium=RSS&at_campaign=rss",
       "label": "GREEN",
       "score": 0
+    },
+    "45894f6a0fe5be49e395da0fb0e66f8a5add2f90": {
+      "first_seen": "2026-01-15T04:07:39.276593+00:00",
+      "last_seen": "2026-01-15T04:07:39.276593+00:00",
+      "date": "2026-01-15",
+      "source_id": "bbc_world",
+      "title": "Zelensky declares emergency in Ukraine's energy sector as biting cold persists",
+      "link": "https://www.bbc.com/news/articles/cq6vm677z76o?at_medium=RSS&at_campaign=rss",
+      "label": "GREEN",
+      "score": 0
     }
   },
   "telegram": {
