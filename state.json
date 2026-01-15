@@ -3840,9 +3840,119 @@
       "link": "https://www.bbc.com/news/videos/c3wz4v8xl8wo?at_medium=RSS&at_campaign=rss",
       "label": "GREEN",
       "score": 0
+    },
+    "967930ae6172f26d94473d3d77184232e264d668": {
+      "first_seen": "2026-01-15T14:27:00.825355+00:00",
+      "last_seen": "2026-01-15T14:27:00.825355+00:00",
+      "date": "2026-01-15",
+      "source_id": "bbc_world",
+      "title": "Astronauts splash down to Earth after medical evacuation from space station",
+      "link": "https://www.bbc.com/news/articles/c205r8n0276o?at_medium=RSS&at_campaign=rss",
+      "label": "GREEN",
+      "score": 0
+    },
+    "cbcd2f9b9e7e4fb579000e8145cfc2622e6c4f02": {
+      "first_seen": "2026-01-15T14:27:00.881611+00:00",
+      "last_seen": "2026-01-15T14:27:00.881611+00:00",
+      "date": "2026-01-15",
+      "source_id": "bbc_world",
+      "title": "European military personnel arrive in Greenland as Trump says US needs island",
+      "link": "https://www.bbc.com/news/articles/cd0ydjvxpejo?at_medium=RSS&at_campaign=rss",
+      "label": "GREEN",
+      "score": 0
+    },
+    "7ab2af2adedfd7c2fb0a39fdb509ab314cc0cb40": {
+      "first_seen": "2026-01-15T14:27:00.937764+00:00",
+      "last_seen": "2026-01-15T14:27:00.937764+00:00",
+      "date": "2026-01-15",
+      "source_id": "bbc_world",
+      "title": "From behind bars, Aung San Suu Kyi casts a long shadow over Myanmar",
+      "link": "https://www.bbc.com/news/articles/c3r197we875o?at_medium=RSS&at_campaign=rss",
+      "label": "GREEN",
+      "score": 0
+    },
+    "ed960caefd6b8c86ee10e15379bbc5171f707627": {
+      "first_seen": "2026-01-15T14:27:00.995083+00:00",
+      "last_seen": "2026-01-15T14:27:00.995083+00:00",
+      "date": "2026-01-15",
+      "source_id": "bbc_world",
+      "title": "'It was terrifying': Residents describe carnage after Thai train crash kills 32",
+      "link": "https://www.bbc.com/news/articles/cm2yvnen1qyo?at_medium=RSS&at_campaign=rss",
+      "label": "GREEN",
+      "score": 0
+    },
+    "89b70e3bea39fc16d5df73d923ab0d563db472fa": {
+      "first_seen": "2026-01-15T14:27:01.069527+00:00",
+      "last_seen": "2026-01-15T14:27:01.069527+00:00",
+      "date": "2026-01-15",
+      "source_id": "bbc_world",
+      "title": "Watch: Aerial footage shows cars swept away by flash floods in Australia",
+      "link": "https://www.bbc.com/news/videos/c1wz807vpglo?at_medium=RSS&at_campaign=rss",
+      "label": "GREEN",
+      "score": 0
+    },
+    "2fd6fcd37f0c50ae1793f5f15074dd9698830024": {
+      "first_seen": "2026-01-15T14:27:01.122777+00:00",
+      "last_seen": "2026-01-15T14:27:01.122777+00:00",
+      "date": "2026-01-15",
+      "source_id": "bbc_world",
+      "title": "Zelensky declares energy emergency as biting cold persists",
+      "link": "https://www.bbc.com/news/articles/cq6vm677z76o?at_medium=RSS&at_campaign=rss",
+      "label": "GREEN",
+      "score": 0
+    },
+    "7fdbb8b434f15fb7d4e48c24c5ec84dc03351038": {
+      "first_seen": "2026-01-15T14:27:01.179441+00:00",
+      "last_seen": "2026-01-15T14:27:01.179441+00:00",
+      "date": "2026-01-15",
+      "source_id": "bbc_world",
+      "title": "Federal agent shoots Minneapolis man in leg after shovel attack, officials say",
+      "link": "https://www.bbc.com/news/articles/c205677pxvxo?at_medium=RSS&at_campaign=rss",
+      "label": "GREEN",
+      "score": 0
+    },
+    "9fedb66cfadc4fed4016ba0ba38a51022d562e8c": {
+      "first_seen": "2026-01-15T14:27:01.237211+00:00",
+      "last_seen": "2026-01-15T14:27:01.237211+00:00",
+      "date": "2026-01-15",
+      "source_id": "bbc_world",
+      "title": "She's offered to share her Nobel with Trump. But what might Machado ask for in return?",
+      "link": "https://www.bbc.com/news/articles/c801p8jppv5o?at_medium=RSS&at_campaign=rss",
+      "label": "GREEN",
+      "score": 0
+    },
+    "0edc6a285d3b575fbc6c38e6e29d6e5a030ad7f5": {
+      "first_seen": "2026-01-15T14:27:01.285544+00:00",
+      "last_seen": "2026-01-15T14:27:01.285544+00:00",
+      "date": "2026-01-15",
+      "source_id": "bbc_world",
+      "title": "'I carried my wife's body for an hour and a half' - BBC hears stories of protesters killed in Iran",
+      "link": "https://www.bbc.com/news/articles/c8e54zp5j6no?at_medium=RSS&at_campaign=rss",
+      "label": "GREEN",
+      "score": 0
+    },
+    "a73d2a5fd609e5bbd0c8f8e2e9eb99555479fcd6": {
+      "first_seen": "2026-01-15T14:27:01.344066+00:00",
+      "last_seen": "2026-01-15T14:27:01.344066+00:00",
+      "date": "2026-01-15",
+      "source_id": "bbc_world",
+      "title": "Why the UAE has incurred the wrath of Somalia",
+      "link": "https://www.bbc.com/news/articles/c99k4jxz0ndo?at_medium=RSS&at_campaign=rss",
+      "label": "GREEN",
+      "score": 0
+    },
+    "c3f6e4ce276bd44eae8ac093697e60d74383306e": {
+      "first_seen": "2026-01-15T14:27:01.419947+00:00",
+      "last_seen": "2026-01-15T14:27:01.419947+00:00",
+      "date": "2026-01-15",
+      "source_id": "bbc_world",
+      "title": "Watch: Astronauts return to Earth after medical evacuation",
+      "link": "https://www.bbc.com/news/videos/c89q0y5xd79o?at_medium=RSS&at_campaign=rss",
+      "label": "GREEN",
+      "score": 0
     }
   },
   "telegram": {
-    "last_sent_date": "2026-01-14"
+    "last_sent_date": "2026-01-15"
   }
 }
