@@ -3950,6 +3950,146 @@
       "link": "https://www.bbc.com/news/videos/c89q0y5xd79o?at_medium=RSS&at_campaign=rss",
       "label": "GREEN",
       "score": 0
+    },
+    "4a75181c5471e00ee9d3cdaab957fc0d43d28798": {
+      "first_seen": "2026-01-15T23:29:26.971052+00:00",
+      "last_seen": "2026-01-15T23:29:26.971052+00:00",
+      "date": "2026-01-15",
+      "source_id": "bbc_world",
+      "title": "Venezuelan Nobel Peace Prize winner presents her medal to Trump",
+      "link": "https://www.bbc.com/news/articles/cx2w94wp4p1o?at_medium=RSS&at_campaign=rss",
+      "label": "GREEN",
+      "score": 0
+    },
+    "47ccd47d209a4bfeebae59afc1d1fb059d8508f3": {
+      "first_seen": "2026-01-15T23:29:27.062741+00:00",
+      "last_seen": "2026-01-15T23:29:27.062741+00:00",
+      "date": "2026-01-15",
+      "source_id": "bbc_world",
+      "title": "Iran authorities demanding large sums for return of protesters' bodies, BBC told",
+      "link": "https://www.bbc.com/news/articles/c4g5md1n1yxo?at_medium=RSS&at_campaign=rss",
+      "label": "GREEN",
+      "score": 0
+    },
+    "b30742af527ed2f01623c89971750cee7bfbac80": {
+      "first_seen": "2026-01-15T23:29:27.180733+00:00",
+      "last_seen": "2026-01-15T23:29:27.180733+00:00",
+      "date": "2026-01-15",
+      "source_id": "bbc_world",
+      "title": "Votes being counted in Uganda election as opposition alleges rigging",
+      "link": "https://www.bbc.com/news/articles/cx2xn1yvgr4o?at_medium=RSS&at_campaign=rss",
+      "label": "GREEN",
+      "score": 0
+    },
+    "d32fd077cc22978262555c0c41effbd6dc117558": {
+      "first_seen": "2026-01-15T23:29:27.288820+00:00",
+      "last_seen": "2026-01-15T23:29:27.288820+00:00",
+      "date": "2026-01-15",
+      "source_id": "bbc_world",
+      "title": "Pitfalls loom as Trump's Gaza peace plan enters second phase",
+      "link": "https://www.bbc.com/news/articles/cp3z7441nz7o?at_medium=RSS&at_campaign=rss",
+      "label": "GREEN",
+      "score": 0
+    },
+    "41d07c0a21e65b3cd3dce86eb074cf5d869f895c": {
+      "first_seen": "2026-01-15T23:29:27.383001+00:00",
+      "last_seen": "2026-01-15T23:29:27.383001+00:00",
+      "date": "2026-01-15",
+      "source_id": "bbc_world",
+      "title": "Aid workers cleared of human trafficking charges in Greece",
+      "link": "https://www.bbc.com/news/articles/c98j7n2xj1xo?at_medium=RSS&at_campaign=rss",
+      "label": "GREEN",
+      "score": 0
+    },
+    "de4f8b2b599b9a0121eca35bfcabfc8c85be84c3": {
+      "first_seen": "2026-01-15T23:29:27.513096+00:00",
+      "last_seen": "2026-01-15T23:29:27.513096+00:00",
+      "date": "2026-01-15",
+      "source_id": "bbc_world",
+      "title": "Iran judiciary denies plan to execute detained protester Erfan Soltani",
+      "link": "https://www.bbc.com/news/articles/cp80zjx091yo?at_medium=RSS&at_campaign=rss",
+      "label": "GREEN",
+      "score": 4
+    },
+    "66ac4f6c5ee59439dc8b9631feee734e3ccb4cb4": {
+      "first_seen": "2026-01-15T23:29:27.619040+00:00",
+      "last_seen": "2026-01-15T23:29:27.619040+00:00",
+      "date": "2026-01-15",
+      "source_id": "bbc_world",
+      "title": "Boeing knew of flaw in part linked to UPS plane crash, US safety board report says",
+      "link": "https://www.bbc.com/news/articles/cly56w0p9e1o?at_medium=RSS&at_campaign=rss",
+      "label": "GREEN",
+      "score": 0
+    },
+    "c5efd611048d294dc781afaca87a2f11e9c284b7": {
+      "first_seen": "2026-01-15T23:29:27.739906+00:00",
+      "last_seen": "2026-01-15T23:29:27.739906+00:00",
+      "date": "2026-01-15",
+      "source_id": "bbc_world",
+      "title": "US forces seize a sixth Venezuela-linked oil tanker in Caribbean Sea",
+      "link": "https://www.bbc.com/news/articles/cy4qdnj5vl9o?at_medium=RSS&at_campaign=rss",
+      "label": "GREEN",
+      "score": 0
+    },
+    "0183ed4668c185710e493600fd19a87c3169dee6": {
+      "first_seen": "2026-01-15T23:29:27.835402+00:00",
+      "last_seen": "2026-01-15T23:29:27.835402+00:00",
+      "date": "2026-01-15",
+      "source_id": "bbc_world",
+      "title": "Ethiopia says seized ammunition sent by Eritrea to rebels as tensions rise",
+      "link": "https://www.bbc.com/news/articles/czr46ypzl4yo?at_medium=RSS&at_campaign=rss",
+      "label": "GREEN",
+      "score": 0
+    },
+    "7d119a76616e8202d5e0b3de16f883b636ab5c35": {
+      "first_seen": "2026-01-15T23:29:27.926032+00:00",
+      "last_seen": "2026-01-15T23:29:27.926032+00:00",
+      "date": "2026-01-15",
+      "source_id": "bbc_world",
+      "title": "Explosion and fire in Dutch city of Utrecht caused by gas leak, officials say",
+      "link": "https://www.bbc.com/news/articles/cm2xv0w07dgo?at_medium=RSS&at_campaign=rss",
+      "label": "GREEN",
+      "score": 0
+    },
+    "61164981c2f7608c1a05006348cb0cd58f7c399f": {
+      "first_seen": "2026-01-15T23:29:28.008139+00:00",
+      "last_seen": "2026-01-15T23:29:28.008139+00:00",
+      "date": "2026-01-15",
+      "source_id": "bbc_world",
+      "title": "Singapore's opposition leader stripped of title after conviction for lying",
+      "link": "https://www.bbc.com/news/articles/cp80217r1kpo?at_medium=RSS&at_campaign=rss",
+      "label": "GREEN",
+      "score": 0
+    },
+    "15c560c7241f7dcca334e2d0158b74265d98a3af": {
+      "first_seen": "2026-01-15T23:29:28.110960+00:00",
+      "last_seen": "2026-01-15T23:29:28.110960+00:00",
+      "date": "2026-01-15",
+      "source_id": "bbc_world",
+      "title": "From behind bars, Aung San Suu Kyi casts a long shadow over Myanmar",
+      "link": "https://www.bbc.com/news/articles/c3r197we875o?at_medium=RSS&at_campaign=rss",
+      "label": "GREEN",
+      "score": 0
+    },
+    "ae47d7d733f9728c85620f5b1df99dab852f4098": {
+      "first_seen": "2026-01-15T23:29:28.206199+00:00",
+      "last_seen": "2026-01-15T23:29:28.206199+00:00",
+      "date": "2026-01-15",
+      "source_id": "bbc_world",
+      "title": "'It was terrifying': Residents describe carnage after Thai train crash kills 32",
+      "link": "https://www.bbc.com/news/articles/cm2yvnen1qyo?at_medium=RSS&at_campaign=rss",
+      "label": "GREEN",
+      "score": 0
+    },
+    "94fd45835fe9062c7e8cc1e66d6acc8ce2331c3d": {
+      "first_seen": "2026-01-15T23:29:28.348794+00:00",
+      "last_seen": "2026-01-15T23:29:28.348794+00:00",
+      "date": "2026-01-15",
+      "source_id": "bbc_world",
+      "title": "Watch: Aerial footage shows cars swept away by flash floods in Australia",
+      "link": "https://www.bbc.com/news/videos/c1wz807vpglo?at_medium=RSS&at_campaign=rss",
+      "label": "GREEN",
+      "score": 0
     }
   },
   "telegram": {
