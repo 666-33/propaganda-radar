@@ -4370,6 +4370,76 @@
       "link": "https://www.bbc.com/news/videos/c99kmgzp1jro?at_medium=RSS&at_campaign=rss",
       "label": "GREEN",
       "score": 0
+    },
+    "3cee18ecbee6bb9a1e3c44e1a2bf1de91e8df958": {
+      "first_seen": "2026-01-16T23:28:14.135002+00:00",
+      "last_seen": "2026-01-16T23:28:14.135002+00:00",
+      "date": "2026-01-16",
+      "source_id": "bbc_world",
+      "title": "Exiled crown prince urges world to help protesters topple Iran's government",
+      "link": "https://www.bbc.com/news/articles/c70lx085z85o?at_medium=RSS&at_campaign=rss",
+      "label": "GREEN",
+      "score": 0
+    },
+    "fbdf28896e230843bccf514b87f7311e682ebb71": {
+      "first_seen": "2026-01-16T23:28:14.212659+00:00",
+      "last_seen": "2026-01-16T23:28:14.212659+00:00",
+      "date": "2026-01-16",
+      "source_id": "bbc_world",
+      "title": "Machado vows to lead Venezuela 'when right time comes'",
+      "link": "https://www.bbc.com/news/articles/cz7y14ypg2qo?at_medium=RSS&at_campaign=rss",
+      "label": "GREEN",
+      "score": 0
+    },
+    "d671c1d7e0076ff8e4dfa0497da1a346da6d4b29": {
+      "first_seen": "2026-01-16T23:28:14.304936+00:00",
+      "last_seen": "2026-01-16T23:28:14.304936+00:00",
+      "date": "2026-01-16",
+      "source_id": "bbc_world",
+      "title": "Myanmar begins defence in landmark genocide case at UN court",
+      "link": "https://www.bbc.com/news/articles/c1wz8vyq54xo?at_medium=RSS&at_campaign=rss",
+      "label": "GREEN",
+      "score": 4
+    },
+    "e3d814168a0992d856db6f719cce3954df844100": {
+      "first_seen": "2026-01-16T23:28:14.398406+00:00",
+      "last_seen": "2026-01-16T23:28:14.398406+00:00",
+      "date": "2026-01-16",
+      "source_id": "bbc_world",
+      "title": "US accuses South Africa military of 'cosying up to Iran'",
+      "link": "https://www.bbc.com/news/articles/c8x95nk72k2o?at_medium=RSS&at_campaign=rss",
+      "label": "GREEN",
+      "score": 0
+    },
+    "7b4bf9d987f976e8c7397d4c17ffaf443610b4e2": {
+      "first_seen": "2026-01-16T23:28:14.828238+00:00",
+      "last_seen": "2026-01-16T23:28:14.828238+00:00",
+      "date": "2026-01-16",
+      "source_id": "bbc_world",
+      "title": "S Korea's ex-president Yoon to be jailed for five years over martial law bid",
+      "link": "https://www.bbc.com/news/articles/cy4qdpxp78po?at_medium=RSS&at_campaign=rss",
+      "label": "GREEN",
+      "score": 0
+    },
+    "3b9156ac753adad975daa351b87e0726579d1f85": {
+      "first_seen": "2026-01-16T23:28:14.923867+00:00",
+      "last_seen": "2026-01-16T23:28:14.923867+00:00",
+      "date": "2026-01-16",
+      "source_id": "bbc_world",
+      "title": "Landscape beneath Antarctica's icy surface revealed in unprecedented detail",
+      "link": "https://www.bbc.com/news/articles/c9qpx2qqeq7o?at_medium=RSS&at_campaign=rss",
+      "label": "GREEN",
+      "score": 0
+    },
+    "4c7f3ea2e9b06e0a1f05daa324cde625dc4fd0d9": {
+      "first_seen": "2026-01-16T23:28:15.029502+00:00",
+      "last_seen": "2026-01-16T23:28:15.029502+00:00",
+      "date": "2026-01-16",
+      "source_id": "bbc_world",
+      "title": "Who is Reza Pahlavi, the son of Iran's last shah?",
+      "link": "https://www.bbc.com/news/videos/cd6wndx24ldo?at_medium=RSS&at_campaign=rss",
+      "label": "GREEN",
+      "score": 0
     }
   },
   "telegram": {
