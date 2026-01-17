@@ -4720,6 +4720,96 @@
       "link": "https://www.bbc.com/news/articles/cj3vlgrl4r2o?at_medium=RSS&at_campaign=rss",
       "label": "GREEN",
       "score": 0
+    },
+    "6b14f0cf559511557e729277d2b05187a9fbe33b": {
+      "first_seen": "2026-01-17T23:26:46.794405+00:00",
+      "last_seen": "2026-01-17T23:26:46.794405+00:00",
+      "date": "2026-01-17",
+      "source_id": "bbc_world",
+      "title": "Trump tariff threat over Greenland 'unacceptable', European leaders say",
+      "link": "https://www.bbc.com/news/articles/cy4qjwk9n2no?at_medium=RSS&at_campaign=rss",
+      "label": "GREEN",
+      "score": 0
+    },
+    "db0b3ae3a7168afce44555a9a66c1b94572298b9": {
+      "first_seen": "2026-01-17T23:26:46.918298+00:00",
+      "last_seen": "2026-01-17T23:26:46.918298+00:00",
+      "date": "2026-01-17",
+      "source_id": "bbc_world",
+      "title": "Big names on Trump's peace panel face huge challenges in Gaza",
+      "link": "https://www.bbc.com/news/articles/c07xvv9r422o?at_medium=RSS&at_campaign=rss",
+      "label": "GREEN",
+      "score": 0
+    },
+    "ca6ea0b782b8fbd6a96025daf213a5d778dfd205": {
+      "first_seen": "2026-01-17T23:26:47.055695+00:00",
+      "last_seen": "2026-01-17T23:26:47.055695+00:00",
+      "date": "2026-01-17",
+      "source_id": "bbc_world",
+      "title": "US judge restricts ICE response to Minneapolis protesters",
+      "link": "https://www.bbc.com/news/articles/cvgprwlplqwo?at_medium=RSS&at_campaign=rss",
+      "label": "GREEN",
+      "score": 0
+    },
+    "b6d657346c8563ed0ec04fcbebbe496cf52fde32": {
+      "first_seen": "2026-01-17T23:26:47.181690+00:00",
+      "last_seen": "2026-01-17T23:26:47.181690+00:00",
+      "date": "2026-01-17",
+      "source_id": "bbc_world",
+      "title": "Avalanches kill five off-piste skiers in Austrian Alps",
+      "link": "https://www.bbc.com/news/articles/c3r1v7gqdp8o?at_medium=RSS&at_campaign=rss",
+      "label": "GREEN",
+      "score": 0
+    },
+    "35c36faf5060d81d991e71562dfcd3f916b5c43d": {
+      "first_seen": "2026-01-17T23:26:47.308121+00:00",
+      "last_seen": "2026-01-17T23:26:47.308121+00:00",
+      "date": "2026-01-17",
+      "source_id": "bbc_world",
+      "title": "Paracetamol is safe in pregnancy, says study refuting Trump autism claims",
+      "link": "https://www.bbc.com/news/articles/c74vdgkw1kzo?at_medium=RSS&at_campaign=rss",
+      "label": "GREEN",
+      "score": 0
+    },
+    "207e20dd2fc3c4c452ce803d29cc4e45939c9c04": {
+      "first_seen": "2026-01-17T23:26:47.422586+00:00",
+      "last_seen": "2026-01-17T23:26:47.422586+00:00",
+      "date": "2026-01-17",
+      "source_id": "bbc_world",
+      "title": "Japanese mayor apologises after calling staff 'human scum'",
+      "link": "https://www.bbc.com/news/articles/czejwl2z80lo?at_medium=RSS&at_campaign=rss",
+      "label": "GREEN",
+      "score": 0
+    },
+    "78e2d511f5be66e4b4afa1140f3afd9dc367a70d": {
+      "first_seen": "2026-01-17T23:26:47.570861+00:00",
+      "last_seen": "2026-01-17T23:26:47.570861+00:00",
+      "date": "2026-01-17",
+      "source_id": "bbc_world",
+      "title": "Under fire from the sea, families in Odesa try to escape Russian barrage",
+      "link": "https://www.bbc.com/news/articles/cnvg70v1z0ro?at_medium=RSS&at_campaign=rss",
+      "label": "GREEN",
+      "score": 0
+    },
+    "de3ee8857804715d7ad9f80433a7c3b2911382db": {
+      "first_seen": "2026-01-17T23:26:47.697267+00:00",
+      "last_seen": "2026-01-17T23:26:47.697267+00:00",
+      "date": "2026-01-17",
+      "source_id": "bbc_world",
+      "title": "What a seventh term for 81-year-old leader means for Uganda",
+      "link": "https://www.bbc.com/news/articles/cx20qj1pwrwo?at_medium=RSS&at_campaign=rss",
+      "label": "GREEN",
+      "score": 0
+    },
+    "25c707bfbf383228d42ee4e9e4bd882c68676e24": {
+      "first_seen": "2026-01-17T23:26:47.818286+00:00",
+      "last_seen": "2026-01-17T23:26:47.818286+00:00",
+      "date": "2026-01-17",
+      "source_id": "bbc_world",
+      "title": "Canada's deal with China signals it is serious about shift from US",
+      "link": "https://www.bbc.com/news/articles/cm24k6kk1rko?at_medium=RSS&at_campaign=rss",
+      "label": "GREEN",
+      "score": 0
     }
   },
   "telegram": {
