@@ -4610,9 +4610,119 @@
       "link": "https://www.bbc.com/news/videos/c20d9qdz7zwo?at_medium=RSS&at_campaign=rss",
       "label": "GREEN",
       "score": 0
+    },
+    "06831367400972165e617ad7e420bd132c7e1c2d": {
+      "first_seen": "2026-01-17T14:20:29.067801+00:00",
+      "last_seen": "2026-01-17T14:20:29.067801+00:00",
+      "date": "2026-01-17",
+      "source_id": "bbc_world",
+      "title": "Iran supreme leader admits thousands killed during recent protests",
+      "link": "https://www.bbc.com/news/articles/ckglee733wno?at_medium=RSS&at_campaign=rss",
+      "label": "GREEN",
+      "score": 0
+    },
+    "02ab30992ec18b88b2f213440c29044b29e5202d": {
+      "first_seen": "2026-01-17T14:20:29.130032+00:00",
+      "last_seen": "2026-01-17T14:20:29.130032+00:00",
+      "date": "2026-01-17",
+      "source_id": "bbc_world",
+      "title": "Ugandan leader to extend 40-year rule after being declared winner of contested poll",
+      "link": "https://www.bbc.com/news/articles/c2lgxxrxd52o?at_medium=RSS&at_campaign=rss",
+      "label": "GREEN",
+      "score": 0
+    },
+    "320a4125fa499bec5f36bb8e10c81e16c9659452": {
+      "first_seen": "2026-01-17T14:20:29.189779+00:00",
+      "last_seen": "2026-01-17T14:20:29.189779+00:00",
+      "date": "2026-01-17",
+      "source_id": "bbc_world",
+      "title": "Syrian army moves east of Aleppo after Kurdish forces withdraw",
+      "link": "https://www.bbc.com/news/articles/ce3k279e53eo?at_medium=RSS&at_campaign=rss",
+      "label": "GREEN",
+      "score": 0
+    },
+    "32d5b4211b127cded289901d64d2038cb49c2e4d": {
+      "first_seen": "2026-01-17T14:20:29.260487+00:00",
+      "last_seen": "2026-01-17T14:20:29.260487+00:00",
+      "date": "2026-01-17",
+      "source_id": "bbc_world",
+      "title": "Trump threatens new tariffs on countries opposed to Greenland takeover",
+      "link": "https://www.bbc.com/news/articles/c9qpy952xvno?at_medium=RSS&at_campaign=rss",
+      "label": "GREEN",
+      "score": 0
+    },
+    "7c79148b084ba1e0074bf8ca076e838e1071efb8": {
+      "first_seen": "2026-01-17T14:20:29.325057+00:00",
+      "last_seen": "2026-01-17T14:20:29.325057+00:00",
+      "date": "2026-01-17",
+      "source_id": "bbc_world",
+      "title": "Google appeals landmark antitrust verdict over search monopoly",
+      "link": "https://www.bbc.com/news/articles/clyn0ek5rdpo?at_medium=RSS&at_campaign=rss",
+      "label": "GREEN",
+      "score": 0
+    },
+    "e2e50ecbf5c2060af0de9ba009cf0d0c7985e7a4": {
+      "first_seen": "2026-01-17T14:20:29.383284+00:00",
+      "last_seen": "2026-01-17T14:20:29.383284+00:00",
+      "date": "2026-01-17",
+      "source_id": "bbc_world",
+      "title": "From camouflage to tracksuits - Guinea's junta leader poised to become civilian president",
+      "link": "https://www.bbc.com/news/articles/cpv70mek448o?at_medium=RSS&at_campaign=rss",
+      "label": "GREEN",
+      "score": 0
+    },
+    "daa8e16fc20597d59fa4ed670d2dea4cdf11a6a0": {
+      "first_seen": "2026-01-17T14:20:29.443303+00:00",
+      "last_seen": "2026-01-17T14:20:29.443303+00:00",
+      "date": "2026-01-17",
+      "source_id": "bbc_world",
+      "title": "Canada's deal with China signals it is serious about shift from US",
+      "link": "https://www.bbc.com/news/articles/cm24k6kk1rko?at_medium=RSS&at_campaign=rss",
+      "label": "GREEN",
+      "score": 0
+    },
+    "4fb8f65a286fbf54a3a86d4d4f7113b51c5f4849": {
+      "first_seen": "2026-01-17T14:20:29.513534+00:00",
+      "last_seen": "2026-01-17T14:20:29.513534+00:00",
+      "date": "2026-01-17",
+      "source_id": "bbc_world",
+      "title": "Who is on Trump's 'Board of Peace' for Gaza?",
+      "link": "https://www.bbc.com/news/articles/c9vx7kn33elo?at_medium=RSS&at_campaign=rss",
+      "label": "GREEN",
+      "score": 0
+    },
+    "ee8fbab2047dc1b7a95df8e591a54a1d6985d4f1": {
+      "first_seen": "2026-01-17T14:20:29.582102+00:00",
+      "last_seen": "2026-01-17T14:20:29.582102+00:00",
+      "date": "2026-01-17",
+      "source_id": "bbc_world",
+      "title": "A faceless hacker stole my therapy notes – now my deepest secrets are online forever",
+      "link": "https://www.bbc.com/news/articles/c62nzxqw45eo?at_medium=RSS&at_campaign=rss",
+      "label": "GREEN",
+      "score": 0
+    },
+    "762cdfef5e1ce3384acbbb9ed6e5673d0d93e035": {
+      "first_seen": "2026-01-17T14:20:29.646403+00:00",
+      "last_seen": "2026-01-17T14:20:29.646403+00:00",
+      "date": "2026-01-17",
+      "source_id": "bbc_world",
+      "title": "Trump's proposed credit card cap spotlights Americans' debt. Would it help?",
+      "link": "https://www.bbc.com/news/articles/cp37eerlql1o?at_medium=RSS&at_campaign=rss",
+      "label": "GREEN",
+      "score": 0
+    },
+    "72c8cbbed83f11492eb147163b343cb5178df364": {
+      "first_seen": "2026-01-17T14:20:29.698321+00:00",
+      "last_seen": "2026-01-17T14:20:29.698321+00:00",
+      "date": "2026-01-17",
+      "source_id": "bbc_world",
+      "title": "'I was hit in the face by pellets': Iranians on border describe violence and more protests",
+      "link": "https://www.bbc.com/news/articles/cj3vlgrl4r2o?at_medium=RSS&at_campaign=rss",
+      "label": "GREEN",
+      "score": 0
     }
   },
   "telegram": {
-    "last_sent_date": "2026-01-16"
+    "last_sent_date": "2026-01-17"
   }
 }
