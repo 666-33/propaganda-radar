@@ -4540,6 +4540,76 @@
       "link": "https://www.bbc.com/news/videos/cq84exgwvw2o?at_medium=RSS&at_campaign=rss",
       "label": "GREEN",
       "score": 0
+    },
+    "841c6ffe36b94a688fd0e9768166560c527c860f": {
+      "first_seen": "2026-01-17T09:10:53.138907+00:00",
+      "last_seen": "2026-01-17T09:10:53.138907+00:00",
+      "date": "2026-01-17",
+      "source_id": "bbc_world",
+      "title": "Japanese mayor apologises after calling staff 'human scum'",
+      "link": "https://www.bbc.com/news/articles/czejwl2z80lo?at_medium=RSS&at_campaign=rss",
+      "label": "GREEN",
+      "score": 0
+    },
+    "01652ded13ddea4a86e80623f7554424beaf77d5": {
+      "first_seen": "2026-01-17T09:10:53.226959+00:00",
+      "last_seen": "2026-01-17T09:10:53.226959+00:00",
+      "date": "2026-01-17",
+      "source_id": "bbc_world",
+      "title": "Police deny claims Uganda opposition leader abducted by helicopter",
+      "link": "https://www.bbc.com/news/articles/c20z3nx4xwqo?at_medium=RSS&at_campaign=rss",
+      "label": "GREEN",
+      "score": 0
+    },
+    "041e591c53a01638cf5fc63681b9b07158b0f7fc": {
+      "first_seen": "2026-01-17T09:10:53.334341+00:00",
+      "last_seen": "2026-01-17T09:10:53.334341+00:00",
+      "date": "2026-01-17",
+      "source_id": "bbc_world",
+      "title": "'I was hit in the face by pellets': Iranians on border describe violence and more protests",
+      "link": "https://www.bbc.com/news/articles/cj3vlgrl4r2o?at_medium=RSS&at_campaign=rss",
+      "label": "GREEN",
+      "score": 0
+    },
+    "b381d1809d0df508849370dbdd06ef13846778e1": {
+      "first_seen": "2026-01-17T09:10:53.451106+00:00",
+      "last_seen": "2026-01-17T09:10:53.451106+00:00",
+      "date": "2026-01-17",
+      "source_id": "bbc_world",
+      "title": "The mysterious singer with millions of streams - but who (or what) is she?",
+      "link": "https://www.bbc.com/news/articles/cq6v83gq66eo?at_medium=RSS&at_campaign=rss",
+      "label": "GREEN",
+      "score": 0
+    },
+    "bac498ece3c5e04fb08b478ab7eba90e136addad": {
+      "first_seen": "2026-01-17T09:10:53.572190+00:00",
+      "last_seen": "2026-01-17T09:10:53.572190+00:00",
+      "date": "2026-01-17",
+      "source_id": "bbc_world",
+      "title": "A hotline to report vapers and caning if you're caught: Singapore's e-cigarette crackdown",
+      "link": "https://www.bbc.com/news/articles/c3387lrz5g4o?at_medium=RSS&at_campaign=rss",
+      "label": "GREEN",
+      "score": 0
+    },
+    "e44f8eb21cb853bb1cb2b76c8a6f9c2a3cf698f7": {
+      "first_seen": "2026-01-17T09:10:53.718807+00:00",
+      "last_seen": "2026-01-17T09:10:53.718807+00:00",
+      "date": "2026-01-17",
+      "source_id": "bbc_world",
+      "title": "Watch: Armed group robs Pokémon store in New York City",
+      "link": "https://www.bbc.com/news/videos/cy09vjjx8glo?at_medium=RSS&at_campaign=rss",
+      "label": "GREEN",
+      "score": 0
+    },
+    "575c04736616d581e6d3eb7b8c00a1d3646665f0": {
+      "first_seen": "2026-01-17T09:10:53.847738+00:00",
+      "last_seen": "2026-01-17T09:10:53.847738+00:00",
+      "date": "2026-01-17",
+      "source_id": "bbc_world",
+      "title": "South African national park closed due to floods",
+      "link": "https://www.bbc.com/news/videos/c20d9qdz7zwo?at_medium=RSS&at_campaign=rss",
+      "label": "GREEN",
+      "score": 0
     }
   },
   "telegram": {
