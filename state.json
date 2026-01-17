@@ -4440,6 +4440,106 @@
       "link": "https://www.bbc.com/news/videos/cd6wndx24ldo?at_medium=RSS&at_campaign=rss",
       "label": "GREEN",
       "score": 0
+    },
+    "08444cba187f50f746ff71ae33825b9892e95c50": {
+      "first_seen": "2026-01-17T03:58:25.777451+00:00",
+      "last_seen": "2026-01-17T03:58:25.777451+00:00",
+      "date": "2026-01-17",
+      "source_id": "bbc_world",
+      "title": "Blair and Rubio among names on Gaza 'Board of Peace'",
+      "link": "https://www.bbc.com/news/articles/c07xv92vrz2o?at_medium=RSS&at_campaign=rss",
+      "label": "GREEN",
+      "score": 0
+    },
+    "a90d997b1ea43bca4fa1f8b698040b65a946fc4a": {
+      "first_seen": "2026-01-17T03:58:25.847731+00:00",
+      "last_seen": "2026-01-17T03:58:25.847731+00:00",
+      "date": "2026-01-17",
+      "source_id": "bbc_world",
+      "title": "US justice department investigating Minnesota Democrats over alleged obstruction of ICE",
+      "link": "https://www.bbc.com/news/articles/czx1wgvpr1zo?at_medium=RSS&at_campaign=rss",
+      "label": "GREEN",
+      "score": 0
+    },
+    "1b25c488774ed644a3a5303c66b5e50f9c460a1a": {
+      "first_seen": "2026-01-17T03:58:25.935215+00:00",
+      "last_seen": "2026-01-17T03:58:25.935215+00:00",
+      "date": "2026-01-17",
+      "source_id": "bbc_world",
+      "title": "Paracetamol is safe in pregnancy, says study refuting Trump autism claims",
+      "link": "https://www.bbc.com/news/articles/c74vdgkw1kzo?at_medium=RSS&at_campaign=rss",
+      "label": "GREEN",
+      "score": 0
+    },
+    "e969c191f35afa890fc7c73be49a416f88530705": {
+      "first_seen": "2026-01-17T03:58:25.984759+00:00",
+      "last_seen": "2026-01-17T03:58:25.984759+00:00",
+      "date": "2026-01-17",
+      "source_id": "bbc_world",
+      "title": "Machado vows to lead Venezuela 'when right time comes'",
+      "link": "https://www.bbc.com/news/articles/cz7y14ypg2qo?at_medium=RSS&at_campaign=rss",
+      "label": "GREEN",
+      "score": 0
+    },
+    "c128c5cf98e29eae0f377af381768980388382dc": {
+      "first_seen": "2026-01-17T03:58:26.045301+00:00",
+      "last_seen": "2026-01-17T03:58:26.045301+00:00",
+      "date": "2026-01-17",
+      "source_id": "bbc_world",
+      "title": "CIA director had two-hour meeting with new Venezuelan leader in Caracas",
+      "link": "https://www.bbc.com/news/articles/cvgjn5yyeljo?at_medium=RSS&at_campaign=rss",
+      "label": "GREEN",
+      "score": 0
+    },
+    "f97e9a4853fb585dfe90d6ef7c620739a22c2647": {
+      "first_seen": "2026-01-17T03:58:26.233657+00:00",
+      "last_seen": "2026-01-17T03:58:26.233657+00:00",
+      "date": "2026-01-17",
+      "source_id": "bbc_world",
+      "title": "China and Canada announce tariffs relief after a high-stakes meeting between Carney and Xi",
+      "link": "https://www.bbc.com/news/articles/cy59pvkqvl5o?at_medium=RSS&at_campaign=rss",
+      "label": "GREEN",
+      "score": 0
+    },
+    "2a5054ee801403b3598f0c2aabb9aefed6bb2bea": {
+      "first_seen": "2026-01-17T03:58:26.302765+00:00",
+      "last_seen": "2026-01-17T03:58:26.302765+00:00",
+      "date": "2026-01-17",
+      "source_id": "bbc_world",
+      "title": "Under fire from the sea, families in Odesa try to escape Russian barrage",
+      "link": "https://www.bbc.com/news/articles/cnvg70v1z0ro?at_medium=RSS&at_campaign=rss",
+      "label": "GREEN",
+      "score": 0
+    },
+    "2900e6aef4e1bad6b79e5eeb8d76258012b612cd": {
+      "first_seen": "2026-01-17T03:58:26.362103+00:00",
+      "last_seen": "2026-01-17T03:58:26.362103+00:00",
+      "date": "2026-01-17",
+      "source_id": "bbc_world",
+      "title": "From camouflage to tracksuits - Guinea's junta leader poised to become civilian president",
+      "link": "https://www.bbc.com/news/articles/cpv70mek448o?at_medium=RSS&at_campaign=rss",
+      "label": "GREEN",
+      "score": 0
+    },
+    "f4f90a24aa5ece1492aa5bef30364e2d06adcbce": {
+      "first_seen": "2026-01-17T03:58:26.440772+00:00",
+      "last_seen": "2026-01-17T03:58:26.440772+00:00",
+      "date": "2026-01-17",
+      "source_id": "bbc_world",
+      "title": "Why is there so much international interest in Greenland?",
+      "link": "https://www.bbc.com/news/videos/cd9ey81441jo?at_medium=RSS&at_campaign=rss",
+      "label": "GREEN",
+      "score": 0
+    },
+    "ff87da24b22541e03d8aa8d2e23949d0431ee755": {
+      "first_seen": "2026-01-17T03:58:26.523008+00:00",
+      "last_seen": "2026-01-17T03:58:26.523008+00:00",
+      "date": "2026-01-17",
+      "source_id": "bbc_world",
+      "title": "'Anger and frustration': BBC reports from Iranian-Armenian border",
+      "link": "https://www.bbc.com/news/videos/cq84exgwvw2o?at_medium=RSS&at_campaign=rss",
+      "label": "GREEN",
+      "score": 0
     }
   },
   "telegram": {
