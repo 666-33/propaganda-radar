@@ -4810,6 +4810,46 @@
       "link": "https://www.bbc.com/news/articles/cm24k6kk1rko?at_medium=RSS&at_campaign=rss",
       "label": "GREEN",
       "score": 0
+    },
+    "7bf7cc50286492072c6bd2b738e048167055b32e": {
+      "first_seen": "2026-01-18T04:09:59.622648+00:00",
+      "last_seen": "2026-01-18T04:09:59.622648+00:00",
+      "date": "2026-01-18",
+      "source_id": "bbc_world",
+      "title": "Nasa's mega Moon rocket arrives at launch pad for Artemis II mission",
+      "link": "https://www.bbc.com/news/articles/cly148lvyevo?at_medium=RSS&at_campaign=rss",
+      "label": "GREEN",
+      "score": 0
+    },
+    "117192ca50d2935dd39d7cce873465f71e8d0172": {
+      "first_seen": "2026-01-18T04:09:59.678524+00:00",
+      "last_seen": "2026-01-18T04:09:59.678524+00:00",
+      "date": "2026-01-18",
+      "source_id": "bbc_world",
+      "title": "Syrian army moves east of Aleppo after Kurdish forces withdraw",
+      "link": "https://www.bbc.com/news/articles/ce3k279e53eo?at_medium=RSS&at_campaign=rss",
+      "label": "GREEN",
+      "score": 0
+    },
+    "7e3d559a7ef1ab1adff7af8b23442f6b412214ef": {
+      "first_seen": "2026-01-18T04:09:59.738635+00:00",
+      "last_seen": "2026-01-18T04:09:59.738635+00:00",
+      "date": "2026-01-18",
+      "source_id": "bbc_world",
+      "title": "Faisal Islam: Trump's Greenland threats to allies are without parallel",
+      "link": "https://www.bbc.com/news/articles/cx2gjdx241wo?at_medium=RSS&at_campaign=rss",
+      "label": "GREEN",
+      "score": 0
+    },
+    "775d7faf0a76fcc89d2525e2671c60c125b0a557": {
+      "first_seen": "2026-01-18T04:09:59.796532+00:00",
+      "last_seen": "2026-01-18T04:09:59.796532+00:00",
+      "date": "2026-01-18",
+      "source_id": "bbc_world",
+      "title": "'Young 40s': Gen Z has found a new way to mock millennials for their style in South Korea",
+      "link": "https://www.bbc.com/news/articles/c78vw30p1d2o?at_medium=RSS&at_campaign=rss",
+      "label": "GREEN",
+      "score": 0
     }
   },
   "telegram": {
