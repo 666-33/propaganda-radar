@@ -4970,6 +4970,116 @@
       "link": "https://www.bbc.com/news/articles/c07xvv9r422o?at_medium=RSS&at_campaign=rss",
       "label": "GREEN",
       "score": 0
+    },
+    "2b56cebb5e4ccc3eff44a14fc6560e83e47df289": {
+      "first_seen": "2026-01-18T23:27:13.421662+00:00",
+      "last_seen": "2026-01-18T23:27:13.421662+00:00",
+      "date": "2026-01-18",
+      "source_id": "bbc_world",
+      "title": "At least 21 killed in Spain after crash involving high-speed trains",
+      "link": "https://www.bbc.com/news/articles/cedw6ylpynyo?at_medium=RSS&at_campaign=rss",
+      "label": "GREEN",
+      "score": 0
+    },
+    "e7198d9602c9f0146a9b5ea521a49a5b54d7c12a": {
+      "first_seen": "2026-01-18T23:27:13.506182+00:00",
+      "last_seen": "2026-01-18T23:27:13.506182+00:00",
+      "date": "2026-01-18",
+      "source_id": "bbc_world",
+      "title": "'Europe won't be blackmailed,' Danish PM says in wake of Trump Greenland threats",
+      "link": "https://www.bbc.com/news/articles/ceqz0llpnyqo?at_medium=RSS&at_campaign=rss",
+      "label": "GREEN",
+      "score": 0
+    },
+    "1274aa6d3be3dc0f9bac6c3367de1b9037d667a6": {
+      "first_seen": "2026-01-18T23:27:13.600579+00:00",
+      "last_seen": "2026-01-18T23:27:13.600579+00:00",
+      "date": "2026-01-18",
+      "source_id": "bbc_world",
+      "title": "Syria agrees ceasefire with Kurdish-led forces after two weeks of clashes",
+      "link": "https://www.bbc.com/news/articles/c4gwk37ewvwo?at_medium=RSS&at_campaign=rss",
+      "label": "GREEN",
+      "score": 0
+    },
+    "588a34dc684131fcff0bde7bda26674fbd2423a3": {
+      "first_seen": "2026-01-18T23:27:13.675848+00:00",
+      "last_seen": "2026-01-18T23:27:13.675848+00:00",
+      "date": "2026-01-18",
+      "source_id": "bbc_world",
+      "title": "Israel pushes back on Trump's picks for executives on Gaza 'Board of Peace'",
+      "link": "https://www.bbc.com/news/articles/cd0y453yd90o?at_medium=RSS&at_campaign=rss",
+      "label": "GREEN",
+      "score": 0
+    },
+    "39799965e2ad3f1f1fb708b67e1ae9da027d86d1": {
+      "first_seen": "2026-01-18T23:27:13.753787+00:00",
+      "last_seen": "2026-01-18T23:27:13.753787+00:00",
+      "date": "2026-01-18",
+      "source_id": "bbc_world",
+      "title": "Chile declares 'state of catastrophe' as deadly wildfires menace cities",
+      "link": "https://www.bbc.com/news/articles/cz7ypw4rjrzo?at_medium=RSS&at_campaign=rss",
+      "label": "GREEN",
+      "score": 0
+    },
+    "5fb06a926f5344ccde1557a136bb6d89e9604d72": {
+      "first_seen": "2026-01-18T23:27:13.824281+00:00",
+      "last_seen": "2026-01-18T23:27:13.824281+00:00",
+      "date": "2026-01-18",
+      "source_id": "bbc_world",
+      "title": "Six killed in Pakistan shopping mall fire",
+      "link": "https://www.bbc.com/news/articles/c150pg5dvp2o?at_medium=RSS&at_campaign=rss",
+      "label": "GREEN",
+      "score": 0
+    },
+    "a777fd5e6cca48230f00710c88f33bf15268a86d": {
+      "first_seen": "2026-01-18T23:27:13.914165+00:00",
+      "last_seen": "2026-01-18T23:27:13.914165+00:00",
+      "date": "2026-01-18",
+      "source_id": "bbc_world",
+      "title": "Gangland killing at a funeral shocks idyllic French island",
+      "link": "https://www.bbc.com/news/articles/c620nq38y6po?at_medium=RSS&at_campaign=rss",
+      "label": "GREEN",
+      "score": 0
+    },
+    "b0de400946f51fec8f347ffd9a5911c7bded8be8": {
+      "first_seen": "2026-01-18T23:27:14.031017+00:00",
+      "last_seen": "2026-01-18T23:27:14.031017+00:00",
+      "date": "2026-01-18",
+      "source_id": "bbc_world",
+      "title": "Nasa's mega Moon rocket arrives at launch pad for Artemis II mission",
+      "link": "https://www.bbc.com/news/articles/cly148lvyevo?at_medium=RSS&at_campaign=rss",
+      "label": "GREEN",
+      "score": 0
+    },
+    "1520c3709a3703ef6e0d7bdc60387d1df4e3037c": {
+      "first_seen": "2026-01-18T23:27:14.106358+00:00",
+      "last_seen": "2026-01-18T23:27:14.106358+00:00",
+      "date": "2026-01-18",
+      "source_id": "bbc_world",
+      "title": "EU weighs response to Trump's tariff threat over Greenland",
+      "link": "https://www.bbc.com/news/articles/c87r41j4n4jo?at_medium=RSS&at_campaign=rss",
+      "label": "GREEN",
+      "score": 0
+    },
+    "a2f5627f7b2c7b733edbe998542a46450274e41c": {
+      "first_seen": "2026-01-18T23:27:14.365602+00:00",
+      "last_seen": "2026-01-18T23:27:14.365602+00:00",
+      "date": "2026-01-18",
+      "source_id": "bbc_world",
+      "title": "Man swims in flooded Sydney golf course after heavy rain",
+      "link": "https://www.bbc.com/news/videos/cy054r4l953o?at_medium=RSS&at_campaign=rss",
+      "label": "GREEN",
+      "score": 0
+    },
+    "8f57b2825a584b315e3c35e9771a1c662bb4c2c9": {
+      "first_seen": "2026-01-18T23:27:14.475596+00:00",
+      "last_seen": "2026-01-18T23:27:14.475596+00:00",
+      "date": "2026-01-18",
+      "source_id": "bbc_world",
+      "title": "Watch: Timelapse shows Nasa rocket's 12-hour journey to launch pad",
+      "link": "https://www.bbc.com/news/videos/cwy8l21312do?at_medium=RSS&at_campaign=rss",
+      "label": "GREEN",
+      "score": 0
     }
   },
   "telegram": {
