@@ -4850,6 +4850,66 @@
       "link": "https://www.bbc.com/news/articles/c78vw30p1d2o?at_medium=RSS&at_campaign=rss",
       "label": "GREEN",
       "score": 0
+    },
+    "de6739b2374001f1b4565e176be4edd985ff0401": {
+      "first_seen": "2026-01-18T09:11:40.571536+00:00",
+      "last_seen": "2026-01-18T09:11:40.571536+00:00",
+      "date": "2026-01-18",
+      "source_id": "bbc_world",
+      "title": "Around 1,500 soldiers on standby for deployment to Minneapolis, officials say",
+      "link": "https://www.bbc.com/news/articles/c74v0pxg2nvo?at_medium=RSS&at_campaign=rss",
+      "label": "GREEN",
+      "score": 0
+    },
+    "f8b5814ab3b0e5aeba57c09bf03e2e54faa6f112": {
+      "first_seen": "2026-01-18T09:11:40.669297+00:00",
+      "last_seen": "2026-01-18T09:11:40.669297+00:00",
+      "date": "2026-01-18",
+      "source_id": "bbc_world",
+      "title": "Gangland killing at a funeral shocks idyllic French island",
+      "link": "https://www.bbc.com/news/articles/c620nq38y6po?at_medium=RSS&at_campaign=rss",
+      "label": "GREEN",
+      "score": 0
+    },
+    "58643d147366a66f1db5ba838e8afa8bed4e9d1d": {
+      "first_seen": "2026-01-18T09:11:40.776340+00:00",
+      "last_seen": "2026-01-18T09:11:40.776340+00:00",
+      "date": "2026-01-18",
+      "source_id": "bbc_world",
+      "title": "A deadly fire swept through a nightclub in just 90 seconds. I got out",
+      "link": "https://www.bbc.com/news/articles/czejykzg77po?at_medium=RSS&at_campaign=rss",
+      "label": "GREEN",
+      "score": 0
+    },
+    "6b25acd48d72f54cebaa404329442fc26c382a26": {
+      "first_seen": "2026-01-18T09:11:40.902619+00:00",
+      "last_seen": "2026-01-18T09:11:40.902619+00:00",
+      "date": "2026-01-18",
+      "source_id": "bbc_world",
+      "title": "I want to show the world what Africa is - YouTube star brings joy and tears on tour",
+      "link": "https://www.bbc.com/news/articles/c5y5le7yl7po?at_medium=RSS&at_campaign=rss",
+      "label": "GREEN",
+      "score": 0
+    },
+    "193f1e58e3da3fe8e171b8baef9acdaa50e8295e": {
+      "first_seen": "2026-01-18T09:11:40.979868+00:00",
+      "last_seen": "2026-01-18T09:11:40.979868+00:00",
+      "date": "2026-01-18",
+      "source_id": "bbc_world",
+      "title": "Avalanches kill five off-piste skiers in Austrian Alps",
+      "link": "https://www.bbc.com/news/articles/c3r1v7gqdp8o?at_medium=RSS&at_campaign=rss",
+      "label": "GREEN",
+      "score": 0
+    },
+    "45e993d25f21c12ada6d001b7f54147404503066": {
+      "first_seen": "2026-01-18T09:11:41.083110+00:00",
+      "last_seen": "2026-01-18T09:11:41.083110+00:00",
+      "date": "2026-01-18",
+      "source_id": "bbc_world",
+      "title": "From surge in patriotism to fewer US trips - Trump's impact on Canada",
+      "link": "https://www.bbc.com/news/articles/crmlvym2e3eo?at_medium=RSS&at_campaign=rss",
+      "label": "GREEN",
+      "score": 0
     }
   },
   "telegram": {
