@@ -4910,9 +4910,69 @@
       "link": "https://www.bbc.com/news/articles/crmlvym2e3eo?at_medium=RSS&at_campaign=rss",
       "label": "GREEN",
       "score": 0
+    },
+    "678bc95faf9a624219a9ff83728f4bf5415d2da1": {
+      "first_seen": "2026-01-18T14:20:01.779206+00:00",
+      "last_seen": "2026-01-18T14:20:01.779206+00:00",
+      "date": "2026-01-18",
+      "source_id": "bbc_world",
+      "title": "Fears Iran's internet shutdown could lead to 'extreme digital isolation'",
+      "link": "https://www.bbc.com/news/articles/cg5gegrdq3go?at_medium=RSS&at_campaign=rss",
+      "label": "GREEN",
+      "score": 0
+    },
+    "ca96c6e40d40d78e9de275b6773688a0158699a1": {
+      "first_seen": "2026-01-18T14:20:01.828713+00:00",
+      "last_seen": "2026-01-18T14:20:01.828713+00:00",
+      "date": "2026-01-18",
+      "source_id": "bbc_world",
+      "title": "Syrian army seizes country's largest oil field from Kurdish forces",
+      "link": "https://www.bbc.com/news/articles/cx20n55yxrlo?at_medium=RSS&at_campaign=rss",
+      "label": "GREEN",
+      "score": 0
+    },
+    "d95c1874dd9872e73632c5a5bdd423f12e23e556": {
+      "first_seen": "2026-01-18T14:20:01.872535+00:00",
+      "last_seen": "2026-01-18T14:20:01.872535+00:00",
+      "date": "2026-01-18",
+      "source_id": "bbc_world",
+      "title": "Pakistan shopping mall fire kills six people",
+      "link": "https://www.bbc.com/news/articles/c150pg5dvp2o?at_medium=RSS&at_campaign=rss",
+      "label": "GREEN",
+      "score": 0
+    },
+    "a8ec4823740da1403e2257d3ab8821dbf6eca892": {
+      "first_seen": "2026-01-18T14:20:01.931303+00:00",
+      "last_seen": "2026-01-18T14:20:01.931303+00:00",
+      "date": "2026-01-18",
+      "source_id": "bbc_world",
+      "title": "Ugandan leader extends 40-year rule after winning contested poll",
+      "link": "https://www.bbc.com/news/articles/c2lgxxrxd52o?at_medium=RSS&at_campaign=rss",
+      "label": "GREEN",
+      "score": 0
+    },
+    "302ae58385b858480b34cbb3c377e579f146f570": {
+      "first_seen": "2026-01-18T14:20:01.985782+00:00",
+      "last_seen": "2026-01-18T14:20:01.985782+00:00",
+      "date": "2026-01-18",
+      "source_id": "bbc_world",
+      "title": "Iran supreme leader acknowledges thousands killed during recent protests",
+      "link": "https://www.bbc.com/news/articles/ckglee733wno?at_medium=RSS&at_campaign=rss",
+      "label": "GREEN",
+      "score": 0
+    },
+    "d682042ca18daef5ba627e5c2e2141bb661d555e": {
+      "first_seen": "2026-01-18T14:20:02.040181+00:00",
+      "last_seen": "2026-01-18T14:20:02.040181+00:00",
+      "date": "2026-01-18",
+      "source_id": "bbc_world",
+      "title": "Big names on Trump's peace panel face huge challenges in Gaza",
+      "link": "https://www.bbc.com/news/articles/c07xvv9r422o?at_medium=RSS&at_campaign=rss",
+      "label": "GREEN",
+      "score": 0
     }
   },
   "telegram": {
-    "last_sent_date": "2026-01-17"
+    "last_sent_date": "2026-01-18"
   }
 }
