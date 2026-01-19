@@ -5080,6 +5080,56 @@
       "link": "https://www.bbc.com/news/videos/cwy8l21312do?at_medium=RSS&at_campaign=rss",
       "label": "GREEN",
       "score": 0
+    },
+    "15ecad9cc5f73ac1ff08c9f72c259626910a884a": {
+      "first_seen": "2026-01-19T04:16:01.857362+00:00",
+      "last_seen": "2026-01-19T04:16:01.857362+00:00",
+      "date": "2026-01-19",
+      "source_id": "bbc_world",
+      "title": "Factory explosion in China kills two, injures 84",
+      "link": "https://www.bbc.com/news/articles/c5y2pg28lgjo?at_medium=RSS&at_campaign=rss",
+      "label": "GREEN",
+      "score": 0
+    },
+    "5431b48eb1d8d2cf671236eb5dc1d82f3a0daa7e": {
+      "first_seen": "2026-01-19T04:16:01.927961+00:00",
+      "last_seen": "2026-01-19T04:16:01.927961+00:00",
+      "date": "2026-01-19",
+      "source_id": "bbc_world",
+      "title": "Fears Iran's internet shutdown could lead to 'extreme digital isolation'",
+      "link": "https://www.bbc.com/news/articles/cg5gegrdq3go?at_medium=RSS&at_campaign=rss",
+      "label": "GREEN",
+      "score": 0
+    },
+    "ad6ad94f9ed432aeb6324cf47b8143d0805797e6": {
+      "first_seen": "2026-01-19T04:16:02.004784+00:00",
+      "last_seen": "2026-01-19T04:16:02.004784+00:00",
+      "date": "2026-01-19",
+      "source_id": "bbc_world",
+      "title": "My children were recruited in a trafficking scam. I joined a police hunt to find them",
+      "link": "https://www.bbc.com/news/articles/cx2w9q28xjxo?at_medium=RSS&at_campaign=rss",
+      "label": "GREEN",
+      "score": 0
+    },
+    "e933e3b6199760a5053aae2cfda78e53c0f24070": {
+      "first_seen": "2026-01-19T04:16:02.076451+00:00",
+      "last_seen": "2026-01-19T04:16:02.076451+00:00",
+      "date": "2026-01-19",
+      "source_id": "bbc_world",
+      "title": "'The finest in the world': Why the US is buying icebreakers from Finland",
+      "link": "https://www.bbc.com/news/articles/c0q48d71ke8o?at_medium=RSS&at_campaign=rss",
+      "label": "GREEN",
+      "score": 0
+    },
+    "8b85f6befa911274f689e9767822efe77c56ed8d": {
+      "first_seen": "2026-01-19T04:16:02.140243+00:00",
+      "last_seen": "2026-01-19T04:16:02.140243+00:00",
+      "date": "2026-01-19",
+      "source_id": "bbc_world",
+      "title": "Trump tests boundaries of his power as Minnesota pushes back",
+      "link": "https://www.bbc.com/news/articles/cpqy5q1eeywo?at_medium=RSS&at_campaign=rss",
+      "label": "GREEN",
+      "score": 4
     }
   },
   "telegram": {
