@@ -5130,6 +5130,56 @@
       "link": "https://www.bbc.com/news/articles/cpqy5q1eeywo?at_medium=RSS&at_campaign=rss",
       "label": "GREEN",
       "score": 4
+    },
+    "0c6174ae8b583081da27bf8561a87a46c69348c4": {
+      "first_seen": "2026-01-19T09:23:32.118892+00:00",
+      "last_seen": "2026-01-19T09:23:32.118892+00:00",
+      "date": "2026-01-19",
+      "source_id": "bbc_world",
+      "title": "US believes its power matters more than international law, UN chief tells BBC",
+      "link": "https://www.bbc.com/news/articles/c4g0zx0llpzo?at_medium=RSS&at_campaign=rss",
+      "label": "GREEN",
+      "score": 0
+    },
+    "54182e2d5afdd5b2fd3ac63079b3dbb69216bf42": {
+      "first_seen": "2026-01-19T09:23:32.170981+00:00",
+      "last_seen": "2026-01-19T09:23:32.170981+00:00",
+      "date": "2026-01-19",
+      "source_id": "bbc_world",
+      "title": "China's birth rate hits record low as population continues to shrink",
+      "link": "https://www.bbc.com/news/articles/c79r7v7qr53o?at_medium=RSS&at_campaign=rss",
+      "label": "GREEN",
+      "score": 0
+    },
+    "96b1909458d19952003cd05654a6cbdda39a9538": {
+      "first_seen": "2026-01-19T09:23:32.226349+00:00",
+      "last_seen": "2026-01-19T09:23:32.226349+00:00",
+      "date": "2026-01-19",
+      "source_id": "bbc_world",
+      "title": "Around 1,500 US soldiers on standby for deployment to Minneapolis, officials say",
+      "link": "https://www.bbc.com/news/articles/c74v0pxg2nvo?at_medium=RSS&at_campaign=rss",
+      "label": "GREEN",
+      "score": 0
+    },
+    "4f066dfba0d51245b35e760c1a2ab4a9930795be": {
+      "first_seen": "2026-01-19T09:23:32.284840+00:00",
+      "last_seen": "2026-01-19T09:23:32.284840+00:00",
+      "date": "2026-01-19",
+      "source_id": "bbc_world",
+      "title": "Israel pushes back on Trump's picks for executives on Gaza 'Board of Peace'",
+      "link": "https://www.bbc.com/news/articles/cd0y453yd90o?at_medium=RSS&at_campaign=rss",
+      "label": "GREEN",
+      "score": 0
+    },
+    "4acb1f691b266d342bab1c5e53032ccb12fd337d": {
+      "first_seen": "2026-01-19T09:23:32.359591+00:00",
+      "last_seen": "2026-01-19T09:23:32.359591+00:00",
+      "date": "2026-01-19",
+      "source_id": "bbc_world",
+      "title": "Watch: Footage inside Spanish train as passengers evacuate from crash",
+      "link": "https://www.bbc.com/news/videos/c8e5y604x5go?at_medium=RSS&at_campaign=rss",
+      "label": "GREEN",
+      "score": 0
     }
   },
   "telegram": {
