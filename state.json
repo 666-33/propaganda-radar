@@ -5180,9 +5180,159 @@
       "link": "https://www.bbc.com/news/videos/c8e5y604x5go?at_medium=RSS&at_campaign=rss",
       "label": "GREEN",
       "score": 0
+    },
+    "d4f6e22d1dc310955de5a19e8e497a0cf926f01a": {
+      "first_seen": "2026-01-19T14:29:26.844828+00:00",
+      "last_seen": "2026-01-19T14:29:26.844828+00:00",
+      "date": "2026-01-19",
+      "source_id": "bbc_world",
+      "title": "Watch: Spain train crash survivors describe 'absolutely terrifying' scene",
+      "link": "https://www.bbc.com/news/videos/c23r1rx5vp7o?at_medium=RSS&at_campaign=rss",
+      "label": "GREEN",
+      "score": 0
+    },
+    "36dc201ef5ac499746689915c89365be7ecd4e7d": {
+      "first_seen": "2026-01-19T14:29:26.924736+00:00",
+      "last_seen": "2026-01-19T14:29:26.924736+00:00",
+      "date": "2026-01-19",
+      "source_id": "bbc_world",
+      "title": "IMF warns of trade tension risk to global growth",
+      "link": "https://www.bbc.com/news/articles/c0r47ey0d1vo?at_medium=RSS&at_campaign=rss",
+      "label": "GREEN",
+      "score": 0
+    },
+    "089f934617c4e28aae1ef8187ab274d23efc121f": {
+      "first_seen": "2026-01-19T14:29:27.014408+00:00",
+      "last_seen": "2026-01-19T14:29:27.014408+00:00",
+      "date": "2026-01-19",
+      "source_id": "bbc_world",
+      "title": "Trump links Greenland dispute to not getting Nobel Peace Prize",
+      "link": "https://www.bbc.com/news/articles/cy7mev35x2lo?at_medium=RSS&at_campaign=rss",
+      "label": "GREEN",
+      "score": 0
+    },
+    "455e6b8476ac7f801fdcc891a7a9f0d892c28f68": {
+      "first_seen": "2026-01-19T14:29:27.092804+00:00",
+      "last_seen": "2026-01-19T14:29:27.092804+00:00",
+      "date": "2026-01-19",
+      "source_id": "bbc_world",
+      "title": "Japan PM Takaichi calls snap election three months after taking office",
+      "link": "https://www.bbc.com/news/articles/c1dk0x0v6pdo?at_medium=RSS&at_campaign=rss",
+      "label": "GREEN",
+      "score": 0
+    },
+    "9d89712fcec6f740f9b15a85c7d70d124c5f6f88": {
+      "first_seen": "2026-01-19T14:29:27.167506+00:00",
+      "last_seen": "2026-01-19T14:29:27.167506+00:00",
+      "date": "2026-01-19",
+      "source_id": "bbc_world",
+      "title": "South African team helps search for politician swept away by Mozambique floodwaters",
+      "link": "https://www.bbc.com/news/articles/c62nen4n971o?at_medium=RSS&at_campaign=rss",
+      "label": "GREEN",
+      "score": 0
+    },
+    "9edfb2c592c3612fe837e524aa53c1496b857ecd": {
+      "first_seen": "2026-01-19T14:29:27.271534+00:00",
+      "last_seen": "2026-01-19T14:29:27.271534+00:00",
+      "date": "2026-01-19",
+      "source_id": "bbc_world",
+      "title": "'Shameful' and 'terrible look' - the chaos that marred Senegal's Afcon triumph",
+      "link": "https://www.bbc.com/sport/football/articles/c70ljednyl6o?at_medium=RSS&at_campaign=rss",
+      "label": "GREEN",
+      "score": 0
+    },
+    "305e6cfc713434305ef826258905ccf0b78a6aaf": {
+      "first_seen": "2026-01-19T14:29:27.369442+00:00",
+      "last_seen": "2026-01-19T14:29:27.369442+00:00",
+      "date": "2026-01-19",
+      "source_id": "bbc_world",
+      "title": "'Europe won't be blackmailed,' Danish PM says in wake of Trump Greenland threats",
+      "link": "https://www.bbc.com/news/articles/ceqz0llpnyqo?at_medium=RSS&at_campaign=rss",
+      "label": "GREEN",
+      "score": 0
+    },
+    "5039c9cfa35ea342cac152cc2fd12da2ce2d8980": {
+      "first_seen": "2026-01-19T14:29:27.438714+00:00",
+      "last_seen": "2026-01-19T14:29:27.438714+00:00",
+      "date": "2026-01-19",
+      "source_id": "bbc_world",
+      "title": "Man seriously injured in Sydney's third shark attack in two days",
+      "link": "https://www.bbc.com/news/articles/c8013p5v2yvo?at_medium=RSS&at_campaign=rss",
+      "label": "GREEN",
+      "score": 0
+    },
+    "5cff7eea428fba3fb5ef7defb67b260face71286": {
+      "first_seen": "2026-01-19T14:29:27.518060+00:00",
+      "last_seen": "2026-01-19T14:29:27.518060+00:00",
+      "date": "2026-01-19",
+      "source_id": "bbc_world",
+      "title": "Chile declares 'state of catastrophe' as wildfires leave at least 18 dead",
+      "link": "https://www.bbc.com/news/articles/cz7ypw4rjrzo?at_medium=RSS&at_campaign=rss",
+      "label": "GREEN",
+      "score": 0
+    },
+    "5a8f879c23a5c3dcea22a139c739a0818f83bf2d": {
+      "first_seen": "2026-01-19T14:29:27.582264+00:00",
+      "last_seen": "2026-01-19T14:29:27.582264+00:00",
+      "date": "2026-01-19",
+      "source_id": "bbc_world",
+      "title": "Factory explosion in China kills four, injures 84",
+      "link": "https://www.bbc.com/news/articles/c5y2pg28lgjo?at_medium=RSS&at_campaign=rss",
+      "label": "GREEN",
+      "score": 0
+    },
+    "e277c6d6bc97f4c42c32ba8efc5f5979796e8835": {
+      "first_seen": "2026-01-19T14:29:27.655365+00:00",
+      "last_seen": "2026-01-19T14:29:27.655365+00:00",
+      "date": "2026-01-19",
+      "source_id": "bbc_world",
+      "title": "What we know about Spain's worst rail disaster in over a decade",
+      "link": "https://www.bbc.com/news/articles/clye22ljxw4o?at_medium=RSS&at_campaign=rss",
+      "label": "GREEN",
+      "score": 0
+    },
+    "c7b968a4f9775abfa757624895fa5b78e8178a33": {
+      "first_seen": "2026-01-19T14:29:27.747879+00:00",
+      "last_seen": "2026-01-19T14:29:27.747879+00:00",
+      "date": "2026-01-19",
+      "source_id": "bbc_world",
+      "title": "Ecstasy and now a day off - Senegal fans around the world celebrate Afcon win",
+      "link": "https://www.bbc.com/news/articles/ce3ekz4yx21o?at_medium=RSS&at_campaign=rss",
+      "label": "GREEN",
+      "score": 0
+    },
+    "a27667b074f85aa5e7476dae460483efa27ad9db": {
+      "first_seen": "2026-01-19T14:29:27.841419+00:00",
+      "last_seen": "2026-01-19T14:29:27.841419+00:00",
+      "date": "2026-01-19",
+      "source_id": "bbc_world",
+      "title": "What tariffs has Trump announced and why?",
+      "link": "https://www.bbc.com/news/articles/cn93e12rypgo?at_medium=RSS&at_campaign=rss",
+      "label": "GREEN",
+      "score": 0
+    },
+    "dd3469cc3937bf09f2fb90e001597759709db046": {
+      "first_seen": "2026-01-19T14:29:27.933332+00:00",
+      "last_seen": "2026-01-19T14:29:27.933332+00:00",
+      "date": "2026-01-19",
+      "source_id": "bbc_world",
+      "title": "Fears Iran's internet shutdown could lead to 'extreme digital isolation'",
+      "link": "https://www.bbc.com/news/articles/cg5gegrdq3go?at_medium=RSS&at_campaign=rss",
+      "label": "GREEN",
+      "score": 0
+    },
+    "8977056458ee29e38266bf0555deb4169a928623": {
+      "first_seen": "2026-01-19T14:29:28.038607+00:00",
+      "last_seen": "2026-01-19T14:29:28.038607+00:00",
+      "date": "2026-01-19",
+      "source_id": "bbc_world",
+      "title": "Spain train crash survivors describe 'absolutely terrifying' scene",
+      "link": "https://www.bbc.com/news/videos/c23r1rx5vp7o?at_medium=RSS&at_campaign=rss",
+      "label": "GREEN",
+      "score": 0
     }
   },
   "telegram": {
-    "last_sent_date": "2026-01-18"
+    "last_sent_date": "2026-01-19"
   }
 }
