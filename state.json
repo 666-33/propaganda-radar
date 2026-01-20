@@ -5620,9 +5620,79 @@
       "link": "https://www.bbc.com/news/videos/cvgpr95npplo?at_medium=RSS&at_campaign=rss",
       "label": "GREEN",
       "score": 0
+    },
+    "c69368befde542309d65a7f7b8fbac9c6dffbbd0": {
+      "first_seen": "2026-01-20T14:33:18.378880+00:00",
+      "last_seen": "2026-01-20T14:33:18.378880+00:00",
+      "date": "2026-01-20",
+      "source_id": "bbc_world",
+      "title": "Spain train crash recovery continues as investigators probe 'gap' in rail",
+      "link": "https://www.bbc.com/news/articles/c5y2qjy9l4yo?at_medium=RSS&at_campaign=rss",
+      "label": "GREEN",
+      "score": 0
+    },
+    "14c8b1425468342633217a998f023307901fad2a": {
+      "first_seen": "2026-01-20T14:33:18.470859+00:00",
+      "last_seen": "2026-01-20T14:33:18.470859+00:00",
+      "date": "2026-01-20",
+      "source_id": "bbc_world",
+      "title": "Palestinian children's football pitch faces Israeli demolition ultimatum",
+      "link": "https://www.bbc.com/news/articles/cjrz0j9p5jqo?at_medium=RSS&at_campaign=rss",
+      "label": "GREEN",
+      "score": 0
+    },
+    "2a09d03318cfabd9910804b88339c3a9dd58657f": {
+      "first_seen": "2026-01-20T14:33:18.558413+00:00",
+      "last_seen": "2026-01-20T14:33:18.558413+00:00",
+      "date": "2026-01-20",
+      "source_id": "bbc_world",
+      "title": "Anthony Joshua's driver appears in court after crash that killed two",
+      "link": "https://www.bbc.com/news/articles/cew8jxze027o?at_medium=RSS&at_campaign=rss",
+      "label": "GREEN",
+      "score": 0
+    },
+    "7618fe9e1bea19f97fee25dedf732b043533e7e8": {
+      "first_seen": "2026-01-20T14:33:18.641833+00:00",
+      "last_seen": "2026-01-20T14:33:18.641833+00:00",
+      "date": "2026-01-20",
+      "source_id": "bbc_world",
+      "title": "Bobi Wine tells the BBC from hiding he will not contest Uganda election results in court",
+      "link": "https://www.bbc.com/news/articles/c394pk4p707o?at_medium=RSS&at_campaign=rss",
+      "label": "GREEN",
+      "score": 0
+    },
+    "e563a11aa25f1d4d5dac36e1520dc52e22948ebb": {
+      "first_seen": "2026-01-20T14:33:18.721953+00:00",
+      "last_seen": "2026-01-20T14:33:18.721953+00:00",
+      "date": "2026-01-20",
+      "source_id": "bbc_world",
+      "title": "China demands Taliban protect its citizens after deadly Kabul blast",
+      "link": "https://www.bbc.com/news/articles/c5yvqx22dyvo?at_medium=RSS&at_campaign=rss",
+      "label": "GREEN",
+      "score": 0
+    },
+    "da03c65690e122d410ecb9d4befa3f170e70f899": {
+      "first_seen": "2026-01-20T14:33:18.801562+00:00",
+      "last_seen": "2026-01-20T14:33:18.801562+00:00",
+      "date": "2026-01-20",
+      "source_id": "bbc_world",
+      "title": "Nigeria police deny reports of mass church abductions in north",
+      "link": "https://www.bbc.com/news/articles/c4grw9vg7y4o?at_medium=RSS&at_campaign=rss",
+      "label": "GREEN",
+      "score": 0
+    },
+    "19bb644aab3b3c225f824dc4813240c72632889f": {
+      "first_seen": "2026-01-20T14:33:18.904862+00:00",
+      "last_seen": "2026-01-20T14:33:18.904862+00:00",
+      "date": "2026-01-20",
+      "source_id": "bbc_world",
+      "title": "BBC visits UN compound Israel is demolishing in East Jerusalem",
+      "link": "https://www.bbc.com/news/videos/cj0n127y9eqo?at_medium=RSS&at_campaign=rss",
+      "label": "GREEN",
+      "score": 0
     }
   },
   "telegram": {
-    "last_sent_date": "2026-01-19"
+    "last_sent_date": "2026-01-20"
   }
 }
