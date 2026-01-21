@@ -5970,9 +5970,89 @@
       "link": "https://www.bbc.com/news/articles/crle9k2gw6jo?at_medium=RSS&at_campaign=rss",
       "label": "GREEN",
       "score": 0
+    },
+    "6ef47994f9dca189f5dfa23d889d3c8e6a145afc": {
+      "first_seen": "2026-01-21T14:33:01.967343+00:00",
+      "last_seen": "2026-01-21T14:33:01.967343+00:00",
+      "date": "2026-01-21",
+      "source_id": "bbc_world",
+      "title": "Could US Congress stop Trump from taking over Greenland?",
+      "link": "https://www.bbc.com/news/articles/c701rvrpjwko?at_medium=RSS&at_campaign=rss",
+      "label": "GREEN",
+      "score": 0
+    },
+    "1eee5f6db5b2ed95f2733ab9d4ed96e266beb708": {
+      "first_seen": "2026-01-21T14:33:02.027662+00:00",
+      "last_seen": "2026-01-21T14:33:02.027662+00:00",
+      "date": "2026-01-21",
+      "source_id": "bbc_world",
+      "title": "Israeli PM Netanyahu agrees to join Trump's Board of Peace",
+      "link": "https://www.bbc.com/news/articles/cn8jek4vv8ko?at_medium=RSS&at_campaign=rss",
+      "label": "GREEN",
+      "score": 0
+    },
+    "c383639b8838617b14a52cbeee324b41868c139d": {
+      "first_seen": "2026-01-21T14:33:02.081289+00:00",
+      "last_seen": "2026-01-21T14:33:02.081289+00:00",
+      "date": "2026-01-21",
+      "source_id": "bbc_world",
+      "title": "Photos leaked to BBC show faces of hundreds killed in Iran's brutal protest crackdown",
+      "link": "https://www.bbc.com/news/articles/c0r4957rq8ro?at_medium=RSS&at_campaign=rss",
+      "label": "GREEN",
+      "score": 0
+    },
+    "39bb3db19f5750020405266c3fe72ad7cec458fc": {
+      "first_seen": "2026-01-21T14:33:02.147888+00:00",
+      "last_seen": "2026-01-21T14:33:02.147888+00:00",
+      "date": "2026-01-21",
+      "source_id": "bbc_world",
+      "title": "Japan restarts world's largest nuclear plant as Fukushima memories loom large",
+      "link": "https://www.bbc.com/news/articles/cq6v0v32rg1o?at_medium=RSS&at_campaign=rss",
+      "label": "GREEN",
+      "score": 0
+    },
+    "251d132f6223d7eb2847655942b686182bf673bf": {
+      "first_seen": "2026-01-21T14:33:02.206270+00:00",
+      "last_seen": "2026-01-21T14:33:02.206270+00:00",
+      "date": "2026-01-21",
+      "source_id": "bbc_world",
+      "title": "Life sentence for man who killed Japan's ex-PM Shinzo Abe",
+      "link": "https://www.bbc.com/news/articles/c86v5lj39zpo?at_medium=RSS&at_campaign=rss",
+      "label": "GREEN",
+      "score": 0
+    },
+    "867b7e965034670abd12a9009dd96faaa3069ca1": {
+      "first_seen": "2026-01-21T14:33:02.269652+00:00",
+      "last_seen": "2026-01-21T14:33:02.269652+00:00",
+      "date": "2026-01-21",
+      "source_id": "bbc_world",
+      "title": "Air India crash plane had record of safety defects, campaigners claim",
+      "link": "https://www.bbc.com/news/articles/czx1p47x589o?at_medium=RSS&at_campaign=rss",
+      "label": "GREEN",
+      "score": 0
+    },
+    "b5ed98a1e0a20183d47a3a532bfbaebb1cf87e3d": {
+      "first_seen": "2026-01-21T14:33:02.355764+00:00",
+      "last_seen": "2026-01-21T14:33:02.355764+00:00",
+      "date": "2026-01-21",
+      "source_id": "bbc_world",
+      "title": "Lyse Doucet: Trump is shaking the world order more than any president since WW2",
+      "link": "https://www.bbc.com/news/articles/cx2lej7d52po?at_medium=RSS&at_campaign=rss",
+      "label": "GREEN",
+      "score": 0
+    },
+    "11c5917289860dfb15288ce48bd3d4422d4b3193": {
+      "first_seen": "2026-01-21T14:33:02.420396+00:00",
+      "last_seen": "2026-01-21T14:33:02.420396+00:00",
+      "date": "2026-01-21",
+      "source_id": "bbc_world",
+      "title": "Locked exits, panic and desperate calls for help: Survivors tell of mall fire horror",
+      "link": "https://www.bbc.com/news/articles/c1ev4z4n5dzo?at_medium=RSS&at_campaign=rss",
+      "label": "GREEN",
+      "score": 0
     }
   },
   "telegram": {
-    "last_sent_date": "2026-01-20"
+    "last_sent_date": "2026-01-21"
   }
 }
