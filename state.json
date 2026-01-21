@@ -6050,6 +6050,156 @@
       "link": "https://www.bbc.com/news/articles/c1ev4z4n5dzo?at_medium=RSS&at_campaign=rss",
       "label": "GREEN",
       "score": 0
+    },
+    "0ca9042b39f2dadf82b242c3549e26216d249207": {
+      "first_seen": "2026-01-21T23:33:43.010266+00:00",
+      "last_seen": "2026-01-21T23:33:43.010266+00:00",
+      "date": "2026-01-21",
+      "source_id": "bbc_world",
+      "title": "Trump says he has 'framework' of a Greenland deal as he drops Europe tariffs threat",
+      "link": "https://www.bbc.com/news/articles/cgezx40r7d7o?at_medium=RSS&at_campaign=rss",
+      "label": "GREEN",
+      "score": 0
+    },
+    "8ee1908ba8a0289267d0306f931fd9927c3e6949": {
+      "first_seen": "2026-01-21T23:33:43.069365+00:00",
+      "last_seen": "2026-01-21T23:33:43.069365+00:00",
+      "date": "2026-01-21",
+      "source_id": "bbc_world",
+      "title": "Faisal Islam: What it was like inside the room with Donald Trump at Davos",
+      "link": "https://www.bbc.com/news/articles/cm24vjvy3n1o?at_medium=RSS&at_campaign=rss",
+      "label": "GREEN",
+      "score": 0
+    },
+    "11e67322414646464f0efb45a7c5e6f1a00b5d8f": {
+      "first_seen": "2026-01-21T23:33:43.135237+00:00",
+      "last_seen": "2026-01-21T23:33:43.135237+00:00",
+      "date": "2026-01-21",
+      "source_id": "bbc_world",
+      "title": "Trump's jibes are wearing thin for many of Europe's leaders",
+      "link": "https://www.bbc.com/news/articles/cd9ez1nj3n3o?at_medium=RSS&at_campaign=rss",
+      "label": "GREEN",
+      "score": 0
+    },
+    "58f16d81677e98e8c73de228933b601c50c0a977": {
+      "first_seen": "2026-01-21T23:33:43.192536+00:00",
+      "last_seen": "2026-01-21T23:33:43.192536+00:00",
+      "date": "2026-01-21",
+      "source_id": "bbc_world",
+      "title": "Israeli strike in Gaza kills three journalists, first responders say",
+      "link": "https://www.bbc.com/news/articles/c98pnzp50nqo?at_medium=RSS&at_campaign=rss",
+      "label": "GREEN",
+      "score": 0
+    },
+    "6892cee17fe9cf2ab1b12b6ebcf1f671c7477fd7": {
+      "first_seen": "2026-01-21T23:33:43.241958+00:00",
+      "last_seen": "2026-01-21T23:33:43.241958+00:00",
+      "date": "2026-01-21",
+      "source_id": "bbc_world",
+      "title": "Oldest cave painting of red claw hand could rewrite human creativity timeline",
+      "link": "https://www.bbc.com/news/articles/czx1pnlzer5o?at_medium=RSS&at_campaign=rss",
+      "label": "GREEN",
+      "score": 0
+    },
+    "66a7e0f1b65d733a13e6f8de1ba43f5f85409e67": {
+      "first_seen": "2026-01-21T23:33:43.301140+00:00",
+      "last_seen": "2026-01-21T23:33:43.301140+00:00",
+      "date": "2026-01-21",
+      "source_id": "bbc_world",
+      "title": "US to transfer Islamic State prisoners from Syria to Iraq",
+      "link": "https://www.bbc.com/news/articles/cx20pwqkgp9o?at_medium=RSS&at_campaign=rss",
+      "label": "GREEN",
+      "score": 0
+    },
+    "754fcc4d181232a7f34cadf50c2daa1f845dc139": {
+      "first_seen": "2026-01-21T23:33:43.354725+00:00",
+      "last_seen": "2026-01-21T23:33:43.354725+00:00",
+      "date": "2026-01-21",
+      "source_id": "bbc_world",
+      "title": "Ghislaine Maxwell to testify before US Congress in Epstein probe",
+      "link": "https://www.bbc.com/news/articles/cr7jlylp5keo?at_medium=RSS&at_campaign=rss",
+      "label": "GREEN",
+      "score": 0
+    },
+    "0c4816af41b1bc0b4a8e4c1da5029b63d2f844d8": {
+      "first_seen": "2026-01-21T23:33:43.411177+00:00",
+      "last_seen": "2026-01-21T23:33:43.411177+00:00",
+      "date": "2026-01-21",
+      "source_id": "bbc_world",
+      "title": "Israel postpones demolition of Palestinian children's football pitch",
+      "link": "https://www.bbc.com/news/articles/cly3dm37m7no?at_medium=RSS&at_campaign=rss",
+      "label": "GREEN",
+      "score": 0
+    },
+    "9e419167bad05425d5ee259d2a141485edcd7790": {
+      "first_seen": "2026-01-21T23:33:43.467361+00:00",
+      "last_seen": "2026-01-21T23:33:43.467361+00:00",
+      "date": "2026-01-21",
+      "source_id": "bbc_world",
+      "title": "Supreme Court sceptical of Trump firing of central bank governor Lisa Cook",
+      "link": "https://www.bbc.com/news/articles/ckgjm50r14go?at_medium=RSS&at_campaign=rss",
+      "label": "GREEN",
+      "score": 0
+    },
+    "5470d48995b2e599c9d053dac1ac91bcd52b6e36": {
+      "first_seen": "2026-01-21T23:33:43.524463+00:00",
+      "last_seen": "2026-01-21T23:33:43.524463+00:00",
+      "date": "2026-01-21",
+      "source_id": "bbc_world",
+      "title": "Taylor Swift makes history as she joins Songwriters Hall of Fame",
+      "link": "https://www.bbc.com/news/articles/c0mkp3yk933o?at_medium=RSS&at_campaign=rss",
+      "label": "GREEN",
+      "score": 0
+    },
+    "c31d4c8d2ec3e60b9986c6ee35183258a05c01db": {
+      "first_seen": "2026-01-21T23:33:43.590813+00:00",
+      "last_seen": "2026-01-21T23:33:43.590813+00:00",
+      "date": "2026-01-21",
+      "source_id": "bbc_world",
+      "title": "Japan restarts world's largest nuclear plant as Fukushima memories loom large",
+      "link": "https://www.bbc.com/news/articles/cq6v0v32rg1o?at_medium=RSS&at_campaign=rss",
+      "label": "GREEN",
+      "score": 0
+    },
+    "86f7755fb92c2798e78f42daa5eb4cd96008f93f": {
+      "first_seen": "2026-01-21T23:33:43.644303+00:00",
+      "last_seen": "2026-01-21T23:33:43.644303+00:00",
+      "date": "2026-01-21",
+      "source_id": "bbc_world",
+      "title": "Train driver killed in second deadly Spain rail crash in days",
+      "link": "https://www.bbc.com/news/articles/c1m78xl0gmpo?at_medium=RSS&at_campaign=rss",
+      "label": "GREEN",
+      "score": 0
+    },
+    "f2fae448c8c0ad11855b2c087d47e68040fd9ba9": {
+      "first_seen": "2026-01-21T23:33:43.691713+00:00",
+      "last_seen": "2026-01-21T23:33:43.691713+00:00",
+      "date": "2026-01-21",
+      "source_id": "bbc_world",
+      "title": "Blake Lively called Justin Baldoni 'a clown' in text messages",
+      "link": "https://www.bbc.com/news/articles/cwy1l9pgjv7o?at_medium=RSS&at_campaign=rss",
+      "label": "GREEN",
+      "score": 0
+    },
+    "72f38a8410488cbe54ec1b9176cbffc58a0750bd": {
+      "first_seen": "2026-01-21T23:33:43.766525+00:00",
+      "last_seen": "2026-01-21T23:33:43.766525+00:00",
+      "date": "2026-01-21",
+      "source_id": "bbc_world",
+      "title": "Fact-checking Trump's Davos speech",
+      "link": "https://www.bbc.com/news/articles/c301jgd1qj6o?at_medium=RSS&at_campaign=rss",
+      "label": "GREEN",
+      "score": 0
+    },
+    "6c068ea11abb1b063cba9765ef9e786ce292bab1": {
+      "first_seen": "2026-01-21T23:33:43.820692+00:00",
+      "last_seen": "2026-01-21T23:33:43.820692+00:00",
+      "date": "2026-01-21",
+      "source_id": "bbc_world",
+      "title": "Photos leaked to BBC show faces of hundreds killed in Iran's brutal protest crackdown",
+      "link": "https://www.bbc.com/news/articles/c0r4957rq8ro?at_medium=RSS&at_campaign=rss",
+      "label": "GREEN",
+      "score": 0
     }
   },
   "telegram": {
