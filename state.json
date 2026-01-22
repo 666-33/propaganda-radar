@@ -6410,6 +6410,186 @@
       "link": "https://www.bbc.com/news/articles/cj3vv1kv1rdo?at_medium=RSS&at_campaign=rss",
       "label": "GREEN",
       "score": 0
+    },
+    "644b84721061fdaecc7d659dcd83d6fdbf36c715": {
+      "first_seen": "2026-01-22T23:29:30.595941+00:00",
+      "last_seen": "2026-01-22T23:29:30.595941+00:00",
+      "date": "2026-01-22",
+      "source_id": "bbc_world",
+      "title": "'It's all about the land': Zelensky says Ukraine to talk to US and Russia",
+      "link": "https://www.bbc.com/news/articles/c4g44r22j5jo?at_medium=RSS&at_campaign=rss",
+      "label": "GREEN",
+      "score": 0
+    },
+    "9746ead4f1be6c0d3d0aed842d28ba56010cedd7": {
+      "first_seen": "2026-01-22T23:29:30.660122+00:00",
+      "last_seen": "2026-01-22T23:29:30.660122+00:00",
+      "date": "2026-01-22",
+      "source_id": "bbc_world",
+      "title": "US unveils plans for 'New Gaza' with skyscrapers",
+      "link": "https://www.bbc.com/news/articles/cy7mmpljze7o?at_medium=RSS&at_campaign=rss",
+      "label": "GREEN",
+      "score": 0
+    },
+    "8fb6e1cd6ff662ce0bc654e23fe28727f99ecfd7": {
+      "first_seen": "2026-01-22T23:29:30.717941+00:00",
+      "last_seen": "2026-01-22T23:29:30.717941+00:00",
+      "date": "2026-01-22",
+      "source_id": "bbc_world",
+      "title": "France seizes suspected Russian 'shadow fleet' oil tanker in the Mediterranean",
+      "link": "https://www.bbc.com/news/articles/cdexxr2y907o?at_medium=RSS&at_campaign=rss",
+      "label": "GREEN",
+      "score": 0
+    },
+    "09f7b8edce2171ef43c4a7dc90fae7cf2effdae1": {
+      "first_seen": "2026-01-22T23:29:30.782151+00:00",
+      "last_seen": "2026-01-22T23:29:30.782151+00:00",
+      "date": "2026-01-22",
+      "source_id": "bbc_world",
+      "title": "ICE detains five-year-old and father in Minnesota, lawyer says",
+      "link": "https://www.bbc.com/news/articles/cwyrrqwxpz7o?at_medium=RSS&at_campaign=rss",
+      "label": "GREEN",
+      "score": 0
+    },
+    "80713acd3fa1174fc7e13d7f4fc19f677af94e3d": {
+      "first_seen": "2026-01-22T23:29:30.833283+00:00",
+      "last_seen": "2026-01-22T23:29:30.833283+00:00",
+      "date": "2026-01-22",
+      "source_id": "bbc_world",
+      "title": "German nurse jailed for murders could be linked to 100 more deaths",
+      "link": "https://www.bbc.com/news/articles/ckgjjy55x2mo?at_medium=RSS&at_campaign=rss",
+      "label": "GREEN",
+      "score": 0
+    },
+    "102ca95e1dad29666c2310e53b304b6dfd6b3df7": {
+      "first_seen": "2026-01-22T23:29:30.902486+00:00",
+      "last_seen": "2026-01-22T23:29:30.902486+00:00",
+      "date": "2026-01-22",
+      "source_id": "bbc_world",
+      "title": "Vampire film Sinners breaks Oscar nominations record",
+      "link": "https://www.bbc.com/news/articles/cz0ppdjmjy9o?at_medium=RSS&at_campaign=rss",
+      "label": "GREEN",
+      "score": 0
+    },
+    "e9720f266ef648882d11f83a217b1cc7c9c8349d": {
+      "first_seen": "2026-01-22T23:29:30.955971+00:00",
+      "last_seen": "2026-01-22T23:29:30.955971+00:00",
+      "date": "2026-01-22",
+      "source_id": "bbc_world",
+      "title": "UN to take over al-Hol camp for IS families in Syria after unrest",
+      "link": "https://www.bbc.com/news/articles/clyzzzd2y7do?at_medium=RSS&at_campaign=rss",
+      "label": "GREEN",
+      "score": 0
+    },
+    "445d80eb0f4b88808706b148bd6d7b690e54cbbd": {
+      "first_seen": "2026-01-22T23:29:31.016042+00:00",
+      "last_seen": "2026-01-22T23:29:31.016042+00:00",
+      "date": "2026-01-22",
+      "source_id": "bbc_world",
+      "title": "UK holds off joining Trump's Board of Peace over Putin concerns",
+      "link": "https://www.bbc.com/news/articles/cp9jj1j74ggo?at_medium=RSS&at_campaign=rss",
+      "label": "GREEN",
+      "score": 0
+    },
+    "ed397e310e1e75423b31f5f0c7c5a3f1051bd157": {
+      "first_seen": "2026-01-22T23:29:31.073895+00:00",
+      "last_seen": "2026-01-22T23:29:31.073895+00:00",
+      "date": "2026-01-22",
+      "source_id": "bbc_world",
+      "title": "Two dead and several missing in New Zealand landslides",
+      "link": "https://www.bbc.com/news/articles/cje11x527n4o?at_medium=RSS&at_campaign=rss",
+      "label": "GREEN",
+      "score": 0
+    },
+    "8e9ab9952cefa3fa0ef79c2ae1a02a34dafb9a46": {
+      "first_seen": "2026-01-22T23:29:31.127643+00:00",
+      "last_seen": "2026-01-22T23:29:31.127643+00:00",
+      "date": "2026-01-22",
+      "source_id": "bbc_world",
+      "title": "Japan suspends world's largest nuclear plant hours after restart",
+      "link": "https://www.bbc.com/news/articles/cx2yy8z91n4o?at_medium=RSS&at_campaign=rss",
+      "label": "GREEN",
+      "score": 0
+    },
+    "9f5bad1249660e0ccdc3e314d6dc4b8d57e30cf4": {
+      "first_seen": "2026-01-22T23:29:31.182191+00:00",
+      "last_seen": "2026-01-22T23:29:31.182191+00:00",
+      "date": "2026-01-22",
+      "source_id": "bbc_world",
+      "title": "Three dead in shooting in Australia's New South Wales",
+      "link": "https://www.bbc.com/news/articles/c4g00mv29j5o?at_medium=RSS&at_campaign=rss",
+      "label": "GREEN",
+      "score": 0
+    },
+    "85ab7416d1ef9579efca1a8d8fbbf999ffacb9ee": {
+      "first_seen": "2026-01-22T23:29:31.240098+00:00",
+      "last_seen": "2026-01-22T23:29:31.240098+00:00",
+      "date": "2026-01-22",
+      "source_id": "bbc_world",
+      "title": "What we know about Trump's  'framework of future deal' over Greenland",
+      "link": "https://www.bbc.com/news/articles/c86vvjxe9z7o?at_medium=RSS&at_campaign=rss",
+      "label": "GREEN",
+      "score": 0
+    },
+    "033c795c8fb293d8b58a1fa79e584fd120e5294f": {
+      "first_seen": "2026-01-22T23:29:31.298742+00:00",
+      "last_seen": "2026-01-22T23:29:31.298742+00:00",
+      "date": "2026-01-22",
+      "source_id": "bbc_world",
+      "title": "Rapid rollback of Kurdish-led forces reshapes Sharaa's Syria",
+      "link": "https://www.bbc.com/news/articles/c9311l0d40qo?at_medium=RSS&at_campaign=rss",
+      "label": "GREEN",
+      "score": 0
+    },
+    "c1067cc7a71f13fc10be3eb8c6e5e6ce9d14dbf2": {
+      "first_seen": "2026-01-22T23:29:31.363735+00:00",
+      "last_seen": "2026-01-22T23:29:31.363735+00:00",
+      "date": "2026-01-22",
+      "source_id": "bbc_world",
+      "title": "Slashed incomes and gamers go cold turkey: Fallout from Uganda's internet shutdown",
+      "link": "https://www.bbc.com/news/articles/cx2p54rm4k4o?at_medium=RSS&at_campaign=rss",
+      "label": "GREEN",
+      "score": 0
+    },
+    "e83d9e9667c6aa7d8eb7c1541a6b89d636ff1e49": {
+      "first_seen": "2026-01-22T23:29:31.441542+00:00",
+      "last_seen": "2026-01-22T23:29:31.441542+00:00",
+      "date": "2026-01-22",
+      "source_id": "bbc_world",
+      "title": "Footage captures moment NZ landslide starts in Mount Maunganui",
+      "link": "https://www.bbc.com/news/videos/cwy113pz41do?at_medium=RSS&at_campaign=rss",
+      "label": "GREEN",
+      "score": 0
+    },
+    "7d49b90b29715448a72e241db3db2bfeeac16ea1": {
+      "first_seen": "2026-01-22T23:29:31.522317+00:00",
+      "last_seen": "2026-01-22T23:29:31.522317+00:00",
+      "date": "2026-01-22",
+      "source_id": "bbc_world",
+      "title": "Watch: How was Trump's Davos speech received?",
+      "link": "https://www.bbc.com/news/videos/cgk8evvl0jno?at_medium=RSS&at_campaign=rss",
+      "label": "GREEN",
+      "score": 0
+    },
+    "3fcf84cd01b04f6aacaeaa93fee5c785c4bed024": {
+      "first_seen": "2026-01-22T23:29:31.603679+00:00",
+      "last_seen": "2026-01-22T23:29:31.603679+00:00",
+      "date": "2026-01-22",
+      "source_id": "bbc_world",
+      "title": "Watch: Russian cosmonaut captures stunning aurora from space",
+      "link": "https://www.bbc.com/news/videos/cn40027nej0o?at_medium=RSS&at_campaign=rss",
+      "label": "GREEN",
+      "score": 0
+    },
+    "436733b82ec3610f20bb0108a0f337b5a8d807e7": {
+      "first_seen": "2026-01-22T23:29:31.683921+00:00",
+      "last_seen": "2026-01-22T23:29:31.683921+00:00",
+      "date": "2026-01-22",
+      "source_id": "bbc_world",
+      "title": "Record snowfall leaves cars stuck and people stranded in Russia's Far East",
+      "link": "https://www.bbc.com/news/videos/c8e5901727zo?at_medium=RSS&at_campaign=rss",
+      "label": "GREEN",
+      "score": 0
     }
   },
   "telegram": {
