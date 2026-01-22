@@ -6200,6 +6200,26 @@
       "link": "https://www.bbc.com/news/articles/c0r4957rq8ro?at_medium=RSS&at_campaign=rss",
       "label": "GREEN",
       "score": 0
+    },
+    "cff8ee85df0ade66a8bd93fbf90e9af7d17389fc": {
+      "first_seen": "2026-01-22T04:13:23.444134+00:00",
+      "last_seen": "2026-01-22T04:13:23.444134+00:00",
+      "date": "2026-01-22",
+      "source_id": "bbc_world",
+      "title": "Ex-intelligence officer in Austria's biggest spy trial for years",
+      "link": "https://www.bbc.com/news/articles/cz0pnjv1zy5o?at_medium=RSS&at_campaign=rss",
+      "label": "GREEN",
+      "score": 0
+    },
+    "26614d6499fdfaa81c6b3a3eaed10557a377e3ba": {
+      "first_seen": "2026-01-22T04:13:23.511232+00:00",
+      "last_seen": "2026-01-22T04:13:23.511232+00:00",
+      "date": "2026-01-22",
+      "source_id": "bbc_world",
+      "title": "Faisal Islam: What it was like inside the room with Donald Trump at Davos",
+      "link": "https://www.bbc.com/news/articles/cm24vjvy3n1o?at_medium=RSS&at_campaign=rss",
+      "label": "GREEN",
+      "score": 0
     }
   },
   "telegram": {
