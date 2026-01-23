@@ -6730,6 +6730,16 @@
       "link": "https://www.bbc.com/news/videos/c78vvvn4qnlo?at_medium=RSS&at_campaign=rss",
       "label": "GREEN",
       "score": 0
+    },
+    "1e9b637bb5417756c57c6b8390877395dc2803f4": {
+      "first_seen": "2026-01-23T09:19:38.647189+00:00",
+      "last_seen": "2026-01-23T09:19:38.647189+00:00",
+      "date": "2026-01-23",
+      "source_id": "bbc_world",
+      "title": "Trump withdraws Canada's invite to  'Board of Peace'",
+      "link": "https://www.bbc.com/news/articles/cn7jjp8gl0jo?at_medium=RSS&at_campaign=rss",
+      "label": "GREEN",
+      "score": 0
     }
   },
   "telegram": {
