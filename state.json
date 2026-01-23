@@ -6590,6 +6590,146 @@
       "link": "https://www.bbc.com/news/videos/c8e5901727zo?at_medium=RSS&at_campaign=rss",
       "label": "GREEN",
       "score": 0
+    },
+    "ef11b1b94bf01c6689445ec01b96796c94ee9787": {
+      "first_seen": "2026-01-23T04:08:15.594912+00:00",
+      "last_seen": "2026-01-23T04:08:15.594912+00:00",
+      "date": "2026-01-23",
+      "source_id": "bbc_world",
+      "title": "Could Trump's bid to become peacemaker-in-chief sideline the struggling UN?",
+      "link": "https://www.bbc.com/news/articles/cn8jj228g2vo?at_medium=RSS&at_campaign=rss",
+      "label": "GREEN",
+      "score": 0
+    },
+    "a375a1bb609e4c70dadf9ff7012d958be91eeb7c": {
+      "first_seen": "2026-01-23T04:08:15.658489+00:00",
+      "last_seen": "2026-01-23T04:08:15.658489+00:00",
+      "date": "2026-01-23",
+      "source_id": "bbc_world",
+      "title": "Eight surprise takeaways from the Oscar nominations",
+      "link": "https://www.bbc.com/news/articles/cp3zzv40422o?at_medium=RSS&at_campaign=rss",
+      "label": "GREEN",
+      "score": 0
+    },
+    "a3c14ea24ad4c3037b3c4e2cc3f2b5e2d80e7bd9": {
+      "first_seen": "2026-01-23T04:08:15.734567+00:00",
+      "last_seen": "2026-01-23T04:08:15.734567+00:00",
+      "date": "2026-01-23",
+      "source_id": "bbc_world",
+      "title": "Trump sparks anger over claim Nato troops avoided Afghanistan front line",
+      "link": "https://www.bbc.com/news/articles/czr444j671vo?at_medium=RSS&at_campaign=rss",
+      "label": "GREEN",
+      "score": 0
+    },
+    "f438be9aa5179df173511e7b4600d285d6e554c9": {
+      "first_seen": "2026-01-23T04:08:15.798654+00:00",
+      "last_seen": "2026-01-23T04:08:15.798654+00:00",
+      "date": "2026-01-23",
+      "source_id": "bbc_world",
+      "title": "'Blood was all over' - victim of Nigeria church abduction describes escape",
+      "link": "https://www.bbc.com/news/articles/cn422q1py95o?at_medium=RSS&at_campaign=rss",
+      "label": "GREEN",
+      "score": 0
+    },
+    "b7d04d5c333a4720dfd390944ae3782304ad0808": {
+      "first_seen": "2026-01-23T04:08:15.856219+00:00",
+      "last_seen": "2026-01-23T04:08:15.856219+00:00",
+      "date": "2026-01-23",
+      "source_id": "bbc_world",
+      "title": "France seizes suspected Russian 'shadow fleet' oil tanker in the Mediterranean",
+      "link": "https://www.bbc.com/news/articles/cdexxr2y907o?at_medium=RSS&at_campaign=rss",
+      "label": "GREEN",
+      "score": 0
+    },
+    "3e9173a3beb26b0844b4a2f9904caa0838b33517": {
+      "first_seen": "2026-01-23T04:08:15.900586+00:00",
+      "last_seen": "2026-01-23T04:08:15.900586+00:00",
+      "date": "2026-01-23",
+      "source_id": "bbc_world",
+      "title": "German nurse jailed for murders could be linked to 100 more deaths",
+      "link": "https://www.bbc.com/news/articles/ckgjjy55x2mo?at_medium=RSS&at_campaign=rss",
+      "label": "GREEN",
+      "score": 0
+    },
+    "04cb430c4f3bef6a2081d0f12eac474373c9ffd2": {
+      "first_seen": "2026-01-23T04:08:15.966668+00:00",
+      "last_seen": "2026-01-23T04:08:15.966668+00:00",
+      "date": "2026-01-23",
+      "source_id": "bbc_world",
+      "title": "Ubisoft cancels six games including Prince of Persia and closes studios",
+      "link": "https://www.bbc.com/news/articles/c6200g826d2o?at_medium=RSS&at_campaign=rss",
+      "label": "GREEN",
+      "score": 0
+    },
+    "ca2ee802ea3310f261339988d43c988c0698ce95": {
+      "first_seen": "2026-01-23T04:08:16.021071+00:00",
+      "last_seen": "2026-01-23T04:08:16.021071+00:00",
+      "date": "2026-01-23",
+      "source_id": "bbc_world",
+      "title": "UN to take over al-Hol camp for IS families in Syria after unrest",
+      "link": "https://www.bbc.com/news/articles/clyzzzd2y7do?at_medium=RSS&at_campaign=rss",
+      "label": "GREEN",
+      "score": 0
+    },
+    "c2b5efe369e7c618a05902716be952bf7b1de2ab": {
+      "first_seen": "2026-01-23T04:08:16.090125+00:00",
+      "last_seen": "2026-01-23T04:08:16.090125+00:00",
+      "date": "2026-01-23",
+      "source_id": "bbc_world",
+      "title": "Outrage after Indian man drowns in open pit after begging for help for hours",
+      "link": "https://www.bbc.com/news/articles/c620l5e2q1vo?at_medium=RSS&at_campaign=rss",
+      "label": "GREEN",
+      "score": 0
+    },
+    "979d5c9c84fa8f4906e26efac18188a4c74a71cf": {
+      "first_seen": "2026-01-23T04:08:16.145451+00:00",
+      "last_seen": "2026-01-23T04:08:16.145451+00:00",
+      "date": "2026-01-23",
+      "source_id": "bbc_world",
+      "title": "Trump's son called UK police after seeing woman 'beat up', court hears",
+      "link": "https://www.bbc.com/news/articles/cg5gg05y0mlo?at_medium=RSS&at_campaign=rss",
+      "label": "GREEN",
+      "score": 0
+    },
+    "c3a16a67ab79a09d1650af258a4a34ea80bac9fb": {
+      "first_seen": "2026-01-23T04:08:16.214529+00:00",
+      "last_seen": "2026-01-23T04:08:16.214529+00:00",
+      "date": "2026-01-23",
+      "source_id": "bbc_world",
+      "title": "Vampire film Sinners breaks Oscar nominations record",
+      "link": "https://www.bbc.com/news/articles/cz0ppdjmjy9o?at_medium=RSS&at_campaign=rss",
+      "label": "GREEN",
+      "score": 0
+    },
+    "8221163b652f03c999a7fc1f2caee84398a77a7a": {
+      "first_seen": "2026-01-23T04:08:16.277802+00:00",
+      "last_seen": "2026-01-23T04:08:16.277802+00:00",
+      "date": "2026-01-23",
+      "source_id": "bbc_world",
+      "title": "Behind the scenes of Help 2, the star-studded charity album",
+      "link": "https://www.bbc.com/news/articles/cy4qqdy29d2o?at_medium=RSS&at_campaign=rss",
+      "label": "GREEN",
+      "score": 0
+    },
+    "45f4f87e9081e94e84b5f09baeb8bebb02cb1ef9": {
+      "first_seen": "2026-01-23T04:08:16.343338+00:00",
+      "last_seen": "2026-01-23T04:08:16.343338+00:00",
+      "date": "2026-01-23",
+      "source_id": "bbc_world",
+      "title": "How Australian politics descended into ugliness after Bondi shooting",
+      "link": "https://www.bbc.com/news/articles/cx2yy4n1vlgo?at_medium=RSS&at_campaign=rss",
+      "label": "GREEN",
+      "score": 0
+    },
+    "cf5c36e47c7397a3a6f47212135bf6c5a0197b4e": {
+      "first_seen": "2026-01-23T04:08:16.423612+00:00",
+      "last_seen": "2026-01-23T04:08:16.423612+00:00",
+      "date": "2026-01-23",
+      "source_id": "bbc_world",
+      "title": "Board of Peace, Zelensky and Musk - What happened before Trump left Davos?",
+      "link": "https://www.bbc.com/news/videos/c78vvvn4qnlo?at_medium=RSS&at_campaign=rss",
+      "label": "GREEN",
+      "score": 0
     }
   },
   "telegram": {
