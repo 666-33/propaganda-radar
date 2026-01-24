@@ -7200,9 +7200,99 @@
       "link": "https://www.bbc.com/news/articles/c9vx0p77pn8o?at_medium=RSS&at_campaign=rss",
       "label": "GREEN",
       "score": 0
+    },
+    "2efb85bd11963d2e7ed8d16b30a51365b1d414a0": {
+      "first_seen": "2026-01-24T14:20:59.282517+00:00",
+      "last_seen": "2026-01-24T14:20:59.282517+00:00",
+      "date": "2026-01-24",
+      "source_id": "bbc_world",
+      "title": "Hundreds of Minnesota businesses close to protest ICE presence",
+      "link": "https://www.bbc.com/news/articles/c1dk67g4q91o?at_medium=RSS&at_campaign=rss",
+      "label": "GREEN",
+      "score": 0
+    },
+    "76e1e49e26359a5365190680031f1fe209cf1e05": {
+      "first_seen": "2026-01-24T14:20:59.427244+00:00",
+      "last_seen": "2026-01-24T14:20:59.427244+00:00",
+      "date": "2026-01-24",
+      "source_id": "bbc_world",
+      "title": "New Zealand calls off rescue efforts for six missing after landslide",
+      "link": "https://www.bbc.com/news/articles/c050vnl7p10o?at_medium=RSS&at_campaign=rss",
+      "label": "GREEN",
+      "score": 0
+    },
+    "35c5ef08490a75ce69b52111259f4b1a9e8b0ae9": {
+      "first_seen": "2026-01-24T14:20:59.533651+00:00",
+      "last_seen": "2026-01-24T14:20:59.533651+00:00",
+      "date": "2026-01-24",
+      "source_id": "bbc_world",
+      "title": "Indonesia landslide kills 7, dozens more missing",
+      "link": "https://www.bbc.com/news/articles/c87r53y4dx0o?at_medium=RSS&at_campaign=rss",
+      "label": "GREEN",
+      "score": 0
+    },
+    "75bcb0a5463857c4e00f489ab8e1d2f9547b9135": {
+      "first_seen": "2026-01-24T14:20:59.652551+00:00",
+      "last_seen": "2026-01-24T14:20:59.652551+00:00",
+      "date": "2026-01-24",
+      "source_id": "bbc_world",
+      "title": "TikTok US venture to collect precise user location data",
+      "link": "https://www.bbc.com/news/articles/cvgnj7v2rr5o?at_medium=RSS&at_campaign=rss",
+      "label": "GREEN",
+      "score": 0
+    },
+    "7062f8b1f924d99ff0673ac305cc21f236e81633": {
+      "first_seen": "2026-01-24T14:20:59.774724+00:00",
+      "last_seen": "2026-01-24T14:20:59.774724+00:00",
+      "date": "2026-01-24",
+      "source_id": "bbc_world",
+      "title": "High stakes but low expectations for Ukraine talks with Russia and US",
+      "link": "https://www.bbc.com/news/articles/c3edde1pwx8o?at_medium=RSS&at_campaign=rss",
+      "label": "GREEN",
+      "score": 0
+    },
+    "5a7c2a0ee524acc8688a7cb7ad5d3f23c57f799e": {
+      "first_seen": "2026-01-24T14:20:59.912606+00:00",
+      "last_seen": "2026-01-24T14:20:59.912606+00:00",
+      "date": "2026-01-24",
+      "source_id": "bbc_world",
+      "title": "Four attacks in 48 hours: How east Australia's beaches became a 'perfect storm' for sharks",
+      "link": "https://www.bbc.com/news/articles/c0err023g5lo?at_medium=RSS&at_campaign=rss",
+      "label": "GREEN",
+      "score": 0
+    },
+    "bf1a43bbe7dd05af3b033ef5af9d13f14ac9a061": {
+      "first_seen": "2026-01-24T14:21:00.060995+00:00",
+      "last_seen": "2026-01-24T14:21:00.060995+00:00",
+      "date": "2026-01-24",
+      "source_id": "bbc_world",
+      "title": "Tragic chapter on the trains sends rail superpower Spain into crisis",
+      "link": "https://www.bbc.com/news/articles/c0keelnyrvro?at_medium=RSS&at_campaign=rss",
+      "label": "GREEN",
+      "score": 0
+    },
+    "a3d338732fa758faa6a64270a64d274162ad9e8c": {
+      "first_seen": "2026-01-24T14:21:00.191854+00:00",
+      "last_seen": "2026-01-24T14:21:00.191854+00:00",
+      "date": "2026-01-24",
+      "source_id": "bbc_world",
+      "title": "'Half of my friends were killed' - the girls returning to a school caught up in war",
+      "link": "https://www.bbc.com/news/articles/cd9eeyz933jo?at_medium=RSS&at_campaign=rss",
+      "label": "GREEN",
+      "score": 0
+    },
+    "0eb1475f3c9b705af7a4b4d9ffccccd8ff2b8f4d": {
+      "first_seen": "2026-01-24T14:21:00.319900+00:00",
+      "last_seen": "2026-01-24T14:21:00.319900+00:00",
+      "date": "2026-01-24",
+      "source_id": "bbc_world",
+      "title": "'I didn't hear from my son for seven months': Inside Yemen's UAE-run secret prisons",
+      "link": "https://www.bbc.com/news/articles/c3r117w55q4o?at_medium=RSS&at_campaign=rss",
+      "label": "GREEN",
+      "score": 0
     }
   },
   "telegram": {
-    "last_sent_date": "2026-01-23"
+    "last_sent_date": "2026-01-24"
   }
 }
