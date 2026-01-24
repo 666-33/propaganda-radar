@@ -7090,6 +7090,116 @@
       "link": "https://www.bbc.com/news/videos/c78vvvn4qnlo?at_medium=RSS&at_campaign=rss",
       "label": "GREEN",
       "score": 0
+    },
+    "a719b69e33e399d04a009dfb70318ff4505e3088": {
+      "first_seen": "2026-01-24T09:11:08.259121+00:00",
+      "last_seen": "2026-01-24T09:11:08.259121+00:00",
+      "date": "2026-01-24",
+      "source_id": "bbc_world",
+      "title": "Ukraine condemns 'brutal' Russian strikes ahead of second day of peace talks",
+      "link": "https://www.bbc.com/news/articles/cwyr6p30054o?at_medium=RSS&at_campaign=rss",
+      "label": "GREEN",
+      "score": 0
+    },
+    "43b901101a5e89ca5f00b76fc434e3a5c700301c": {
+      "first_seen": "2026-01-24T09:11:08.319409+00:00",
+      "last_seen": "2026-01-24T09:11:08.319409+00:00",
+      "date": "2026-01-24",
+      "source_id": "bbc_world",
+      "title": "Pentagon to offer 'more limited' support to US allies in defence strategy shift",
+      "link": "https://www.bbc.com/news/articles/cj9r8ezym3ro?at_medium=RSS&at_campaign=rss",
+      "label": "GREEN",
+      "score": 0
+    },
+    "fe6ebd2aec2388da075b7004d27eb029a87c4f26": {
+      "first_seen": "2026-01-24T09:11:08.368686+00:00",
+      "last_seen": "2026-01-24T09:11:08.368686+00:00",
+      "date": "2026-01-24",
+      "source_id": "bbc_world",
+      "title": "Boy, 12, dies from injuries after Sydney shark attack",
+      "link": "https://www.bbc.com/news/articles/c2k98ql703no?at_medium=RSS&at_campaign=rss",
+      "label": "GREEN",
+      "score": 0
+    },
+    "d99a6ef5507b20761c04f0226a39a5ccea31e8e4": {
+      "first_seen": "2026-01-24T09:11:08.422882+00:00",
+      "last_seen": "2026-01-24T09:11:08.422882+00:00",
+      "date": "2026-01-24",
+      "source_id": "bbc_world",
+      "title": "TikTok US venture to collect precise user location data",
+      "link": "https://www.bbc.com/news/articles/cvgnj7v2rr5o?at_medium=RSS&at_campaign=rss",
+      "label": "GREEN",
+      "score": 0
+    },
+    "90dcfd6b812640d3c0edb4c95899af0841bd9e19": {
+      "first_seen": "2026-01-24T09:11:08.484050+00:00",
+      "last_seen": "2026-01-24T09:11:08.484050+00:00",
+      "date": "2026-01-24",
+      "source_id": "bbc_world",
+      "title": "'I didn't hear from my son for seven months': Inside Yemen's UAE-run secret prisons",
+      "link": "https://www.bbc.com/news/articles/c3r117w55q4o?at_medium=RSS&at_campaign=rss",
+      "label": "GREEN",
+      "score": 0
+    },
+    "bbd1ac7413c60b696756eb677a9eb13da147d562": {
+      "first_seen": "2026-01-24T09:11:08.540538+00:00",
+      "last_seen": "2026-01-24T09:11:08.540538+00:00",
+      "date": "2026-01-24",
+      "source_id": "bbc_world",
+      "title": "US braces for 'extremely dangerous' winter storm",
+      "link": "https://www.bbc.com/news/articles/c0r44l05q52o?at_medium=RSS&at_campaign=rss",
+      "label": "GREEN",
+      "score": 0
+    },
+    "36b5781ca641c8b9b6ac098f4f407c1eb176a1d7": {
+      "first_seen": "2026-01-24T09:11:08.597666+00:00",
+      "last_seen": "2026-01-24T09:11:08.597666+00:00",
+      "date": "2026-01-24",
+      "source_id": "bbc_world",
+      "title": "Hundreds of Minnesota businesses close to protest ICE presence",
+      "link": "https://www.bbc.com/news/articles/c1dk67g4q91o?at_medium=RSS&at_campaign=rss",
+      "label": "GREEN",
+      "score": 0
+    },
+    "6a80976fe4fcae30cdba5374ef42ef434238062b": {
+      "first_seen": "2026-01-24T09:11:08.648914+00:00",
+      "last_seen": "2026-01-24T09:11:08.648914+00:00",
+      "date": "2026-01-24",
+      "source_id": "bbc_world",
+      "title": "'A natural partner': US treasury secretary weighs in on Alberta separatism",
+      "link": "https://www.bbc.com/news/articles/cy8ylqx0zw4o?at_medium=RSS&at_campaign=rss",
+      "label": "GREEN",
+      "score": 0
+    },
+    "1267c3d89905a2829742fcfa72b0d49d74287aee": {
+      "first_seen": "2026-01-24T09:11:08.697252+00:00",
+      "last_seen": "2026-01-24T09:11:08.697252+00:00",
+      "date": "2026-01-24",
+      "source_id": "bbc_world",
+      "title": "'I saw people getting shot': Eyewitness tells of Iran protest crackdown",
+      "link": "https://www.bbc.com/news/articles/c9dvvzzpwylo?at_medium=RSS&at_campaign=rss",
+      "label": "GREEN",
+      "score": 0
+    },
+    "14ea58864a37e9c90d92f65d2522eda7c7aba071": {
+      "first_seen": "2026-01-24T09:11:08.741927+00:00",
+      "last_seen": "2026-01-24T09:11:08.741927+00:00",
+      "date": "2026-01-24",
+      "source_id": "bbc_world",
+      "title": "Spanish track was fractured before high-speed train disaster, report finds",
+      "link": "https://www.bbc.com/news/articles/c1m77dmxlvlo?at_medium=RSS&at_campaign=rss",
+      "label": "GREEN",
+      "score": 0
+    },
+    "dd6dcd48abd99b32d652c1ecfd4776f7aee40e02": {
+      "first_seen": "2026-01-24T09:11:08.795817+00:00",
+      "last_seen": "2026-01-24T09:11:08.795817+00:00",
+      "date": "2026-01-24",
+      "source_id": "bbc_world",
+      "title": "Stuck between the US and Russia, Canada must prove it can defend its Arctic territory",
+      "link": "https://www.bbc.com/news/articles/c9vx0p77pn8o?at_medium=RSS&at_campaign=rss",
+      "label": "GREEN",
+      "score": 0
     }
   },
   "telegram": {
