@@ -7390,6 +7390,36 @@
       "link": "https://www.bbc.com/news/videos/cvgj13e5ddlo?at_medium=RSS&at_campaign=rss",
       "label": "GREEN",
       "score": 0
+    },
+    "1cad6847eabe6bf3f0654fa85d1d52d40f02d5bf": {
+      "first_seen": "2026-01-25T04:17:57.523242+00:00",
+      "last_seen": "2026-01-25T04:17:57.523242+00:00",
+      "date": "2026-01-25",
+      "source_id": "bbc_world",
+      "title": "As the world inches back to a pre-WW2 order, the 'middle powers' face a grave new challenge",
+      "link": "https://www.bbc.com/news/articles/c99kkerr93ko?at_medium=RSS&at_campaign=rss",
+      "label": "GREEN",
+      "score": 0
+    },
+    "d3a928d1f578bbe255c40c24433f336d473d134b": {
+      "first_seen": "2026-01-25T04:17:57.614833+00:00",
+      "last_seen": "2026-01-25T04:17:57.614833+00:00",
+      "date": "2026-01-25",
+      "source_id": "bbc_world",
+      "title": "What India's Republic Day red carpet means for its foreign policy",
+      "link": "https://www.bbc.com/news/articles/c9wxx29yknpo?at_medium=RSS&at_campaign=rss",
+      "label": "GREEN",
+      "score": 0
+    },
+    "b3e871a26bafdcd6db66f8a852736827e12a2c2b": {
+      "first_seen": "2026-01-25T04:17:57.706729+00:00",
+      "last_seen": "2026-01-25T04:17:57.706729+00:00",
+      "date": "2026-01-25",
+      "source_id": "bbc_world",
+      "title": "Ros Atkins on... How popular is President Trump?",
+      "link": "https://www.bbc.com/news/videos/cn8jje0pypro?at_medium=RSS&at_campaign=rss",
+      "label": "GREEN",
+      "score": 0
     }
   },
   "telegram": {
