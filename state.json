@@ -7420,6 +7420,26 @@
       "link": "https://www.bbc.com/news/videos/cn8jje0pypro?at_medium=RSS&at_campaign=rss",
       "label": "GREEN",
       "score": 0
+    },
+    "f6a4e87a3193d90eb0e98a28157bb3be77b4cdde": {
+      "first_seen": "2026-01-25T09:11:57.902254+00:00",
+      "last_seen": "2026-01-25T09:11:57.902254+00:00",
+      "date": "2026-01-25",
+      "source_id": "bbc_world",
+      "title": "Climber Alex Honnold scales 101-floor skyscraper without safety gear",
+      "link": "https://www.bbc.com/news/articles/c4gl0njzxjdo?at_medium=RSS&at_campaign=rss",
+      "label": "GREEN",
+      "score": 0
+    },
+    "4b7607cae0829ebdc8060735045c12a62cf2570b": {
+      "first_seen": "2026-01-25T09:11:57.982030+00:00",
+      "last_seen": "2026-01-25T09:11:57.982030+00:00",
+      "date": "2026-01-25",
+      "source_id": "bbc_world",
+      "title": "Watch: BBC at protests near scene where Alex Pretti was shot dead",
+      "link": "https://www.bbc.com/news/videos/c6206p2zyyqo?at_medium=RSS&at_campaign=rss",
+      "label": "GREEN",
+      "score": 0
     }
   },
   "telegram": {
