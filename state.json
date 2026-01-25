@@ -7510,6 +7510,146 @@
       "link": "https://www.bbc.com/news/articles/czx11kw42jeo?at_medium=RSS&at_campaign=rss",
       "label": "GREEN",
       "score": 0
+    },
+    "b7c323f2a6da1d1dfac06c6438ac717523d373b1": {
+      "first_seen": "2026-01-25T23:28:24.070760+00:00",
+      "last_seen": "2026-01-25T23:28:24.070760+00:00",
+      "date": "2026-01-25",
+      "source_id": "bbc_world",
+      "title": "Video shows moments around fatal shooting of Alex Pretti in Minneapolis",
+      "link": "https://www.bbc.com/news/videos/cp372pqq2rlo?at_medium=RSS&at_campaign=rss",
+      "label": "GREEN",
+      "score": 0
+    },
+    "01ddc91397bad994bd9e3e6ad639455a305be2d2": {
+      "first_seen": "2026-01-25T23:28:24.215008+00:00",
+      "last_seen": "2026-01-25T23:28:24.215008+00:00",
+      "date": "2026-01-25",
+      "source_id": "bbc_world",
+      "title": "Who was Alex Pretti, the intensive care nurse shot dead in Minneapolis?",
+      "link": "https://www.bbc.com/news/articles/c62r4g590wqo?at_medium=RSS&at_campaign=rss",
+      "label": "GREEN",
+      "score": 0
+    },
+    "1b802b339a38aeb278b9b16f567b362f8c97841b": {
+      "first_seen": "2026-01-25T23:28:24.328637+00:00",
+      "last_seen": "2026-01-25T23:28:24.328637+00:00",
+      "date": "2026-01-25",
+      "source_id": "bbc_world",
+      "title": "Venezuela frees dozens of political prisoners, human rights group says",
+      "link": "https://www.bbc.com/news/articles/clymr3pz2kxo?at_medium=RSS&at_campaign=rss",
+      "label": "GREEN",
+      "score": 0
+    },
+    "8d164606abfa85313aa71d5ea94ae5c43bd3afe4": {
+      "first_seen": "2026-01-25T23:28:24.474924+00:00",
+      "last_seen": "2026-01-25T23:28:24.474924+00:00",
+      "date": "2026-01-25",
+      "source_id": "bbc_world",
+      "title": "People cling to treetops as 'worst floods in a generation' sweep Mozambique",
+      "link": "https://www.bbc.com/news/articles/cddgq9z4899o?at_medium=RSS&at_campaign=rss",
+      "label": "GREEN",
+      "score": 0
+    },
+    "139fee1ad9863dc601b2f20ffd7942f1b0e95f4c": {
+      "first_seen": "2026-01-25T23:28:24.599339+00:00",
+      "last_seen": "2026-01-25T23:28:24.599339+00:00",
+      "date": "2026-01-25",
+      "source_id": "bbc_world",
+      "title": "Captain of suspected Russian shadow tanker in French custody",
+      "link": "https://www.bbc.com/news/articles/c62vke5dly2o?at_medium=RSS&at_campaign=rss",
+      "label": "GREEN",
+      "score": 0
+    },
+    "e1b7508d7478d6f80e01036377ca1284103e71ca": {
+      "first_seen": "2026-01-25T23:28:24.724910+00:00",
+      "last_seen": "2026-01-25T23:28:24.724910+00:00",
+      "date": "2026-01-25",
+      "source_id": "bbc_world",
+      "title": "Kenya's ex-deputy president alleges assassination attempt in church attack",
+      "link": "https://www.bbc.com/news/articles/cpqyxew338po?at_medium=RSS&at_campaign=rss",
+      "label": "GREEN",
+      "score": 0
+    },
+    "405271520fbb299ac71a317857723230846f15cf": {
+      "first_seen": "2026-01-25T23:28:24.834367+00:00",
+      "last_seen": "2026-01-25T23:28:24.834367+00:00",
+      "date": "2026-01-25",
+      "source_id": "bbc_world",
+      "title": "Sir Mark Tully, the BBC's 'voice of India', dies aged 90",
+      "link": "https://www.bbc.com/news/articles/c4nnp4d064do?at_medium=RSS&at_campaign=rss",
+      "label": "GREEN",
+      "score": 0
+    },
+    "a041a1e7a450cc1aca1dbc2a07e8d602ca58d8b1": {
+      "first_seen": "2026-01-25T23:28:24.938472+00:00",
+      "last_seen": "2026-01-25T23:28:24.938472+00:00",
+      "date": "2026-01-25",
+      "source_id": "bbc_world",
+      "title": "Party backed by generals set for landslide as 'sham' Myanmar election ends",
+      "link": "https://www.bbc.com/news/articles/cx2l6wg0p8eo?at_medium=RSS&at_campaign=rss",
+      "label": "GREEN",
+      "score": 0
+    },
+    "43cebbf161893c28fb949f75102043e7fbc6867a": {
+      "first_seen": "2026-01-25T23:28:25.062231+00:00",
+      "last_seen": "2026-01-25T23:28:25.062231+00:00",
+      "date": "2026-01-25",
+      "source_id": "bbc_world",
+      "title": "Cyclist wins Australia race despite being knocked off by Kangaroo",
+      "link": "https://www.bbc.com/sport/cycling/articles/cgez09jl05wo?at_medium=RSS&at_campaign=rss",
+      "label": "GREEN",
+      "score": 0
+    },
+    "e2cd5c733369e1bf9b97af31671877e98f782f2c": {
+      "first_seen": "2026-01-25T23:28:25.178586+00:00",
+      "last_seen": "2026-01-25T23:28:25.178586+00:00",
+      "date": "2026-01-25",
+      "source_id": "bbc_world",
+      "title": "Trump says UK soldiers in Afghanistan 'among greatest of all warriors'",
+      "link": "https://www.bbc.com/news/articles/c3edwx37pd9o?at_medium=RSS&at_campaign=rss",
+      "label": "GREEN",
+      "score": 0
+    },
+    "852ee25d303f0c96a6b20dae69a65ad21df9f645": {
+      "first_seen": "2026-01-25T23:28:25.287748+00:00",
+      "last_seen": "2026-01-25T23:28:25.287748+00:00",
+      "date": "2026-01-25",
+      "source_id": "bbc_world",
+      "title": "Trump threatens Canada with 100% tariffs if it 'makes a deal with China'",
+      "link": "https://www.bbc.com/news/articles/cy4qww3w72lo?at_medium=RSS&at_campaign=rss",
+      "label": "GREEN",
+      "score": 0
+    },
+    "3ee5bc5f2076f53b7ce0a7a2262006d8b4225f83": {
+      "first_seen": "2026-01-25T23:28:25.409393+00:00",
+      "last_seen": "2026-01-25T23:28:25.409393+00:00",
+      "date": "2026-01-25",
+      "source_id": "bbc_world",
+      "title": "What we know about fatal shooting of Alex Pretti by federal agents in Minneapolis",
+      "link": "https://www.bbc.com/news/articles/c20zjyxep99o?at_medium=RSS&at_campaign=rss",
+      "label": "GREEN",
+      "score": 0
+    },
+    "0b5d9eba0f34b831bc65d17fc2bd9e484a45ca63": {
+      "first_seen": "2026-01-25T23:28:25.567869+00:00",
+      "last_seen": "2026-01-25T23:28:25.567869+00:00",
+      "date": "2026-01-25",
+      "source_id": "bbc_world",
+      "title": "Analysing the Minneapolis shooting frame by frame",
+      "link": "https://www.bbc.com/news/videos/cg4e0r1el5yo?at_medium=RSS&at_campaign=rss",
+      "label": "GREEN",
+      "score": 0
+    },
+    "8fc5879ff8f35a53589cae3318d72e9f671dc0f0": {
+      "first_seen": "2026-01-25T23:28:25.712648+00:00",
+      "last_seen": "2026-01-25T23:28:25.712648+00:00",
+      "date": "2026-01-25",
+      "source_id": "bbc_world",
+      "title": "Winter storm grips US as millions face power outages and disruption",
+      "link": "https://www.bbc.com/news/videos/cpqyxlqwqqlo?at_medium=RSS&at_campaign=rss",
+      "label": "GREEN",
+      "score": 0
     }
   },
   "telegram": {
