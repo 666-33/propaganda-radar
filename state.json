@@ -7440,9 +7440,79 @@
       "link": "https://www.bbc.com/news/videos/c6206p2zyyqo?at_medium=RSS&at_campaign=rss",
       "label": "GREEN",
       "score": 0
+    },
+    "17d01e8f43936795c8db7e17525390fbf7425a41": {
+      "first_seen": "2026-01-25T14:20:45.082139+00:00",
+      "last_seen": "2026-01-25T14:20:45.082139+00:00",
+      "date": "2026-01-25",
+      "source_id": "bbc_world",
+      "title": "What we know about fatal shooting of Alex Pretti by federal agents in Minneapolis",
+      "link": "https://www.bbc.com/news/articles/c20zjyxep99o?at_medium=RSS&at_campaign=rss",
+      "label": "GREEN",
+      "score": 0
+    },
+    "f3e5f3a475bc1190baccf13ccb13ea5c36212c95": {
+      "first_seen": "2026-01-25T14:20:45.140954+00:00",
+      "last_seen": "2026-01-25T14:20:45.140954+00:00",
+      "date": "2026-01-25",
+      "source_id": "bbc_world",
+      "title": "Party backed by generals set for landslide as 'sham' Myanmar election ends",
+      "link": "https://www.bbc.com/news/articles/cx2l6wg0p8eo?at_medium=RSS&at_campaign=rss",
+      "label": "GREEN",
+      "score": 0
+    },
+    "1b2e1295b4ab3c8033862b71046e2398c388eedf": {
+      "first_seen": "2026-01-25T14:20:45.198800+00:00",
+      "last_seen": "2026-01-25T14:20:45.198800+00:00",
+      "date": "2026-01-25",
+      "source_id": "bbc_world",
+      "title": "Sir Mark Tully, the BBC's 'voice of India', dies aged 90",
+      "link": "https://www.bbc.com/news/articles/c4nnp4d064do?at_medium=RSS&at_campaign=rss",
+      "label": "GREEN",
+      "score": 0
+    },
+    "5016d83075bd938bde9d002116eb96235328f410": {
+      "first_seen": "2026-01-25T14:20:45.248368+00:00",
+      "last_seen": "2026-01-25T14:20:45.248368+00:00",
+      "date": "2026-01-25",
+      "source_id": "bbc_world",
+      "title": "Germany arrests suspected Hamas member over alleged attack plot",
+      "link": "https://www.bbc.com/news/articles/c8rm14lkkvzo?at_medium=RSS&at_campaign=rss",
+      "label": "GREEN",
+      "score": 0
+    },
+    "8a9ec132a933c17505f9f3cf5dc8174a0e00a588": {
+      "first_seen": "2026-01-25T14:20:45.412455+00:00",
+      "last_seen": "2026-01-25T14:20:45.412455+00:00",
+      "date": "2026-01-25",
+      "source_id": "bbc_world",
+      "title": "Peace talks on Russia-Ukraine war end as fighting rages",
+      "link": "https://www.bbc.com/news/articles/cwyr6p30054o?at_medium=RSS&at_campaign=rss",
+      "label": "GREEN",
+      "score": 0
+    },
+    "73d2c2c8a0300d0034109d7410ad70074291a758": {
+      "first_seen": "2026-01-25T14:20:45.464274+00:00",
+      "last_seen": "2026-01-25T14:20:45.464274+00:00",
+      "date": "2026-01-25",
+      "source_id": "bbc_world",
+      "title": "China places highest-ranking general under investigation",
+      "link": "https://www.bbc.com/news/articles/c701kr5zqdqo?at_medium=RSS&at_campaign=rss",
+      "label": "GREEN",
+      "score": 0
+    },
+    "dd61642e7845ccbd0445968fbacd5aa4474645e5": {
+      "first_seen": "2026-01-25T14:20:45.521565+00:00",
+      "last_seen": "2026-01-25T14:20:45.521565+00:00",
+      "date": "2026-01-25",
+      "source_id": "bbc_world",
+      "title": "Cosmetic doctor sorry for picking apart singer Troye Sivan's looks on TikTok",
+      "link": "https://www.bbc.com/news/articles/czx11kw42jeo?at_medium=RSS&at_campaign=rss",
+      "label": "GREEN",
+      "score": 0
     }
   },
   "telegram": {
-    "last_sent_date": "2026-01-24"
+    "last_sent_date": "2026-01-25"
   }
 }
