@@ -7780,9 +7780,149 @@
       "link": "https://www.bbc.com/news/articles/c1w94v205y2o?at_medium=RSS&at_campaign=rss",
       "label": "GREEN",
       "score": 0
+    },
+    "7a3240db4b451ba390684cf938cd79d734c845ce": {
+      "first_seen": "2026-01-26T14:30:27.247704+00:00",
+      "last_seen": "2026-01-26T14:30:27.247704+00:00",
+      "date": "2026-01-26",
+      "source_id": "bbc_world",
+      "title": "France debates under-15s social media ban endorsed by Macron",
+      "link": "https://www.bbc.com/news/articles/c07x003vx0yo?at_medium=RSS&at_campaign=rss",
+      "label": "GREEN",
+      "score": 0
+    },
+    "0a192cbba8dcb665d3a13d2116e34bedac30eddd": {
+      "first_seen": "2026-01-26T14:30:27.317975+00:00",
+      "last_seen": "2026-01-26T14:30:27.317975+00:00",
+      "date": "2026-01-26",
+      "source_id": "bbc_world",
+      "title": "Gunmen storm Mexico football pitch and kill at least 11 people",
+      "link": "https://www.bbc.com/news/articles/cp80419gggro?at_medium=RSS&at_campaign=rss",
+      "label": "GREEN",
+      "score": 0
+    },
+    "75eb323ff9d3c68e15d1d81b03e5fa841e36e049": {
+      "first_seen": "2026-01-26T14:30:27.400447+00:00",
+      "last_seen": "2026-01-26T14:30:27.400447+00:00",
+      "date": "2026-01-26",
+      "source_id": "bbc_world",
+      "title": "EU investigates Elon Musk's X over Grok AI sexual deepfakes",
+      "link": "https://www.bbc.com/news/articles/clye99wg0y8o?at_medium=RSS&at_campaign=rss",
+      "label": "GREEN",
+      "score": 0
+    },
+    "1f49d264fb535632592c1fcd507b3bf705065856": {
+      "first_seen": "2026-01-26T14:30:27.470188+00:00",
+      "last_seen": "2026-01-26T14:30:27.470188+00:00",
+      "date": "2026-01-26",
+      "source_id": "bbc_world",
+      "title": "Private jet carrying eight people crashes in Maine",
+      "link": "https://www.bbc.com/news/articles/cddgqqd0peno?at_medium=RSS&at_campaign=rss",
+      "label": "GREEN",
+      "score": 0
+    },
+    "38f4be58be4781ba6b4b94570c077d8b96e38bce": {
+      "first_seen": "2026-01-26T14:30:27.548213+00:00",
+      "last_seen": "2026-01-26T14:30:27.548213+00:00",
+      "date": "2026-01-26",
+      "source_id": "bbc_world",
+      "title": "Israel to reopen Gaza crossing after search for last dead hostage's body ends",
+      "link": "https://www.bbc.com/news/articles/c801mj1n04lo?at_medium=RSS&at_campaign=rss",
+      "label": "GREEN",
+      "score": 0
+    },
+    "cb21afe0af141d773dfab71ade66818a489496eb": {
+      "first_seen": "2026-01-26T14:30:27.631229+00:00",
+      "last_seen": "2026-01-26T14:30:27.631229+00:00",
+      "date": "2026-01-26",
+      "source_id": "bbc_world",
+      "title": "Uganda's military chief denies army assaulted Bobi Wine's wife",
+      "link": "https://www.bbc.com/news/articles/c20zdj8n7vgo?at_medium=RSS&at_campaign=rss",
+      "label": "GREEN",
+      "score": 0
+    },
+    "daf4d9722dc0d13b0aad881c92334c88f5e8b0b1": {
+      "first_seen": "2026-01-26T14:30:27.719175+00:00",
+      "last_seen": "2026-01-26T14:30:27.719175+00:00",
+      "date": "2026-01-26",
+      "source_id": "bbc_world",
+      "title": "Tearful goodbyes as Japan returns pandas to China amid worsening ties",
+      "link": "https://www.bbc.com/news/articles/c8d0l778dero?at_medium=RSS&at_campaign=rss",
+      "label": "GREEN",
+      "score": 0
+    },
+    "6c4d112187aa1638645111be042362cf41c5bbc1": {
+      "first_seen": "2026-01-26T14:30:27.791643+00:00",
+      "last_seen": "2026-01-26T14:30:27.791643+00:00",
+      "date": "2026-01-26",
+      "source_id": "bbc_world",
+      "title": "Tributes pour in across India for revered BBC broadcaster Sir Mark Tully",
+      "link": "https://www.bbc.com/news/articles/cgjw0w0qq4wo?at_medium=RSS&at_campaign=rss",
+      "label": "GREEN",
+      "score": 0
+    },
+    "498fa2a923f37be7d81c734e7c0d7e822410f2b5": {
+      "first_seen": "2026-01-26T14:30:27.858701+00:00",
+      "last_seen": "2026-01-26T14:30:27.858701+00:00",
+      "date": "2026-01-26",
+      "source_id": "bbc_world",
+      "title": "Greece biscuit factory fire leaves at least four dead",
+      "link": "https://www.bbc.com/news/articles/c89q5q8leeqo?at_medium=RSS&at_campaign=rss",
+      "label": "GREEN",
+      "score": 0
+    },
+    "e9e0812145ea944f97e087cd22ab5aa0fccdb30e": {
+      "first_seen": "2026-01-26T14:30:27.936895+00:00",
+      "last_seen": "2026-01-26T14:30:27.936895+00:00",
+      "date": "2026-01-26",
+      "source_id": "bbc_world",
+      "title": "Russia using Interpol's wanted list to target critics abroad, leak reveals",
+      "link": "https://www.bbc.com/news/articles/c20gg729y1yo?at_medium=RSS&at_campaign=rss",
+      "label": "GREEN",
+      "score": 0
+    },
+    "f086ac96bc56e6029889f3fb9d1eedd808d289cc": {
+      "first_seen": "2026-01-26T14:30:28.012071+00:00",
+      "last_seen": "2026-01-26T14:30:28.012071+00:00",
+      "date": "2026-01-26",
+      "source_id": "bbc_world",
+      "title": "Japanese ex-soldier reaches settlements in landmark sex abuse case",
+      "link": "https://www.bbc.com/news/articles/cr4k2kw500zo?at_medium=RSS&at_campaign=rss",
+      "label": "GREEN",
+      "score": 0
+    },
+    "e394b6a8d9975dec155ce9ae58c0a4c6eabd6c37": {
+      "first_seen": "2026-01-26T14:30:28.099971+00:00",
+      "last_seen": "2026-01-26T14:30:28.099971+00:00",
+      "date": "2026-01-26",
+      "source_id": "bbc_world",
+      "title": "Who was Alex Pretti, the intensive care nurse shot dead in Minneapolis?",
+      "link": "https://www.bbc.com/news/articles/c62r4g590wqo?at_medium=RSS&at_campaign=rss",
+      "label": "GREEN",
+      "score": 0
+    },
+    "eb31a4508b0469b81d49116d1a738a72b2c9e1df": {
+      "first_seen": "2026-01-26T14:30:28.182090+00:00",
+      "last_seen": "2026-01-26T14:30:28.182090+00:00",
+      "date": "2026-01-26",
+      "source_id": "bbc_world",
+      "title": "NRA and other US gun activists push back at Trump officials over Minneapolis shooting",
+      "link": "https://www.bbc.com/news/articles/cnvg812n01no?at_medium=RSS&at_campaign=rss",
+      "label": "GREEN",
+      "score": 0
+    },
+    "fab4e2edada326fa4443f26ce0b330ed9b2cd2a1": {
+      "first_seen": "2026-01-26T14:30:28.261858+00:00",
+      "last_seen": "2026-01-26T14:30:28.261858+00:00",
+      "date": "2026-01-26",
+      "source_id": "bbc_world",
+      "title": "'I spent £2,000 on one event': Why Gen Z is obsessed with Hyrox",
+      "link": "https://www.bbc.com/news/articles/cj0nmj72v8ro?at_medium=RSS&at_campaign=rss",
+      "label": "GREEN",
+      "score": 0
     }
   },
   "telegram": {
-    "last_sent_date": "2026-01-25"
+    "last_sent_date": "2026-01-26"
   }
 }
