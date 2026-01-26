@@ -7650,6 +7650,36 @@
       "link": "https://www.bbc.com/news/videos/cpqyxlqwqqlo?at_medium=RSS&at_campaign=rss",
       "label": "GREEN",
       "score": 0
+    },
+    "5585ee345592e7f94155109352b40454a3d0076e": {
+      "first_seen": "2026-01-26T04:20:31.897455+00:00",
+      "last_seen": "2026-01-26T04:20:31.897455+00:00",
+      "date": "2026-01-26",
+      "source_id": "bbc_world",
+      "title": "Russia using Interpol's wanted list to target critics abroad, leak reveals",
+      "link": "https://www.bbc.com/news/articles/c20gg729y1yo?at_medium=RSS&at_campaign=rss",
+      "label": "GREEN",
+      "score": 0
+    },
+    "a99fce1b4269ad893f7feea7c1beae739cd6e7c9": {
+      "first_seen": "2026-01-26T04:20:32.007072+00:00",
+      "last_seen": "2026-01-26T04:20:32.007072+00:00",
+      "date": "2026-01-26",
+      "source_id": "bbc_world",
+      "title": "Climber Alex Honnold scales 101-floor skyscraper without safety gear",
+      "link": "https://www.bbc.com/news/articles/c4gl0njzxjdo?at_medium=RSS&at_campaign=rss",
+      "label": "GREEN",
+      "score": 0
+    },
+    "adbab12aa252907f62362c44e01facce4d0e9ab3": {
+      "first_seen": "2026-01-26T04:20:32.102118+00:00",
+      "last_seen": "2026-01-26T04:20:32.102118+00:00",
+      "date": "2026-01-26",
+      "source_id": "bbc_world",
+      "title": "Tearful goodbyes as Japan returns pandas to China amid worsening ties",
+      "link": "https://www.bbc.com/news/articles/c8d0l778dero?at_medium=RSS&at_campaign=rss",
+      "label": "GREEN",
+      "score": 0
     }
   },
   "telegram": {
