@@ -7680,6 +7680,106 @@
       "link": "https://www.bbc.com/news/articles/c8d0l778dero?at_medium=RSS&at_campaign=rss",
       "label": "GREEN",
       "score": 0
+    },
+    "7474ef3ab8d159e13f98357c26e7c91b60b27aee": {
+      "first_seen": "2026-01-26T09:23:47.957373+00:00",
+      "last_seen": "2026-01-26T09:23:47.957373+00:00",
+      "date": "2026-01-26",
+      "source_id": "bbc_world",
+      "title": "Trump says administration 'reviewing everything' after shooting of Alex Pretti",
+      "link": "https://www.bbc.com/news/articles/cr571qg4m61o?at_medium=RSS&at_campaign=rss",
+      "label": "GREEN",
+      "score": 0
+    },
+    "f03f7f43813904dd80016181163e52a3a9c24a36": {
+      "first_seen": "2026-01-26T09:23:48.130676+00:00",
+      "last_seen": "2026-01-26T09:23:48.130676+00:00",
+      "date": "2026-01-26",
+      "source_id": "bbc_world",
+      "title": "'This is horrifying' - Minneapolis residents reel from second deadly shooting",
+      "link": "https://www.bbc.com/news/articles/cvg50vv1ezko?at_medium=RSS&at_campaign=rss",
+      "label": "GREEN",
+      "score": 0
+    },
+    "5fc26bd4ebec220328ba0407b553fd7c3032bd60": {
+      "first_seen": "2026-01-26T09:23:48.239702+00:00",
+      "last_seen": "2026-01-26T09:23:48.239702+00:00",
+      "date": "2026-01-26",
+      "source_id": "bbc_world",
+      "title": "NRA and other US gun activists push back at Trump officials over Minneapolis shooting",
+      "link": "https://www.bbc.com/news/articles/cnvg812n01no?at_medium=RSS&at_campaign=rss",
+      "label": "GREEN",
+      "score": 0
+    },
+    "ebdd526f1bf243a5c5b8875beb7d0ab28784eba3": {
+      "first_seen": "2026-01-26T09:23:48.340180+00:00",
+      "last_seen": "2026-01-26T09:23:48.340180+00:00",
+      "date": "2026-01-26",
+      "source_id": "bbc_world",
+      "title": "At least seven dead and 800,000 without power as major winter storm hits US",
+      "link": "https://www.bbc.com/news/articles/c1klrmz90yjo?at_medium=RSS&at_campaign=rss",
+      "label": "GREEN",
+      "score": 0
+    },
+    "d7746079a750d38de0e73f6717625f3cdd93e85f": {
+      "first_seen": "2026-01-26T09:23:48.438821+00:00",
+      "last_seen": "2026-01-26T09:23:48.438821+00:00",
+      "date": "2026-01-26",
+      "source_id": "bbc_world",
+      "title": "Tearful goodbyes as Japan returns pandas to China amid worsening ties",
+      "link": "https://www.bbc.com/news/articles/c8d0l778dero?at_medium=RSS&at_campaign=rss",
+      "label": "GREEN",
+      "score": 0
+    },
+    "e9ec27a32ce8b1e65a8d1694b147e2e6c15c46c8": {
+      "first_seen": "2026-01-26T09:23:48.525392+00:00",
+      "last_seen": "2026-01-26T09:23:48.525392+00:00",
+      "date": "2026-01-26",
+      "source_id": "bbc_world",
+      "title": "Eighteen dead after Philippines ferry with 300 passengers sinks",
+      "link": "https://www.bbc.com/news/articles/cwy1vpqpy23o?at_medium=RSS&at_campaign=rss",
+      "label": "GREEN",
+      "score": 0
+    },
+    "4a74184bdd5e98203814fbbeb83ada172b39817f": {
+      "first_seen": "2026-01-26T09:23:48.624540+00:00",
+      "last_seen": "2026-01-26T09:23:48.624540+00:00",
+      "date": "2026-01-26",
+      "source_id": "bbc_world",
+      "title": "Gold tops $5,000 for first time ever, adding to historic rally",
+      "link": "https://www.bbc.com/news/articles/cvgd8kj2y2po?at_medium=RSS&at_campaign=rss",
+      "label": "GREEN",
+      "score": 0
+    },
+    "7f09f9b4a7defedb2f806e66f4ef07f83ac26d06": {
+      "first_seen": "2026-01-26T09:23:48.711655+00:00",
+      "last_seen": "2026-01-26T09:23:48.711655+00:00",
+      "date": "2026-01-26",
+      "source_id": "bbc_world",
+      "title": "Venezuela frees dozens of political prisoners, human rights group says",
+      "link": "https://www.bbc.com/news/articles/clymr3pz2kxo?at_medium=RSS&at_campaign=rss",
+      "label": "GREEN",
+      "score": 0
+    },
+    "be8c9cf32d6b86b283dd905c1773347e1b2b8dff": {
+      "first_seen": "2026-01-26T09:23:48.800282+00:00",
+      "last_seen": "2026-01-26T09:23:48.800282+00:00",
+      "date": "2026-01-26",
+      "source_id": "bbc_world",
+      "title": "Heatwave warnings across Australia as millions celebrate national day",
+      "link": "https://www.bbc.com/news/articles/cz6y7nxx5jvo?at_medium=RSS&at_campaign=rss",
+      "label": "GREEN",
+      "score": 0
+    },
+    "8bff5e3e34b0e85f3b1f5469ff42eac2117273b3": {
+      "first_seen": "2026-01-26T09:23:48.923971+00:00",
+      "last_seen": "2026-01-26T09:23:48.923971+00:00",
+      "date": "2026-01-26",
+      "source_id": "bbc_world",
+      "title": "Murder and MI5: How an extraordinary battle erupted over what the state keeps secret",
+      "link": "https://www.bbc.com/news/articles/c1w94v205y2o?at_medium=RSS&at_campaign=rss",
+      "label": "GREEN",
+      "score": 0
     }
   },
   "telegram": {
