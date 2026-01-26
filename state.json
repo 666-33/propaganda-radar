@@ -7920,6 +7920,76 @@
       "link": "https://www.bbc.com/news/articles/cj0nmj72v8ro?at_medium=RSS&at_campaign=rss",
       "label": "GREEN",
       "score": 0
+    },
+    "5e2ae663df3def9dc4a0946a23029f1d474b1742": {
+      "first_seen": "2026-01-26T23:30:51.075166+00:00",
+      "last_seen": "2026-01-26T23:30:51.075166+00:00",
+      "date": "2026-01-26",
+      "source_id": "bbc_world",
+      "title": "Israel says it has retrieved remains of final Gaza hostage",
+      "link": "https://www.bbc.com/news/articles/c5ydvz7nz4mo?at_medium=RSS&at_campaign=rss",
+      "label": "GREEN",
+      "score": 0
+    },
+    "4f263f9352ce3712a016f8ba79e26f26ca3d8da6": {
+      "first_seen": "2026-01-26T23:30:51.163763+00:00",
+      "last_seen": "2026-01-26T23:30:51.163763+00:00",
+      "date": "2026-01-26",
+      "source_id": "bbc_world",
+      "title": "New Iran videos show bodies piled in hospital and snipers on roofs",
+      "link": "https://www.bbc.com/news/articles/c1m7kde3y3zo?at_medium=RSS&at_campaign=rss",
+      "label": "GREEN",
+      "score": 0
+    },
+    "4578b3571abd9c51628816ce1e0a966315c52ac0": {
+      "first_seen": "2026-01-26T23:30:51.272159+00:00",
+      "last_seen": "2026-01-26T23:30:51.272159+00:00",
+      "date": "2026-01-26",
+      "source_id": "bbc_world",
+      "title": "Nigerian officers to face trial over coup-plot allegations",
+      "link": "https://www.bbc.com/news/articles/c9dv4wlw3yzo?at_medium=RSS&at_campaign=rss",
+      "label": "GREEN",
+      "score": 0
+    },
+    "1a5eee1aaffa1d1fa8fbf491b7c2f34a6b377c9c": {
+      "first_seen": "2026-01-26T23:30:51.373818+00:00",
+      "last_seen": "2026-01-26T23:30:51.373818+00:00",
+      "date": "2026-01-26",
+      "source_id": "bbc_world",
+      "title": "Spain slashes speed limit on popular train route after fault found",
+      "link": "https://www.bbc.com/news/articles/ckgy049ypd5o?at_medium=RSS&at_campaign=rss",
+      "label": "GREEN",
+      "score": 0
+    },
+    "dfa95f7a514dc74c13c81fd30f459088b5b30163": {
+      "first_seen": "2026-01-26T23:30:51.453835+00:00",
+      "last_seen": "2026-01-26T23:30:51.453835+00:00",
+      "date": "2026-01-26",
+      "source_id": "bbc_world",
+      "title": "Gunmen storm Mexico football pitch and kill at least 11 people",
+      "link": "https://www.bbc.com/news/articles/cp80419gggro?at_medium=RSS&at_campaign=rss",
+      "label": "GREEN",
+      "score": 0
+    },
+    "340657507ae6a2cd4fa8815cbd4b2328c9e38b52": {
+      "first_seen": "2026-01-26T23:30:51.551315+00:00",
+      "last_seen": "2026-01-26T23:30:51.551315+00:00",
+      "date": "2026-01-26",
+      "source_id": "bbc_world",
+      "title": "EU investigates Elon Musk's X over Grok AI sexual deepfakes",
+      "link": "https://www.bbc.com/news/articles/clye99wg0y8o?at_medium=RSS&at_campaign=rss",
+      "label": "GREEN",
+      "score": 0
+    },
+    "67325e5e02af6db3646dcc9ebc5b4e1577d96456": {
+      "first_seen": "2026-01-26T23:30:51.648183+00:00",
+      "last_seen": "2026-01-26T23:30:51.648183+00:00",
+      "date": "2026-01-26",
+      "source_id": "bbc_world",
+      "title": "Trump abandons attack mode as Minneapolis shooting backlash grows",
+      "link": "https://www.bbc.com/news/articles/ckgn9q1wp0yo?at_medium=RSS&at_campaign=rss",
+      "label": "GREEN",
+      "score": 0
     }
   },
   "telegram": {
