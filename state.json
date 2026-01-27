@@ -7990,6 +7990,96 @@
       "link": "https://www.bbc.com/news/articles/ckgn9q1wp0yo?at_medium=RSS&at_campaign=rss",
       "label": "GREEN",
       "score": 0
+    },
+    "d5fe49e601455bac8bf7b8c57899e2b7c232c453": {
+      "first_seen": "2026-01-27T04:12:16.679095+00:00",
+      "last_seen": "2026-01-27T04:12:16.679095+00:00",
+      "date": "2026-01-27",
+      "source_id": "bbc_world",
+      "title": "Immigration chief departing Minneapolis as Trump sends border tsar Tom Homan to scene",
+      "link": "https://www.bbc.com/news/articles/cgrdlr70qg4o?at_medium=RSS&at_campaign=rss",
+      "label": "GREEN",
+      "score": 0
+    },
+    "3458e17e509c8d21da2b050faf3367aec841e213": {
+      "first_seen": "2026-01-27T04:12:16.762422+00:00",
+      "last_seen": "2026-01-27T04:12:16.762422+00:00",
+      "date": "2026-01-27",
+      "source_id": "bbc_world",
+      "title": "'We're all terrified', Minnesotan tells the BBC in tears",
+      "link": "https://www.bbc.com/news/videos/crkr1g5vnveo?at_medium=RSS&at_campaign=rss",
+      "label": "GREEN",
+      "score": 0
+    },
+    "e22e82670d3c4b3e7ff2d8e4ee114cafc1a0e3d1": {
+      "first_seen": "2026-01-27T04:12:16.820991+00:00",
+      "last_seen": "2026-01-27T04:12:16.820991+00:00",
+      "date": "2026-01-27",
+      "source_id": "bbc_world",
+      "title": "Deadly US winter storm leaves flights delayed and thousands without power",
+      "link": "https://www.bbc.com/news/articles/cp3z8ek7eqyo?at_medium=RSS&at_campaign=rss",
+      "label": "GREEN",
+      "score": 0
+    },
+    "70f6020ea4d2853d28e73f3e011c0ab2848a0fc6": {
+      "first_seen": "2026-01-27T04:12:16.879078+00:00",
+      "last_seen": "2026-01-27T04:12:16.879078+00:00",
+      "date": "2026-01-27",
+      "source_id": "bbc_world",
+      "title": "Trump raises US tariffs on South Korea imports to 25%",
+      "link": "https://www.bbc.com/news/articles/cwyw3ynwe37o?at_medium=RSS&at_campaign=rss",
+      "label": "GREEN",
+      "score": 0
+    },
+    "4a912db976c9d2da92e52ee0748f53defa6457e1": {
+      "first_seen": "2026-01-27T04:12:16.946802+00:00",
+      "last_seen": "2026-01-27T04:12:16.946802+00:00",
+      "date": "2026-01-27",
+      "source_id": "bbc_world",
+      "title": "Tech giants face landmark trial over social media addiction claims",
+      "link": "https://www.bbc.com/news/articles/c24g8v6qr1mo?at_medium=RSS&at_campaign=rss",
+      "label": "GREEN",
+      "score": 0
+    },
+    "417569f4aa246376aa1a7a8a166e897ddbe6edda": {
+      "first_seen": "2026-01-27T04:12:16.994833+00:00",
+      "last_seen": "2026-01-27T04:12:16.994833+00:00",
+      "date": "2026-01-27",
+      "source_id": "bbc_world",
+      "title": "Former Olympian Ryan Wedding pleads not guilty to drug kingpin charges",
+      "link": "https://www.bbc.com/news/articles/cedweq4lj25o?at_medium=RSS&at_campaign=rss",
+      "label": "GREEN",
+      "score": 0
+    },
+    "77efe91357eac17805e3de561b693e5fae4f1e16": {
+      "first_seen": "2026-01-27T04:12:17.059329+00:00",
+      "last_seen": "2026-01-27T04:12:17.059329+00:00",
+      "date": "2026-01-27",
+      "source_id": "bbc_world",
+      "title": "'Major step': French MPs vote in favour of bill to ban social media for under-15s",
+      "link": "https://www.bbc.com/news/articles/c07x003vx0yo?at_medium=RSS&at_campaign=rss",
+      "label": "GREEN",
+      "score": 0
+    },
+    "8ca984cfc43169cc6219d3621e297b04cd795ef2": {
+      "first_seen": "2026-01-27T04:12:17.120213+00:00",
+      "last_seen": "2026-01-27T04:12:17.120213+00:00",
+      "date": "2026-01-27",
+      "source_id": "bbc_world",
+      "title": "Nigerian officers to face trial over coup-plot allegations",
+      "link": "https://www.bbc.com/news/articles/c9dv4wlw3yzo?at_medium=RSS&at_campaign=rss",
+      "label": "GREEN",
+      "score": 0
+    },
+    "caca7eca4915c8745194fdabcac12e812947500c": {
+      "first_seen": "2026-01-27T04:12:17.177145+00:00",
+      "last_seen": "2026-01-27T04:12:17.177145+00:00",
+      "date": "2026-01-27",
+      "source_id": "bbc_world",
+      "title": "China has purged its highest-ranked military general. Why?",
+      "link": "https://www.bbc.com/news/articles/c8d0l0g8yz5o?at_medium=RSS&at_campaign=rss",
+      "label": "GREEN",
+      "score": 0
     }
   },
   "telegram": {
