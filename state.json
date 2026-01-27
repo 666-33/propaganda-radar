@@ -8200,9 +8200,39 @@
       "link": "https://www.bbc.com/news/articles/c24g8v6qr1mo?at_medium=RSS&at_campaign=rss",
       "label": "GREEN",
       "score": 0
+    },
+    "ac4a724d2155ee6e76c169599bac10ea767ef78a": {
+      "first_seen": "2026-01-27T14:31:50.191247+00:00",
+      "last_seen": "2026-01-27T14:31:50.191247+00:00",
+      "date": "2026-01-27",
+      "source_id": "bbc_world",
+      "title": "US to send ICE agents to Winter Olympics, prompting Italian anger",
+      "link": "https://www.bbc.com/news/articles/c5y29xzjdzvo?at_medium=RSS&at_campaign=rss",
+      "label": "GREEN",
+      "score": 0
+    },
+    "11f5d70371d83d9d32d7412521cbf712bf45fcb0": {
+      "first_seen": "2026-01-27T14:31:50.288123+00:00",
+      "last_seen": "2026-01-27T14:31:50.288123+00:00",
+      "date": "2026-01-27",
+      "source_id": "bbc_world",
+      "title": "Sweden aims to lower age of criminal responsibility to 13 as gangs recruit children",
+      "link": "https://www.bbc.com/news/articles/c4gw49gk13xo?at_medium=RSS&at_campaign=rss",
+      "label": "GREEN",
+      "score": 0
+    },
+    "dfa897a8c6b3cc4bc5a08e7890bbd17fd3c859af": {
+      "first_seen": "2026-01-27T14:31:50.384255+00:00",
+      "last_seen": "2026-01-27T14:31:50.384255+00:00",
+      "date": "2026-01-27",
+      "source_id": "bbc_world",
+      "title": "Japan court orders compensation for migrants lured to North Korea",
+      "link": "https://www.bbc.com/news/articles/c23r2l81708o?at_medium=RSS&at_campaign=rss",
+      "label": "GREEN",
+      "score": 4
     }
   },
   "telegram": {
-    "last_sent_date": "2026-01-26"
+    "last_sent_date": "2026-01-27"
   }
 }
