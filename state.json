@@ -8230,6 +8230,146 @@
       "link": "https://www.bbc.com/news/articles/c23r2l81708o?at_medium=RSS&at_campaign=rss",
       "label": "GREEN",
       "score": 4
+    },
+    "003288f877246395f1d09c6d17541c623637592f": {
+      "first_seen": "2026-01-27T23:30:55.673353+00:00",
+      "last_seen": "2026-01-27T23:30:55.673353+00:00",
+      "date": "2026-01-27",
+      "source_id": "bbc_world",
+      "title": "'We all know someone who was killed' -  Iran protesters tell BBC of brutal crackdown",
+      "link": "https://www.bbc.com/news/articles/cy8y2jxx9ppo?at_medium=RSS&at_campaign=rss",
+      "label": "GREEN",
+      "score": 0
+    },
+    "bd62974048fdeb7b6cd9e5a08e6e792784fc87f4": {
+      "first_seen": "2026-01-27T23:30:55.736964+00:00",
+      "last_seen": "2026-01-27T23:30:55.736964+00:00",
+      "date": "2026-01-27",
+      "source_id": "bbc_world",
+      "title": "Former French senator found guilty of drugging MP",
+      "link": "https://www.bbc.com/news/articles/cy8p1mn3j29o?at_medium=RSS&at_campaign=rss",
+      "label": "GREEN",
+      "score": 0
+    },
+    "60d44efbbc357b1ea8e0e44c6e03ecf97e6a8fcf": {
+      "first_seen": "2026-01-27T23:30:55.794294+00:00",
+      "last_seen": "2026-01-27T23:30:55.794294+00:00",
+      "date": "2026-01-27",
+      "source_id": "bbc_world",
+      "title": "Spain plans to give half a million undocumented migrants legal status",
+      "link": "https://www.bbc.com/news/articles/c62n6gw1dp9o?at_medium=RSS&at_campaign=rss",
+      "label": "GREEN",
+      "score": 0
+    },
+    "3d5d0b6dac5e78fd7819cbaf1d1b1360dac3ea4a": {
+      "first_seen": "2026-01-27T23:30:55.944947+00:00",
+      "last_seen": "2026-01-27T23:30:55.944947+00:00",
+      "date": "2026-01-27",
+      "source_id": "bbc_world",
+      "title": "Families sue US over deadly boat strike off Venezuela coast",
+      "link": "https://www.bbc.com/news/articles/c98jr75w4zko?at_medium=RSS&at_campaign=rss",
+      "label": "GREEN",
+      "score": 0
+    },
+    "a34438d4fb46b98c601c4e660728a5f494666148": {
+      "first_seen": "2026-01-27T23:30:55.999228+00:00",
+      "last_seen": "2026-01-27T23:30:55.999228+00:00",
+      "date": "2026-01-27",
+      "source_id": "bbc_world",
+      "title": "'Crying horse' toys go viral in China ahead of Lunar New Year",
+      "link": "https://www.bbc.com/news/articles/c70l7zndy3jo?at_medium=RSS&at_campaign=rss",
+      "label": "GREEN",
+      "score": 0
+    },
+    "b8dd8ce183b89d3dcf44e2982e2788e3f86e7573": {
+      "first_seen": "2026-01-27T23:30:56.083839+00:00",
+      "last_seen": "2026-01-27T23:30:56.083839+00:00",
+      "date": "2026-01-27",
+      "source_id": "bbc_world",
+      "title": "India and EU announce 'mother of all trade deals'",
+      "link": "https://www.bbc.com/news/articles/crrnee01r9jo?at_medium=RSS&at_campaign=rss",
+      "label": "GREEN",
+      "score": 0
+    },
+    "04ad265e96a0bed69fe12e2e6dc197ebfb8031b0": {
+      "first_seen": "2026-01-27T23:30:56.143881+00:00",
+      "last_seen": "2026-01-27T23:30:56.143881+00:00",
+      "date": "2026-01-27",
+      "source_id": "bbc_world",
+      "title": "Firefighters battle 'emergency level' blazes in Australia heatwave",
+      "link": "https://www.bbc.com/news/articles/cpqyp9w84eeo?at_medium=RSS&at_campaign=rss",
+      "label": "GREEN",
+      "score": 0
+    },
+    "a70fba89c155258ced6c1992bebd83099848bab5": {
+      "first_seen": "2026-01-27T23:30:56.202457+00:00",
+      "last_seen": "2026-01-27T23:30:56.202457+00:00",
+      "date": "2026-01-27",
+      "source_id": "bbc_world",
+      "title": "Canadian PM Carney denies walking back Davos speech in phone call with Trump",
+      "link": "https://www.bbc.com/news/articles/c9qp3x5x2jpo?at_medium=RSS&at_campaign=rss",
+      "label": "GREEN",
+      "score": 0
+    },
+    "16255f2dc5fe87ec4d516c1e1c9fef9694e73eff": {
+      "first_seen": "2026-01-27T23:30:56.265375+00:00",
+      "last_seen": "2026-01-27T23:30:56.265375+00:00",
+      "date": "2026-01-27",
+      "source_id": "bbc_world",
+      "title": "Sweden aims to lower age of criminal responsibility to 13 as gangs recruit children",
+      "link": "https://www.bbc.com/news/articles/c4gw49gk13xo?at_medium=RSS&at_campaign=rss",
+      "label": "GREEN",
+      "score": 0
+    },
+    "c4609b8ddbf3ccbb788a3366c164b796327d597b": {
+      "first_seen": "2026-01-27T23:30:56.335345+00:00",
+      "last_seen": "2026-01-27T23:30:56.335345+00:00",
+      "date": "2026-01-27",
+      "source_id": "bbc_world",
+      "title": "TikTok US pushes back on claims it is censoring content",
+      "link": "https://www.bbc.com/news/articles/ckgjedpn8p8o?at_medium=RSS&at_campaign=rss",
+      "label": "GREEN",
+      "score": 0
+    },
+    "36150a80c188616d951ce4d9c1951b767600caec": {
+      "first_seen": "2026-01-27T23:30:56.396418+00:00",
+      "last_seen": "2026-01-27T23:30:56.396418+00:00",
+      "date": "2026-01-27",
+      "source_id": "bbc_world",
+      "title": "Rwanda takes legal action against UK over axed migrant deal",
+      "link": "https://www.bbc.com/news/articles/czx32yxnvzro?at_medium=RSS&at_campaign=rss",
+      "label": "GREEN",
+      "score": 0
+    },
+    "7ab6dc68b73b8c33d3040284aae9359d2efb8ab7": {
+      "first_seen": "2026-01-27T23:30:56.458371+00:00",
+      "last_seen": "2026-01-27T23:30:56.458371+00:00",
+      "date": "2026-01-27",
+      "source_id": "bbc_world",
+      "title": "One Battle After Another leads Bafta nominations",
+      "link": "https://www.bbc.com/news/articles/cwyn2gqwx9ro?at_medium=RSS&at_campaign=rss",
+      "label": "GREEN",
+      "score": 0
+    },
+    "607fa243d87d2b15edb29cab26a44ada1e9655a6": {
+      "first_seen": "2026-01-27T23:30:56.515126+00:00",
+      "last_seen": "2026-01-27T23:30:56.515126+00:00",
+      "date": "2026-01-27",
+      "source_id": "bbc_world",
+      "title": "Philippines' Duterte fit to face ICC proceedings, judges say",
+      "link": "https://www.bbc.com/news/articles/c0lx2pj84l4o?at_medium=RSS&at_campaign=rss",
+      "label": "GREEN",
+      "score": 0
+    },
+    "f30886fd6ff00d9dcd5e2360f2aa0e63978ca6c9": {
+      "first_seen": "2026-01-27T23:30:56.591119+00:00",
+      "last_seen": "2026-01-27T23:30:56.591119+00:00",
+      "date": "2026-01-27",
+      "source_id": "bbc_world",
+      "title": "Deadly US winter storm leaves flights delayed and thousands without power",
+      "link": "https://www.bbc.com/news/articles/cp3z8ek7eqyo?at_medium=RSS&at_campaign=rss",
+      "label": "GREEN",
+      "score": 0
     }
   },
   "telegram": {
