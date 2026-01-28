@@ -8550,9 +8550,99 @@
       "link": "https://www.bbc.com/news/articles/cjw1pn4lwjqo?at_medium=RSS&at_campaign=rss",
       "label": "GREEN",
       "score": 0
+    },
+    "6c613a44ed5854d2ad37144c75752d4407a35855": {
+      "first_seen": "2026-01-28T14:32:33.459758+00:00",
+      "last_seen": "2026-01-28T14:32:33.459758+00:00",
+      "date": "2026-01-28",
+      "source_id": "bbc_world",
+      "title": "Trump warns Iran 'time is running out' as US military builds up in Gulf",
+      "link": "https://www.bbc.com/news/articles/cly5pd459gko?at_medium=RSS&at_campaign=rss",
+      "label": "GREEN",
+      "score": 0
+    },
+    "825c9b3ee84519ac0b9400c09c5bfc34994a45b9": {
+      "first_seen": "2026-01-28T14:32:33.554256+00:00",
+      "last_seen": "2026-01-28T14:32:33.554256+00:00",
+      "date": "2026-01-28",
+      "source_id": "bbc_world",
+      "title": "Amazon confirms 16,000 job cuts after accidental email",
+      "link": "https://www.bbc.com/news/articles/cx2ywzxlxnlo?at_medium=RSS&at_campaign=rss",
+      "label": "GREEN",
+      "score": 0
+    },
+    "00eeb0f8d85f4b98c74dfa05b4a94984a84d42c6": {
+      "first_seen": "2026-01-28T14:32:33.651606+00:00",
+      "last_seen": "2026-01-28T14:32:33.651606+00:00",
+      "date": "2026-01-28",
+      "source_id": "bbc_world",
+      "title": "Ecuador says ICE agent attempted to enter its Minneapolis consulate",
+      "link": "https://www.bbc.com/news/articles/c4g40k40xndo?at_medium=RSS&at_campaign=rss",
+      "label": "GREEN",
+      "score": 0
+    },
+    "3fda467fb63e0b51b6a3f1ee13be8075303f29ce": {
+      "first_seen": "2026-01-28T14:32:33.753859+00:00",
+      "last_seen": "2026-01-28T14:32:33.753859+00:00",
+      "date": "2026-01-28",
+      "source_id": "bbc_world",
+      "title": "Veteran Indian politician Ajit Pawar dies in plane crash",
+      "link": "https://www.bbc.com/news/articles/c98prmd0jl0o?at_medium=RSS&at_campaign=rss",
+      "label": "GREEN",
+      "score": 0
+    },
+    "625bdcfa656f64c77655cdc2c36e67dc73465a02": {
+      "first_seen": "2026-01-28T14:32:33.849191+00:00",
+      "last_seen": "2026-01-28T14:32:33.849191+00:00",
+      "date": "2026-01-28",
+      "source_id": "bbc_world",
+      "title": "Trump says government will 'de-escalate' in Minnesota following Pretti shooting",
+      "link": "https://www.bbc.com/news/articles/c0q425vg4qzo?at_medium=RSS&at_campaign=rss",
+      "label": "GREEN",
+      "score": 0
+    },
+    "e516c33bb281dd110aa08add4bcc9edb0b901700": {
+      "first_seen": "2026-01-28T14:32:33.946953+00:00",
+      "last_seen": "2026-01-28T14:32:33.946953+00:00",
+      "date": "2026-01-28",
+      "source_id": "bbc_world",
+      "title": "Zelensky condemns Russian drone strike that killed five on passenger train",
+      "link": "https://www.bbc.com/news/articles/crkrpl4ngdzo?at_medium=RSS&at_campaign=rss",
+      "label": "GREEN",
+      "score": 0
+    },
+    "934064e4de23f8d66ab6ba527d4a0bf3d552bdc1": {
+      "first_seen": "2026-01-28T14:32:34.035393+00:00",
+      "last_seen": "2026-01-28T14:32:34.035393+00:00",
+      "date": "2026-01-28",
+      "source_id": "bbc_world",
+      "title": "'I couldn't save them' - US mum's horror as three sons die falling through pond ice",
+      "link": "https://www.bbc.com/news/articles/cvg1z091melo?at_medium=RSS&at_campaign=rss",
+      "label": "GREEN",
+      "score": 0
+    },
+    "a6f1d0029b7c1ed3692cb828aaf334678d1537b9": {
+      "first_seen": "2026-01-28T14:32:34.151843+00:00",
+      "last_seen": "2026-01-28T14:32:34.151843+00:00",
+      "date": "2026-01-28",
+      "source_id": "bbc_world",
+      "title": "'We all know someone who was killed' -  Iran protesters tell BBC of brutal crackdown",
+      "link": "https://www.bbc.com/news/articles/cy8y2jxx9ppo?at_medium=RSS&at_campaign=rss",
+      "label": "GREEN",
+      "score": 0
+    },
+    "5a75a8c844e51e65360f203402c07ad733880a2d": {
+      "first_seen": "2026-01-28T14:32:34.408557+00:00",
+      "last_seen": "2026-01-28T14:32:34.408557+00:00",
+      "date": "2026-01-28",
+      "source_id": "bbc_world",
+      "title": "Malaysia football officials quit over foreign-born players scandal",
+      "link": "https://www.bbc.com/news/articles/cdx4pdg9w2wo?at_medium=RSS&at_campaign=rss",
+      "label": "GREEN",
+      "score": 0
     }
   },
   "telegram": {
-    "last_sent_date": "2026-01-27"
+    "last_sent_date": "2026-01-28"
   }
 }
