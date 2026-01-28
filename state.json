@@ -8510,6 +8510,46 @@
       "link": "https://www.bbc.com/news/articles/cwy11q1pwpgo?at_medium=RSS&at_campaign=rss",
       "label": "GREEN",
       "score": 0
+    },
+    "c35ae139517d68ad8009cf5524f1cda4dc295492": {
+      "first_seen": "2026-01-28T09:24:03.843633+00:00",
+      "last_seen": "2026-01-28T09:24:03.843633+00:00",
+      "date": "2026-01-28",
+      "source_id": "bbc_world",
+      "title": "South Korea's ex-first lady jailed for 20 months for bribery",
+      "link": "https://www.bbc.com/news/articles/cevnppplkjjo?at_medium=RSS&at_campaign=rss",
+      "label": "GREEN",
+      "score": 0
+    },
+    "3137c473d5217d492d5832427232c6b4bea3bff3": {
+      "first_seen": "2026-01-28T09:24:03.901108+00:00",
+      "last_seen": "2026-01-28T09:24:03.901108+00:00",
+      "date": "2026-01-28",
+      "source_id": "bbc_world",
+      "title": "Former French senator found guilty of drugging MP",
+      "link": "https://www.bbc.com/news/articles/cy8p1mn3j29o?at_medium=RSS&at_campaign=rss",
+      "label": "GREEN",
+      "score": 0
+    },
+    "0c65e89b1f83f0d64e94c1f01f72e45f760234ce": {
+      "first_seen": "2026-01-28T09:24:03.989139+00:00",
+      "last_seen": "2026-01-28T09:24:03.989139+00:00",
+      "date": "2026-01-28",
+      "source_id": "bbc_world",
+      "title": "Republicans wrestle with immigration message after Minneapolis backlash",
+      "link": "https://www.bbc.com/news/articles/cj3vp84j1l3o?at_medium=RSS&at_campaign=rss",
+      "label": "GREEN",
+      "score": 0
+    },
+    "6b22705a95e19aecf38161eda64779236236e851": {
+      "first_seen": "2026-01-28T09:24:04.062254+00:00",
+      "last_seen": "2026-01-28T09:24:04.062254+00:00",
+      "date": "2026-01-28",
+      "source_id": "bbc_world",
+      "title": "Who is Tom Homan, Trump's 'border tsar' deployed to Minneapolis?",
+      "link": "https://www.bbc.com/news/articles/cjw1pn4lwjqo?at_medium=RSS&at_campaign=rss",
+      "label": "GREEN",
+      "score": 0
     }
   },
   "telegram": {
