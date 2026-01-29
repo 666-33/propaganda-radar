@@ -8910,9 +8910,59 @@
       "link": "https://www.bbc.com/news/articles/cly5pd459gko?at_medium=RSS&at_campaign=rss",
       "label": "GREEN",
       "score": 0
+    },
+    "3e6496cbdea0833bc2c842390d817070af20bbd8": {
+      "first_seen": "2026-01-29T14:38:30.670867+00:00",
+      "last_seen": "2026-01-29T14:38:30.670867+00:00",
+      "date": "2026-01-29",
+      "source_id": "bbc_world",
+      "title": "Nicki Minaj calls herself Trump's 'number one fan' and shows off gold card visa",
+      "link": "https://www.bbc.com/news/articles/cp87l604nx8o?at_medium=RSS&at_campaign=rss",
+      "label": "GREEN",
+      "score": 0
+    },
+    "4ba5d472f841c03dbb4c33dd801a7e94df6c3d38": {
+      "first_seen": "2026-01-29T14:38:30.776502+00:00",
+      "last_seen": "2026-01-29T14:38:30.776502+00:00",
+      "date": "2026-01-29",
+      "source_id": "bbc_world",
+      "title": "Talks ramp up to avert US government shutdown after Minneapolis shooting",
+      "link": "https://www.bbc.com/news/articles/cn9zp0nyvxdo?at_medium=RSS&at_campaign=rss",
+      "label": "GREEN",
+      "score": 0
+    },
+    "5fbc29698f6ceb3fe9153fed874786fbd25913c3": {
+      "first_seen": "2026-01-29T14:38:30.883663+00:00",
+      "last_seen": "2026-01-29T14:38:30.883663+00:00",
+      "date": "2026-01-29",
+      "source_id": "bbc_world",
+      "title": "Flights to northern Ethiopia cancelled as fears mount of renewed conflict",
+      "link": "https://www.bbc.com/news/articles/cn40r3v770lo?at_medium=RSS&at_campaign=rss",
+      "label": "GREEN",
+      "score": 0
+    },
+    "137159b5e77d9177748f6d71dc8bf4e464f7bae2": {
+      "first_seen": "2026-01-29T14:38:30.987121+00:00",
+      "last_seen": "2026-01-29T14:38:30.987121+00:00",
+      "date": "2026-01-29",
+      "source_id": "bbc_world",
+      "title": "Panic on crowded Ukraine train - passenger describes moment of Russian drone strike",
+      "link": "https://www.bbc.com/news/articles/cgjwpq4pggjo?at_medium=RSS&at_campaign=rss",
+      "label": "GREEN",
+      "score": 0
+    },
+    "e45b153f84840b981e3116c7bac7c5a607aaaf2e": {
+      "first_seen": "2026-01-29T14:38:31.093648+00:00",
+      "last_seen": "2026-01-29T14:38:31.093648+00:00",
+      "date": "2026-01-29",
+      "source_id": "bbc_world",
+      "title": "Why an India court ruling on a 2018 deal is rattling foreign investors",
+      "link": "https://www.bbc.com/news/articles/cz9v42ep8n0o?at_medium=RSS&at_campaign=rss",
+      "label": "GREEN",
+      "score": 0
     }
   },
   "telegram": {
-    "last_sent_date": "2026-01-28"
+    "last_sent_date": "2026-01-29"
   }
 }
