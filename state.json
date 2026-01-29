@@ -8820,6 +8820,26 @@
       "link": "https://www.bbc.com/news/articles/c3wz2x7ppz7o?at_medium=RSS&at_campaign=rss",
       "label": "GREEN",
       "score": 0
+    },
+    "987163c4f02ea67ee928aa9bc14917137d4a88cb": {
+      "first_seen": "2026-01-29T04:44:18.377306+00:00",
+      "last_seen": "2026-01-29T04:44:18.377306+00:00",
+      "date": "2026-01-29",
+      "source_id": "bbc_world",
+      "title": "Border agents involved in fatal shooting of Alex Pretti placed on leave",
+      "link": "https://www.bbc.com/news/articles/ckgn0w129lqo?at_medium=RSS&at_campaign=rss",
+      "label": "GREEN",
+      "score": 0
+    },
+    "eaa55ae6d5781c1d6b9305519d63a102f05fabdf": {
+      "first_seen": "2026-01-29T04:44:18.514243+00:00",
+      "last_seen": "2026-01-29T04:44:18.514243+00:00",
+      "date": "2026-01-29",
+      "source_id": "bbc_world",
+      "title": "Iran's internet is returning - but not for everyone",
+      "link": "https://www.bbc.com/news/articles/cz7y2ddgl23o?at_medium=RSS&at_campaign=rss",
+      "label": "GREEN",
+      "score": 0
     }
   },
   "telegram": {
