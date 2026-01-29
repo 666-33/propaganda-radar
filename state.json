@@ -8840,6 +8840,76 @@
       "link": "https://www.bbc.com/news/articles/cz7y2ddgl23o?at_medium=RSS&at_campaign=rss",
       "label": "GREEN",
       "score": 0
+    },
+    "7a526b28b0a3c8a4aceb6df577fe825712250905": {
+      "first_seen": "2026-01-29T09:31:05.132077+00:00",
+      "last_seen": "2026-01-29T09:31:05.132077+00:00",
+      "date": "2026-01-29",
+      "source_id": "bbc_world",
+      "title": "What could happen if the US strikes Iran? Here are seven scenarios",
+      "link": "https://www.bbc.com/news/articles/ce3kenge1k9o?at_medium=RSS&at_campaign=rss",
+      "label": "GREEN",
+      "score": 0
+    },
+    "dcb082bcb5e7f545ea1af743bb1581ab6e0511fa": {
+      "first_seen": "2026-01-29T09:31:05.258514+00:00",
+      "last_seen": "2026-01-29T09:31:05.258514+00:00",
+      "date": "2026-01-29",
+      "source_id": "bbc_world",
+      "title": "Heavy gunfire and blasts heard near airport in Niger's capital",
+      "link": "https://www.bbc.com/news/articles/cvgp47neze4o?at_medium=RSS&at_campaign=rss",
+      "label": "GREEN",
+      "score": 0
+    },
+    "0f73cac14afcc47b0ea7fb6352e3a8c85fb33439": {
+      "first_seen": "2026-01-29T09:31:05.387359+00:00",
+      "last_seen": "2026-01-29T09:31:05.387359+00:00",
+      "date": "2026-01-29",
+      "source_id": "bbc_world",
+      "title": "China executes 11 members of Myanmar scam mafia",
+      "link": "https://www.bbc.com/news/articles/cx2gdrvy9gjo?at_medium=RSS&at_campaign=rss",
+      "label": "GREEN",
+      "score": 0
+    },
+    "0490d5d94de328535b5ee50a6bf07985d5d9892e": {
+      "first_seen": "2026-01-29T09:31:05.508412+00:00",
+      "last_seen": "2026-01-29T09:31:05.508412+00:00",
+      "date": "2026-01-29",
+      "source_id": "bbc_world",
+      "title": "Indians pay tribute after Arijit Singh retires at 38 as Bollywood singer",
+      "link": "https://www.bbc.com/news/articles/cddgpp7jpm8o?at_medium=RSS&at_campaign=rss",
+      "label": "GREEN",
+      "score": 0
+    },
+    "669d9a2788a1893d2cded6397e29a9e170b4ea09": {
+      "first_seen": "2026-01-29T09:31:05.624443+00:00",
+      "last_seen": "2026-01-29T09:31:05.624443+00:00",
+      "date": "2026-01-29",
+      "source_id": "bbc_world",
+      "title": "Plane crashes in Colombia, killing all 15 on board",
+      "link": "https://www.bbc.com/news/articles/cvgnq54v79xo?at_medium=RSS&at_campaign=rss",
+      "label": "GREEN",
+      "score": 0
+    },
+    "d392502fc619bb142085d73276316323b066ada2": {
+      "first_seen": "2026-01-29T09:31:05.723883+00:00",
+      "last_seen": "2026-01-29T09:31:05.723883+00:00",
+      "date": "2026-01-29",
+      "source_id": "bbc_world",
+      "title": "At least five killed after Storm Kristin hits Portugal",
+      "link": "https://www.bbc.com/news/articles/c205yl3kvzmo?at_medium=RSS&at_campaign=rss",
+      "label": "GREEN",
+      "score": 0
+    },
+    "719869c29df37ff565b91d9a99ab40294dfd01b3": {
+      "first_seen": "2026-01-29T09:31:05.830820+00:00",
+      "last_seen": "2026-01-29T09:31:05.830820+00:00",
+      "date": "2026-01-29",
+      "source_id": "bbc_world",
+      "title": "Trump warns Iran 'time is running out' for nuclear deal as US military builds up in Gulf",
+      "link": "https://www.bbc.com/news/articles/cly5pd459gko?at_medium=RSS&at_campaign=rss",
+      "label": "GREEN",
+      "score": 0
     }
   },
   "telegram": {
