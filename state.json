@@ -9190,6 +9190,46 @@
       "link": "https://www.bbc.com/news/videos/crlepd1pkwxo?at_medium=RSS&at_campaign=rss",
       "label": "GREEN",
       "score": 0
+    },
+    "0fb5c8074cf973fa8b16eaeb3a54bf2a920b30e9": {
+      "first_seen": "2026-01-30T04:46:46.353605+00:00",
+      "last_seen": "2026-01-30T04:46:46.353605+00:00",
+      "date": "2026-01-30",
+      "source_id": "bbc_world",
+      "title": "Man accused of impersonating FBI agent in bid to free Luigi Mangione",
+      "link": "https://www.bbc.com/news/articles/c4g0y6yp2vno?at_medium=RSS&at_campaign=rss",
+      "label": "GREEN",
+      "score": 0
+    },
+    "f083e9c233e072a052a2848245876adbc7141650": {
+      "first_seen": "2026-01-30T04:46:46.451442+00:00",
+      "last_seen": "2026-01-30T04:46:46.451442+00:00",
+      "date": "2026-01-30",
+      "source_id": "bbc_world",
+      "title": "Republicans and Democrats reach funding package deal, US president says",
+      "link": "https://www.bbc.com/news/articles/cn9zp0nyvxdo?at_medium=RSS&at_campaign=rss",
+      "label": "GREEN",
+      "score": 0
+    },
+    "f603922e65bf1ab9ca7835dc66614ee199f17276": {
+      "first_seen": "2026-01-30T04:46:46.543765+00:00",
+      "last_seen": "2026-01-30T04:46:46.543765+00:00",
+      "date": "2026-01-30",
+      "source_id": "bbc_world",
+      "title": "Melania Trump documentary not showing in South African cinemas",
+      "link": "https://www.bbc.com/news/articles/c89q287qxelo?at_medium=RSS&at_campaign=rss",
+      "label": "GREEN",
+      "score": 0
+    },
+    "9487a8734f3343088c782355e959cbf7128e88ab": {
+      "first_seen": "2026-01-30T04:46:46.658756+00:00",
+      "last_seen": "2026-01-30T04:46:46.658756+00:00",
+      "date": "2026-01-30",
+      "source_id": "bbc_world",
+      "title": "Venezuela's oil ghost towns hope Trump plan will revive their fortunes",
+      "link": "https://www.bbc.com/news/articles/ckgnp8n40reo?at_medium=RSS&at_campaign=rss",
+      "label": "GREEN",
+      "score": 0
     }
   },
   "telegram": {
