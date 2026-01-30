@@ -9450,6 +9450,126 @@
       "link": "https://www.bbc.com/news/videos/cvgnqgl57p2o?at_medium=RSS&at_campaign=rss",
       "label": "GREEN",
       "score": 0
+    },
+    "3827d70ea57880699c5eddbf04e4a5a2efeeffd5": {
+      "first_seen": "2026-01-30T23:34:00.313563+00:00",
+      "last_seen": "2026-01-30T23:34:00.313563+00:00",
+      "date": "2026-01-30",
+      "source_id": "bbc_world",
+      "title": "Schitt's Creek and Home Alone star Catherine O'Hara dies aged 71",
+      "link": "https://www.bbc.com/news/articles/czr4jn4621lo?at_medium=RSS&at_campaign=rss",
+      "label": "GREEN",
+      "score": 0
+    },
+    "90a6a1738e2e61c4187740eafbd32b3d5d1163e7": {
+      "first_seen": "2026-01-30T23:34:00.403048+00:00",
+      "last_seen": "2026-01-30T23:34:00.403048+00:00",
+      "date": "2026-01-30",
+      "source_id": "bbc_world",
+      "title": "UN risks 'imminent financial collapse', secretary general warns",
+      "link": "https://www.bbc.com/news/articles/cr579mdv4m7o?at_medium=RSS&at_campaign=rss",
+      "label": "GREEN",
+      "score": 0
+    },
+    "5bf7299bd1f2315310754c2740747f95eab9ffd5": {
+      "first_seen": "2026-01-30T23:34:00.496810+00:00",
+      "last_seen": "2026-01-30T23:34:00.496810+00:00",
+      "date": "2026-01-30",
+      "source_id": "bbc_world",
+      "title": "Trump picks Kevin Warsh to lead the US Federal Reserve",
+      "link": "https://www.bbc.com/news/articles/c2d7yddrl2xo?at_medium=RSS&at_campaign=rss",
+      "label": "GREEN",
+      "score": 0
+    },
+    "c1e48aa8fe3bbcf77e7c2ba08b97e6f40e863d3a": {
+      "first_seen": "2026-01-30T23:34:00.577217+00:00",
+      "last_seen": "2026-01-30T23:34:00.577217+00:00",
+      "date": "2026-01-30",
+      "source_id": "bbc_world",
+      "title": "Luigi Mangione will not face death penalty if convicted, judge rules",
+      "link": "https://www.bbc.com/news/articles/c78egdg3r0po?at_medium=RSS&at_campaign=rss",
+      "label": "GREEN",
+      "score": 0
+    },
+    "e9b32085f52ba0b59d2ea97ea3e2c3c74ac8e9bb": {
+      "first_seen": "2026-01-30T23:34:00.742816+00:00",
+      "last_seen": "2026-01-30T23:34:00.742816+00:00",
+      "date": "2026-01-30",
+      "source_id": "bbc_world",
+      "title": "Civil rights investigation opened into Alex Pretti shooting",
+      "link": "https://www.bbc.com/news/articles/c5yvw89p3p1o?at_medium=RSS&at_campaign=rss",
+      "label": "GREEN",
+      "score": 0
+    },
+    "239866782f2aa8e8421b6323730e07a95c725fce": {
+      "first_seen": "2026-01-30T23:34:00.832742+00:00",
+      "last_seen": "2026-01-30T23:34:00.832742+00:00",
+      "date": "2026-01-30",
+      "source_id": "bbc_world",
+      "title": "Iran wants to make deal rather than face military action, Trump says",
+      "link": "https://www.bbc.com/news/articles/cd9ew2kwj0lo?at_medium=RSS&at_campaign=rss",
+      "label": "GREEN",
+      "score": 0
+    },
+    "7873ca0859ff35c0d2ec44b9c74953cf30e078dc": {
+      "first_seen": "2026-01-30T23:34:00.929569+00:00",
+      "last_seen": "2026-01-30T23:34:00.929569+00:00",
+      "date": "2026-01-30",
+      "source_id": "bbc_world",
+      "title": "Mali lawmaker jailed in Ivory Coast for insulting president",
+      "link": "https://www.bbc.com/news/articles/c74vgxp0zr4o?at_medium=RSS&at_campaign=rss",
+      "label": "GREEN",
+      "score": 0
+    },
+    "5be1b02b1785302b64b0fd2975a365634af7b8f4": {
+      "first_seen": "2026-01-30T23:34:01.023136+00:00",
+      "last_seen": "2026-01-30T23:34:01.023136+00:00",
+      "date": "2026-01-30",
+      "source_id": "bbc_world",
+      "title": "Ukraine sees quieter night as Trump says Putin will not attack its cities",
+      "link": "https://www.bbc.com/news/articles/c4g4yj92kwro?at_medium=RSS&at_campaign=rss",
+      "label": "GREEN",
+      "score": 0
+    },
+    "6d4d5b0f8dc33a5e988290ae74c7918b04a24258": {
+      "first_seen": "2026-01-30T23:34:01.111392+00:00",
+      "last_seen": "2026-01-30T23:34:01.111392+00:00",
+      "date": "2026-01-30",
+      "source_id": "bbc_world",
+      "title": "Syrian government reaches deal with Kurdish-led forces",
+      "link": "https://www.bbc.com/news/articles/cz0pj0n0yk3o?at_medium=RSS&at_campaign=rss",
+      "label": "GREEN",
+      "score": 0
+    },
+    "7870b6f21c9b103ee411aeffe2d46e46755ecae0": {
+      "first_seen": "2026-01-30T23:34:01.215768+00:00",
+      "last_seen": "2026-01-30T23:34:01.215768+00:00",
+      "date": "2026-01-30",
+      "source_id": "bbc_world",
+      "title": "Three reasons for the record rise in gold prices, and one why they are falling",
+      "link": "https://www.bbc.com/news/articles/c87r2700dq8o?at_medium=RSS&at_campaign=rss",
+      "label": "GREEN",
+      "score": 0
+    },
+    "447c1d2422b0c22a60f3957f0c2bc6514b13d20c": {
+      "first_seen": "2026-01-30T23:34:01.322241+00:00",
+      "last_seen": "2026-01-30T23:34:01.322241+00:00",
+      "date": "2026-01-30",
+      "source_id": "bbc_world",
+      "title": "Will Trump's pick to lead US central bank get him the change he wants?",
+      "link": "https://www.bbc.com/news/articles/czx1qrx5jgzo?at_medium=RSS&at_campaign=rss",
+      "label": "GREEN",
+      "score": 0
+    },
+    "f2e407507d699d4a885bf564e3f5c575867e9220": {
+      "first_seen": "2026-01-30T23:34:01.445640+00:00",
+      "last_seen": "2026-01-30T23:34:01.445640+00:00",
+      "date": "2026-01-30",
+      "source_id": "bbc_world",
+      "title": "Music legend Fela Kuti becomes first African to get Grammys Lifetime Achievement Award",
+      "link": "https://www.bbc.com/news/articles/czx1207757xo?at_medium=RSS&at_campaign=rss",
+      "label": "GREEN",
+      "score": 0
     }
   },
   "telegram": {
