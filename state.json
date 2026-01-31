@@ -9830,6 +9830,66 @@
       "link": "https://www.bbc.com/news/articles/c78egvpkm77o?at_medium=RSS&at_campaign=rss",
       "label": "GREEN",
       "score": 0
+    },
+    "bbe33f8a1b479e0de5b016b4352e4a4ff04c9274": {
+      "first_seen": "2026-01-31T23:30:57.069437+00:00",
+      "last_seen": "2026-01-31T23:30:57.069437+00:00",
+      "date": "2026-01-31",
+      "source_id": "bbc_world",
+      "title": "Federal judge denies request to block ICE surge in Minnesota",
+      "link": "https://www.bbc.com/news/articles/c78vgnz3z6eo?at_medium=RSS&at_campaign=rss",
+      "label": "GREEN",
+      "score": 0
+    },
+    "4c9c60e83bc677257ae23ce9e79ab700129fef5a": {
+      "first_seen": "2026-01-31T23:30:57.152236+00:00",
+      "last_seen": "2026-01-31T23:30:57.152236+00:00",
+      "date": "2026-01-31",
+      "source_id": "bbc_world",
+      "title": "Five killed in gas explosions in Iran, officials say",
+      "link": "https://www.bbc.com/news/articles/cd9ew5p3zvko?at_medium=RSS&at_campaign=rss",
+      "label": "GREEN",
+      "score": 0
+    },
+    "a315155ad708fe95e6c557848c3bc6c3427726fe": {
+      "first_seen": "2026-01-31T23:30:57.226897+00:00",
+      "last_seen": "2026-01-31T23:30:57.226897+00:00",
+      "date": "2026-01-31",
+      "source_id": "bbc_world",
+      "title": "Musk's SpaceX applies to launch 1m satellites into orbit",
+      "link": "https://www.bbc.com/news/articles/cyv5l24mrjmo?at_medium=RSS&at_campaign=rss",
+      "label": "GREEN",
+      "score": 0
+    },
+    "71affd205db17ffc03d4794abb77b28b8a20636c": {
+      "first_seen": "2026-01-31T23:30:57.336756+00:00",
+      "last_seen": "2026-01-31T23:30:57.336756+00:00",
+      "date": "2026-01-31",
+      "source_id": "bbc_world",
+      "title": "Israel eyes regime change in Iran - and is counting on Trump to make it happen",
+      "link": "https://www.bbc.com/news/articles/c78egvpkm77o?at_medium=RSS&at_campaign=rss",
+      "label": "GREEN",
+      "score": 0
+    },
+    "5bd6d27bea7283a6db059089c32fae46c3fd11e4": {
+      "first_seen": "2026-01-31T23:30:57.415416+00:00",
+      "last_seen": "2026-01-31T23:30:57.415416+00:00",
+      "date": "2026-01-31",
+      "source_id": "bbc_world",
+      "title": "US government partially shuts down despite last minute funding deal",
+      "link": "https://www.bbc.com/news/articles/ce8rk33dpvmo?at_medium=RSS&at_campaign=rss",
+      "label": "GREEN",
+      "score": 0
+    },
+    "643b8cd630457b386a7b538417f8f0dfc22f304c": {
+      "first_seen": "2026-01-31T23:30:57.520419+00:00",
+      "last_seen": "2026-01-31T23:30:57.520419+00:00",
+      "date": "2026-01-31",
+      "source_id": "bbc_world",
+      "title": "What we learned - and didn't - from the Melania documentary",
+      "link": "https://www.bbc.com/news/articles/cwy1ed1vgxro?at_medium=RSS&at_campaign=rss",
+      "label": "GREEN",
+      "score": 0
     }
   },
   "telegram": {
