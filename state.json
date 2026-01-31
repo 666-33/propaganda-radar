@@ -9650,6 +9650,96 @@
       "link": "https://www.bbc.com/news/articles/cvgx7ykl12go?at_medium=RSS&at_campaign=rss",
       "label": "GREEN",
       "score": 0
+    },
+    "8c90961903ddc239ce329af7d601191e8d030da3": {
+      "first_seen": "2026-01-31T09:18:02.674498+00:00",
+      "last_seen": "2026-01-31T09:18:02.674498+00:00",
+      "date": "2026-01-31",
+      "source_id": "bbc_world",
+      "title": "What we learned - and didn't - from the Melania documentary",
+      "link": "https://www.bbc.com/news/articles/cwy1ed1vgxro?at_medium=RSS&at_campaign=rss",
+      "label": "GREEN",
+      "score": 0
+    },
+    "37e9dffeaecb1b7a825d790bdd247ff519a3b61b": {
+      "first_seen": "2026-01-31T09:18:02.819111+00:00",
+      "last_seen": "2026-01-31T09:18:02.819111+00:00",
+      "date": "2026-01-31",
+      "source_id": "bbc_world",
+      "title": "US government partially shuts down despite last minute funding deal",
+      "link": "https://www.bbc.com/news/articles/ce8rk33dpvmo?at_medium=RSS&at_campaign=rss",
+      "label": "GREEN",
+      "score": 0
+    },
+    "0caa839e88e48815a7b64ef9370d1303dfd01252": {
+      "first_seen": "2026-01-31T09:18:02.983720+00:00",
+      "last_seen": "2026-01-31T09:18:02.983720+00:00",
+      "date": "2026-01-31",
+      "source_id": "bbc_world",
+      "title": "'A vaccine against murder'? Israel split over return of death penalty",
+      "link": "https://www.bbc.com/news/articles/clymp8v7ye2o?at_medium=RSS&at_campaign=rss",
+      "label": "GREEN",
+      "score": 0
+    },
+    "292ca5a5f051fce0930a2ed06b27a2e8c2a0a6e6": {
+      "first_seen": "2026-01-31T09:18:03.105495+00:00",
+      "last_seen": "2026-01-31T09:18:03.105495+00:00",
+      "date": "2026-01-31",
+      "source_id": "bbc_world",
+      "title": "Canada's Poilievre re-elected Conservative party leader",
+      "link": "https://www.bbc.com/news/articles/c14r1023yy6o?at_medium=RSS&at_campaign=rss",
+      "label": "GREEN",
+      "score": 0
+    },
+    "473d9da7915743633f13cc41b7b8cad66f0356a4": {
+      "first_seen": "2026-01-31T09:18:03.235170+00:00",
+      "last_seen": "2026-01-31T09:18:03.235170+00:00",
+      "date": "2026-01-31",
+      "source_id": "bbc_world",
+      "title": "Trump picks Kevin Warsh to lead the US Federal Reserve",
+      "link": "https://www.bbc.com/news/articles/c2d7yddrl2xo?at_medium=RSS&at_campaign=rss",
+      "label": "GREEN",
+      "score": 0
+    },
+    "b2aa142f34fa298712eae3880e797c0e646b6b3f": {
+      "first_seen": "2026-01-31T09:18:03.393711+00:00",
+      "last_seen": "2026-01-31T09:18:03.393711+00:00",
+      "date": "2026-01-31",
+      "source_id": "bbc_world",
+      "title": "Ukrainians brace for -20C despite energy truce: 'It will be a catastrophe'",
+      "link": "https://www.bbc.com/news/articles/c75xg17rr1xo?at_medium=RSS&at_campaign=rss",
+      "label": "GREEN",
+      "score": 0
+    },
+    "ce6d96aec0663c3330fdf2e13e13908093ae3149": {
+      "first_seen": "2026-01-31T09:18:03.532250+00:00",
+      "last_seen": "2026-01-31T09:18:03.532250+00:00",
+      "date": "2026-01-31",
+      "source_id": "bbc_world",
+      "title": "Stay or go - what's next for coyote that escaped to Alcatraz?",
+      "link": "https://www.bbc.com/news/articles/c0q4y95yv4jo?at_medium=RSS&at_campaign=rss",
+      "label": "GREEN",
+      "score": 0
+    },
+    "0262cc02b6c3a03673a660e7e983dc1d8d5e4bca": {
+      "first_seen": "2026-01-31T09:18:04.423214+00:00",
+      "last_seen": "2026-01-31T09:18:04.423214+00:00",
+      "date": "2026-01-31",
+      "source_id": "bbc_world",
+      "title": "One wrong move and it could all go wrong - the men clearing deadly undersea Russian mines",
+      "link": "https://www.bbc.com/news/articles/c70lgwprw7ko?at_medium=RSS&at_campaign=rss",
+      "label": "GREEN",
+      "score": 0
+    },
+    "60bbe2c79ee37cd98e67e5d854f9ebaa6f1b7c07": {
+      "first_seen": "2026-01-31T09:18:04.570530+00:00",
+      "last_seen": "2026-01-31T09:18:04.570530+00:00",
+      "date": "2026-01-31",
+      "source_id": "bbc_world",
+      "title": "This tiny Australian town is up for sale - but the locals don't want to leave",
+      "link": "https://www.bbc.com/news/articles/c3wz49z6gyyo?at_medium=RSS&at_campaign=rss",
+      "label": "GREEN",
+      "score": 0
     }
   },
   "telegram": {
