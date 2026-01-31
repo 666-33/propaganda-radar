@@ -9740,9 +9740,99 @@
       "link": "https://www.bbc.com/news/articles/c3wz49z6gyyo?at_medium=RSS&at_campaign=rss",
       "label": "GREEN",
       "score": 0
+    },
+    "91273a006128a685d0a2397aaf1b85b271867477": {
+      "first_seen": "2026-01-31T14:25:47.611164+00:00",
+      "last_seen": "2026-01-31T14:25:47.611164+00:00",
+      "date": "2026-01-31",
+      "source_id": "bbc_world",
+      "title": "Pedro Pascal and Meryl Streep lead tributes to Catherine O'Hara",
+      "link": "https://www.bbc.com/news/articles/czejk8pnk82o?at_medium=RSS&at_campaign=rss",
+      "label": "GREEN",
+      "score": 0
+    },
+    "e19c3ce657a90b49dfad05f91bc927c10bd9bd7f": {
+      "first_seen": "2026-01-31T14:25:47.669495+00:00",
+      "last_seen": "2026-01-31T14:25:47.669495+00:00",
+      "date": "2026-01-31",
+      "source_id": "bbc_world",
+      "title": "Israeli air strikes kill at least 27 Palestinians in Gaza, rescue officials say",
+      "link": "https://www.bbc.com/news/articles/c701g1g00gdo?at_medium=RSS&at_campaign=rss",
+      "label": "GREEN",
+      "score": 0
+    },
+    "9a7183a1c411a285aaefbd13c2dabb00d43aed61": {
+      "first_seen": "2026-01-31T14:25:47.768564+00:00",
+      "last_seen": "2026-01-31T14:25:47.768564+00:00",
+      "date": "2026-01-31",
+      "source_id": "bbc_world",
+      "title": "This army chief threatened to castrate opposition leader and claimed descent from Jesus",
+      "link": "https://www.bbc.com/news/articles/cdjnp9m8wvgo?at_medium=RSS&at_campaign=rss",
+      "label": "GREEN",
+      "score": 0
+    },
+    "9b5376bbb87374212d8d9a474fcc2155f53a3955": {
+      "first_seen": "2026-01-31T14:25:47.825634+00:00",
+      "last_seen": "2026-01-31T14:25:47.825634+00:00",
+      "date": "2026-01-31",
+      "source_id": "bbc_world",
+      "title": "More than 200 killed in mine collapse in DR Congo",
+      "link": "https://www.bbc.com/news/articles/cly381dvnvzo?at_medium=RSS&at_campaign=rss",
+      "label": "GREEN",
+      "score": 0
+    },
+    "a8c1bffbe618214a64475eb235fbfff8b56cfc71": {
+      "first_seen": "2026-01-31T14:25:47.889035+00:00",
+      "last_seen": "2026-01-31T14:25:47.889035+00:00",
+      "date": "2026-01-31",
+      "source_id": "bbc_world",
+      "title": "Pokémon cancels event at controversial Japan shrine following backlash",
+      "link": "https://www.bbc.com/news/articles/cdjn0nmnjmwo?at_medium=RSS&at_campaign=rss",
+      "label": "GREEN",
+      "score": 0
+    },
+    "38b3a3f6a8079d3da99876dc1618d8c7af7cc002": {
+      "first_seen": "2026-01-31T14:25:48.176029+00:00",
+      "last_seen": "2026-01-31T14:25:48.176029+00:00",
+      "date": "2026-01-31",
+      "source_id": "bbc_world",
+      "title": "Israel split over plans to bring back death penalty for deadly attacks",
+      "link": "https://www.bbc.com/news/articles/clymp8v7ye2o?at_medium=RSS&at_campaign=rss",
+      "label": "GREEN",
+      "score": 0
+    },
+    "07723b2dce0f5a54ecba8fccf303473eef85c172": {
+      "first_seen": "2026-01-31T14:25:48.247079+00:00",
+      "last_seen": "2026-01-31T14:25:48.247079+00:00",
+      "date": "2026-01-31",
+      "source_id": "bbc_world",
+      "title": "UN risks 'imminent financial collapse', secretary general warns",
+      "link": "https://www.bbc.com/news/articles/cr579mdv4m7o?at_medium=RSS&at_campaign=rss",
+      "label": "GREEN",
+      "score": 0
+    },
+    "a8cd84a98df20195b5cd2b0d3c532d7f7e42556b": {
+      "first_seen": "2026-01-31T14:25:48.308475+00:00",
+      "last_seen": "2026-01-31T14:25:48.308475+00:00",
+      "date": "2026-01-31",
+      "source_id": "bbc_world",
+      "title": "Luigi Mangione will not face death penalty if convicted, judge rules",
+      "link": "https://www.bbc.com/news/articles/c78egdg3r0po?at_medium=RSS&at_campaign=rss",
+      "label": "GREEN",
+      "score": 0
+    },
+    "ff6954bbfbbcf9420475e841253f58e6d3b22228": {
+      "first_seen": "2026-01-31T14:25:48.394157+00:00",
+      "last_seen": "2026-01-31T14:25:48.394157+00:00",
+      "date": "2026-01-31",
+      "source_id": "bbc_world",
+      "title": "Israel eyes regime change in Iran - and is counting on Trump to make it happen",
+      "link": "https://www.bbc.com/news/articles/c78egvpkm77o?at_medium=RSS&at_campaign=rss",
+      "label": "GREEN",
+      "score": 0
     }
   },
   "telegram": {
-    "last_sent_date": "2026-01-30"
+    "last_sent_date": "2026-01-31"
   }
 }
