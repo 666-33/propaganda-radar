@@ -9890,6 +9890,96 @@
       "link": "https://www.bbc.com/news/articles/cwy1ed1vgxro?at_medium=RSS&at_campaign=rss",
       "label": "GREEN",
       "score": 0
+    },
+    "1371922e8482192788244ed42237b768ad776d02": {
+      "first_seen": "2026-02-01T05:06:44.211668+00:00",
+      "last_seen": "2026-02-01T05:06:44.211668+00:00",
+      "date": "2026-02-01",
+      "source_id": "bbc_world",
+      "title": "Rape trial puts Norway's royal family in unwelcome glare of public",
+      "link": "https://www.bbc.com/news/articles/cm2xj3ykpj4o?at_medium=RSS&at_campaign=rss",
+      "label": "GREEN",
+      "score": 0
+    },
+    "ad439349c34c3f4203d2e141c8b1d0d46373ef9a": {
+      "first_seen": "2026-02-01T05:06:44.352160+00:00",
+      "last_seen": "2026-02-01T05:06:44.352160+00:00",
+      "date": "2026-02-01",
+      "source_id": "bbc_world",
+      "title": "Pakistan military says it has killed 92 militants in Balochistan",
+      "link": "https://www.bbc.com/news/articles/cn42nedxqyqo?at_medium=RSS&at_campaign=rss",
+      "label": "GREEN",
+      "score": 0
+    },
+    "37908bf4b37074868a0dc8257566de4937460ab5": {
+      "first_seen": "2026-02-01T05:06:44.515755+00:00",
+      "last_seen": "2026-02-01T05:06:44.515755+00:00",
+      "date": "2026-02-01",
+      "source_id": "bbc_world",
+      "title": "After ICE raids... a once bustling Chicago neighbourhood has changed",
+      "link": "https://www.bbc.com/news/articles/cql4e439g4no?at_medium=RSS&at_campaign=rss",
+      "label": "GREEN",
+      "score": 0
+    },
+    "5fecb1be7ec697205f1c1f6423213b5651e02ea1": {
+      "first_seen": "2026-02-01T05:06:44.717936+00:00",
+      "last_seen": "2026-02-01T05:06:44.717936+00:00",
+      "date": "2026-02-01",
+      "source_id": "bbc_world",
+      "title": "Grammy Awards 2026: How to watch and who will win",
+      "link": "https://www.bbc.com/news/articles/cwy12z197q8o?at_medium=RSS&at_campaign=rss",
+      "label": "GREEN",
+      "score": 0
+    },
+    "d51c7b43a3511a8433e20580b6ed7f959125dc1a": {
+      "first_seen": "2026-02-01T05:06:45.525781+00:00",
+      "last_seen": "2026-02-01T05:06:45.525781+00:00",
+      "date": "2026-02-01",
+      "source_id": "bbc_world",
+      "title": "Pedro Pascal and Meryl Streep lead tributes to Catherine O'Hara",
+      "link": "https://www.bbc.com/news/articles/czejk8pnk82o?at_medium=RSS&at_campaign=rss",
+      "label": "GREEN",
+      "score": 0
+    },
+    "39840c12be78bae435cde5b3944f40648de65f15": {
+      "first_seen": "2026-02-01T05:06:45.674293+00:00",
+      "last_seen": "2026-02-01T05:06:45.674293+00:00",
+      "date": "2026-02-01",
+      "source_id": "bbc_world",
+      "title": "Federal judge denies request to block ICE surge in Minnesota",
+      "link": "https://www.bbc.com/news/articles/c78vgnz3z6eo?at_medium=RSS&at_campaign=rss",
+      "label": "GREEN",
+      "score": 0
+    },
+    "b5c24f34d9c0355b1446b99f8b35bfedcf5e3855": {
+      "first_seen": "2026-02-01T05:06:45.797562+00:00",
+      "last_seen": "2026-02-01T05:06:45.797562+00:00",
+      "date": "2026-02-01",
+      "source_id": "bbc_world",
+      "title": "Musk's SpaceX applies to launch 1m satellites into orbit",
+      "link": "https://www.bbc.com/news/articles/cyv5l24mrjmo?at_medium=RSS&at_campaign=rss",
+      "label": "GREEN",
+      "score": 0
+    },
+    "3fe1845eda47ceb4d1831161733ad8ca7818575d": {
+      "first_seen": "2026-02-01T05:06:45.982174+00:00",
+      "last_seen": "2026-02-01T05:06:45.982174+00:00",
+      "date": "2026-02-01",
+      "source_id": "bbc_world",
+      "title": "More than 200 killed in mine collapse in DR Congo",
+      "link": "https://www.bbc.com/news/articles/cly381dvnvzo?at_medium=RSS&at_campaign=rss",
+      "label": "GREEN",
+      "score": 0
+    },
+    "738a825bca097d067e52e7d14f0d1c2aee3045f2": {
+      "first_seen": "2026-02-01T05:06:46.139709+00:00",
+      "last_seen": "2026-02-01T05:06:46.139709+00:00",
+      "date": "2026-02-01",
+      "source_id": "bbc_world",
+      "title": "The king's speech - and why it has foreigners in South Africa worried",
+      "link": "https://www.bbc.com/news/articles/cd6we3009dgo?at_medium=RSS&at_campaign=rss",
+      "label": "GREEN",
+      "score": 0
     }
   },
   "telegram": {
